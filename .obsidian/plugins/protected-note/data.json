@@ -1,0 +1,12 @@
+{
+  "password": "",
+  "enablePass": false,
+  "animations": true,
+  "fileEncrypt": {
+    "encrypt": false,
+    "isAlreadyEncrypted": false
+  },
+  "autoLock": "0",
+  "folder": "Private",
+  "isLocked": true
+}

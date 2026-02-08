@@ -1,0 +1,546 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Developer",
+        "Καζαλτζής",
+        "Exported image 20260209011545-0.gif",
+        "Private",
+        "Clippings",
+        "Books",
+        "Esdi",
+        "OneNote",
+        "_drawings",
+        "Test"
+      ],
+      "sortOrder": "custom"
+    },
+    "_drawings": {
+      "children": [
+        "_drawings/Drawing 2026-02-08 18.19.28.excalidraw.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Books": {
+      "children": [
+        "Books/OS internals"
+      ],
+      "sortOrder": "custom"
+    },
+    "Books/OS internals": {
+      "children": [
+        "Books/OS internals/Reverse Engineering For Everyone!.md",
+        "Books/OS internals/The Linux Kernel Module Programming Guide.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Clippings": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Developer": {
+      "children": [
+        "Developer/attachments",
+        "Developer/Authentication",
+        "Developer/Css",
+        "Developer/Database",
+        "Developer/Electron",
+        "Developer/Error Responses",
+        "Developer/General",
+        "Developer/Linux",
+        "Developer/sj-project",
+        "Developer/UI"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/attachments": {
+      "children": [
+        "Developer/attachments/Amaze_Services_Prices.pdf",
+        "Developer/attachments/Exported image 20260208235746-0.jpeg",
+        "Developer/attachments/Exported image 20260208235752-0.png",
+        "Developer/attachments/Exported image 20260208235755-1.png",
+        "Developer/attachments/Exported image 20260208235757-2.png",
+        "Developer/attachments/Exported image 20260208235759-3.png",
+        "Developer/attachments/Exported image 20260208235802-4.png",
+        "Developer/attachments/Exported image 20260208235803-5.png",
+        "Developer/attachments/Exported image 20260208235806-6.png",
+        "Developer/attachments/Exported image 20260208235811-7.png",
+        "Developer/attachments/Exported image 20260208235813-8.png",
+        "Developer/attachments/Exported image 20260208235816-0.png",
+        "Developer/attachments/Exported image 20260208235824-0.jpeg",
+        "Developer/attachments/Exported image 20260208235831-0.png",
+        "Developer/attachments/Exported image 20260208235832-1.png",
+        "Developer/attachments/Exported image 20260208235833-2.png",
+        "Developer/attachments/Exported image 20260208235839-0.jpeg",
+        "Developer/attachments/Exported image 20260208235847-0.png",
+        "Developer/attachments/Exported image 20260208235848-1.gif",
+        "Developer/attachments/Exported image 20260208235849-2.gif",
+        "Developer/attachments/Exported image 20260208235851-3.png",
+        "Developer/attachments/Exported image 20260208235852-4.png",
+        "Developer/attachments/Exported image 20260208235854-5.png",
+        "Developer/attachments/Exported image 20260208235858-6.gif",
+        "Developer/attachments/Exported image 20260208235900-7.gif",
+        "Developer/attachments/Exported image 20260208235902-8.png",
+        "Developer/attachments/Exported image 20260208235903-9.gif",
+        "Developer/attachments/Exported image 20260208235905-10.gif",
+        "Developer/attachments/Exported image 20260208235906-11.png",
+        "Developer/attachments/Exported image 20260208235907-12.gif",
+        "Developer/attachments/Exported image 20260208235912-13.gif",
+        "Developer/attachments/Exported image 20260208235913-14.gif",
+        "Developer/attachments/Exported image 20260208235915-15.gif",
+        "Developer/attachments/Exported image 20260208235916-16.gif",
+        "Developer/attachments/Exported image 20260208235918-17.gif",
+        "Developer/attachments/Exported image 20260208235919-18.gif",
+        "Developer/attachments/Exported image 20260208235921-19.png",
+        "Developer/attachments/Exported image 20260208235925-20.gif",
+        "Developer/attachments/Exported image 20260208235926-21.gif",
+        "Developer/attachments/Exported image 20260208235927-22.gif",
+        "Developer/attachments/Exported image 20260208235929-23.gif",
+        "Developer/attachments/Exported image 20260208235940-0.png",
+        "Developer/attachments/Exported image 20260208235944-1.png",
+        "Developer/attachments/Exported image 20260208235945-2.png",
+        "Developer/attachments/Exported image 20260208235946-3.png",
+        "Developer/attachments/Exported image 20260208235947-4.png",
+        "Developer/attachments/Exported image 20260208235948-5.png",
+        "Developer/attachments/Exported image 20260208235951-0.gif",
+        "Developer/attachments/Exported image 20260208235952-1.gif",
+        "Developer/attachments/Exported image 20260208235956-2.gif",
+        "Developer/attachments/Exported image 20260208235957-3.gif",
+        "Developer/attachments/Exported image 20260208235958-4.gif",
+        "Developer/attachments/Exported image 20260209000005-0.jpeg",
+        "Developer/attachments/Exported image 20260209000009-0.jpeg",
+        "Developer/attachments/Exported image 20260209000011-0.png",
+        "Developer/attachments/Exported image 20260209000024-0.png",
+        "Developer/attachments/Exported image 20260209000028-1.png",
+        "Developer/attachments/Exported image 20260209000029-2.png",
+        "Developer/attachments/Exported image 20260209000031-0.png",
+        "Developer/attachments/Exported image 20260209000033-1.png",
+        "Developer/attachments/Exported image 20260209000036-0.jpeg",
+        "Developer/attachments/Exported image 20260209000040-0.png",
+        "Developer/attachments/Exported image 20260209000053-3.png",
+        "Developer/attachments/Exported image 20260209000055-0.png",
+        "Developer/attachments/Exported image 20260209000101-0.png",
+        "Developer/attachments/Συνημμένο.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Authentication": {
+      "children": [
+        "Developer/Authentication/JSON Web Token (JWT) explained",
+        "Developer/Authentication/A Guide to Cookie-Based and Session-Based Authentication.md",
+        "Developer/Authentication/Ente Auth - Open source 2FA authenticator, with E2EE backups.md",
+        "Developer/Authentication/Your Architecture Cheat Sheet to API Design Styles  HackerNoon.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Authentication/JSON Web Token (JWT) explained": {
+      "children": [
+        "Developer/Authentication/JSON Web Token (JWT) explained/JSON Web Token (JWT) explained.md",
+        "Developer/Authentication/JSON Web Token (JWT) explained/JWT Middleware.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Css": {
+      "children": [
+        "Developer/Css/How not to use box shadows.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Database": {
+      "children": [
+        "Developer/Database/Dbeaver Diagram connections.md",
+        "Developer/Database/Maciej Walkowiak  PostgreSQL and UUID as primary key.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Electron": {
+      "children": [
+        "Developer/Electron/Electron with react.md",
+        "Developer/Electron/The Ultimate Guide to Electron with React  by Aditya Patnaik  FOLK Developers  Medium.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Error Responses": {
+      "children": [
+        "Developer/Error Responses/Best Practices for API Error Handling.md",
+        "Developer/Error Responses/Choosing an HTTP Status Code — Stop Making It Hard.md",
+        "Developer/Error Responses/REST API error handling - IBM Documentation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/General": {
+      "children": [
+        "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)",
+        "Developer/General/Anyone can Access Deleted and Private Repository Data on GitHub ◆ Truffle Security Co.md",
+        "Developer/General/ChatGPT Codex.md",
+        "Developer/General/cuda-Add nvidia runtime to docker runtimes.md",
+        "Developer/General/The HTTP2 protocol.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)": {
+      "children": [
+        "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 1 (Push API).md",
+        "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 2 (Requesting Delivery).md",
+        "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 3 (Replacing Messages & Urgency).md",
+        "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 4 (Queueing requesting delivery in background).md",
+        "Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 5 (Special Cases).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/Linux": {
+      "children": [
+        "Developer/Linux/Linux directory map.md",
+        "Developer/Linux/Linux syscall table latest, x86 64-bit, x86-64 ABI.md",
+        "Developer/Linux/The Linux Filesystem Explained - Linux.com.md",
+        "Developer/Linux/The UNIX Filesystem Commands.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/sj-project": {
+      "children": [
+        "Developer/sj-project/Amaze_Services_Prices.md",
+        "Developer/sj-project/Diagrams.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Developer/UI": {
+      "children": [
+        "Developer/UI/Frame0  Sketch your app ideas without hassle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi": {
+      "children": [
+        "Esdi/develop-tasks",
+        "Esdi/esdi-pages",
+        "Esdi/esdi-clerks",
+        "Esdi/Attachments"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/Attachments": {
+      "children": [
+        "Esdi/Attachments/Exported image 20260208221420-2.png",
+        "Esdi/Attachments/Exported image 20260208221419-1.png",
+        "Esdi/Attachments/Exported image 20260208221418-0.png",
+        "Esdi/Attachments/Exported image 20260208221411-0.png",
+        "Esdi/Attachments/Exported image 20260208221406-2.png",
+        "Esdi/Attachments/Exported image 20260208221405-1.png",
+        "Esdi/Attachments/Exported image 20260208221404-0.png",
+        "Esdi/Attachments/Exported image 20260208221358-2.png",
+        "Esdi/Attachments/Exported image 20260208221356-1.png",
+        "Esdi/Attachments/Exported image 20260208221355-0.png",
+        "Esdi/Attachments/Exported image 20260208221350-1.png",
+        "Esdi/Attachments/Exported image 20260208221348-0.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/develop-tasks": {
+      "children": [
+        "Esdi/develop-tasks/esdi-sample-data"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/develop-tasks/esdi-sample-data": {
+      "children": [
+        "Esdi/develop-tasks/esdi-sample-data/assets"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/develop-tasks/esdi-sample-data/assets": {
+      "children": [
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita": {
+      "children": [
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230400-32.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230359-31.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230358-30.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230356-29.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230355-28.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230350-27.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230349-26.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230348-25.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230347-24.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230345-23.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230344-22.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230343-21.png",
+        "Esdi/develop-tasks/esdi-sample-data/assets/_Taytotita/Exported image 20260208230339-20.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/esdi-clerks": {
+      "children": [
+        "Esdi/esdi-clerks/2023.md",
+        "Esdi/esdi-clerks/2025"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/esdi-clerks/2025": {
+      "children": [
+        "Esdi/esdi-clerks/2025/Special Court search Competition.md",
+        "Esdi/esdi-clerks/2025/Judges Requirements.md",
+        "Esdi/esdi-clerks/2025/Reports.md",
+        "Esdi/esdi-clerks/2025/Clerks Requirements.md",
+        "Esdi/esdi-clerks/2025/2025.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Esdi/esdi-pages": {
+      "children": [
+        "Esdi/esdi-pages/Untitled-20230608.md",
+        "Esdi/esdi-pages/2025.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote": {
+      "children": [
+        "OneNote/Interests"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests": {
+      "children": [
+        "OneNote/Interests/Assembly Script",
+        "OneNote/Interests/Attachments",
+        "OneNote/Interests/Authentication",
+        "OneNote/Interests/Cryptography",
+        "OneNote/Interests/Music",
+        "OneNote/Interests/Physics",
+        "OneNote/Interests/Quantum computing",
+        "OneNote/Interests/Βιβλία",
+        "OneNote/Interests/Βότανα",
+        "OneNote/Interests/Θρησκευτικά",
+        "OneNote/Interests/Ιστορία",
+        "OneNote/Interests/AI"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI": {
+      "children": [
+        "OneNote/Interests/AI/Courses",
+        "OneNote/Interests/AI/General",
+        "OneNote/Interests/AI/Linear Algebra",
+        "OneNote/Interests/AI/Models",
+        "OneNote/Interests/AI/Algorithms"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/Algorithms": {
+      "children": [
+        "OneNote/Interests/AI/Algorithms/Model compression",
+        "OneNote/Interests/AI/Algorithms/Adversarial Machine Learning meets Inpainting.md",
+        "OneNote/Interests/AI/Algorithms/How to Build an AI-Powered Web Application With Next.js and TensorFlow.js A Guide  HackerNoon.md",
+        "OneNote/Interests/AI/Algorithms/MachineLearningAlgorithms Cource Mind map.md",
+        "OneNote/Interests/AI/Algorithms/ml_performance_improvement_cheatsheet.md",
+        "OneNote/Interests/AI/Algorithms/Πως να φτιάξετε ένα chatbot για τα έγγραφα σας με το μοντέλο GPT  WebZein.md",
+        "OneNote/Interests/AI/Algorithms/Machine learning"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/Algorithms/Machine learning": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/Algorithms/Model compression": {
+      "children": [
+        "OneNote/Interests/AI/Algorithms/Model compression/Distilling the Knowledge in a Neural Network.md",
+        "OneNote/Interests/AI/Algorithms/Model compression/Model compression.md",
+        "OneNote/Interests/AI/Algorithms/Model compression/Scaling Laws for Neural Language Models.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/Courses": {
+      "children": [
+        "OneNote/Interests/AI/Courses/Coursera - Generative AI with Large Language Models.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/General": {
+      "children": [
+        "OneNote/Interests/AI/General/_General notes.md",
+        "OneNote/Interests/AI/General/_General notes - Ink.svg",
+        "OneNote/Interests/AI/General/AGENTIC AI.md",
+        "OneNote/Interests/AI/General/Apple paper.md",
+        "OneNote/Interests/AI/General/Chain-of-Thought.md",
+        "OneNote/Interests/AI/General/Difference Between Algorithm and Model in Machine Learning - MachineLearningMastery.com.md",
+        "OneNote/Interests/AI/General/Gmail digest.md",
+        "OneNote/Interests/AI/General/News-Ideas.md",
+        "OneNote/Interests/AI/General/The AI Renaissance How Machines are Transforming Art, Music, and Literature  HackerNoon.md",
+        "OneNote/Interests/AI/General/The AI tools that helped define 2024.md",
+        "OneNote/Interests/AI/General/Αλγόριθμοι και Μοντέλα στην Τεχνητή Νοημοσύνη.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/Linear Algebra": {
+      "children": [
+        "OneNote/Interests/AI/Linear Algebra/Book basic of Linear Algebra.md",
+        "OneNote/Interests/AI/Linear Algebra/Statistical machine learning.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/AI/Models": {
+      "children": [
+        "OneNote/Interests/AI/Models/FLAN paper.md",
+        "OneNote/Interests/AI/Models/FourthBrain LLM.md",
+        "OneNote/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
+        "OneNote/Interests/AI/Models/How to choose the right AI model.md",
+        "OneNote/Interests/AI/Models/https--hackernoon.com-from-data-silos-to-intelligent-systems-rag-and-knowledge-graph-synergy.md",
+        "OneNote/Interests/AI/Models/https--www.perplexity.ai-page-what-is-chain-of-thought-promp-JtoLvuAnTpmuW0W2xewHjw.md",
+        "OneNote/Interests/AI/Models/Representation MERLOT.md",
+        "OneNote/Interests/AI/Models/SatCLIP paper.md",
+        "OneNote/Interests/AI/Models/Synthetic Intelligence Beyond A.I. and Robotics.md",
+        "OneNote/Interests/AI/Models/TPU-KNN paper.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Assembly Script": {
+      "children": [
+        "OneNote/Interests/Assembly Script/https--www.assemblyscript.org.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Attachments": {
+      "children": [
+        "OneNote/Interests/Attachments/quantum-software-development.png",
+        "OneNote/Interests/Attachments/rC4eKu5DhiDDMkXAH85FJV.jpg",
+        "OneNote/Interests/Attachments/Untitled picture.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Authentication": {
+      "children": [
+        "OneNote/Interests/Authentication/General.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Cryptography": {
+      "children": [
+        "OneNote/Interests/Cryptography/General.md",
+        "OneNote/Interests/Cryptography/Introducing Private Transactions On Ethereum NOW!  by Tornado Cash  Medium.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Music": {
+      "children": [
+        "OneNote/Interests/Music/Software to check.md",
+        "OneNote/Interests/Music/Strudel.md",
+        "OneNote/Interests/Music/Βασικές γνώσεις μουσικής.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Physics": {
+      "children": [
+        "OneNote/Interests/Physics/The standard model Beyond the Atom.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Quantum computing": {
+      "children": [
+        "OneNote/Interests/Quantum computing/Einstein Relatively Easy - Quantum Mechanics.md",
+        "OneNote/Interests/Quantum computing/Quantum software development using the QDK - Q Blog.md",
+        "OneNote/Interests/Quantum computing/Time complexity - Wikipedia.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Βιβλία": {
+      "children": [
+        "OneNote/Interests/Βιβλία/Για να δω.md",
+        "OneNote/Interests/Βιβλία/Επιλογές για Ελλάδα.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Βότανα": {
+      "children": [
+        "OneNote/Interests/Βότανα/Ασθένειες.md",
+        "OneNote/Interests/Βότανα/Βότανα.md",
+        "OneNote/Interests/Βότανα/Δείτε το κάθε βότανο σε ποια πάθηση συμβάλλει (αναλυτικός οδηγός).md",
+        "OneNote/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
+        "OneNote/Interests/Βότανα/Πλήρης Οδηγός Φαρμακευτικών Βοτάνων  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Θρησκευτικά": {
+      "children": [
+        "OneNote/Interests/Θρησκευτικά/Διάφορα.md",
+        "OneNote/Interests/Θρησκευτικά/Ιερές ακολουθίες.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "OneNote/Interests/Ιστορία": {
+      "children": [
+        "OneNote/Interests/Ιστορία/Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973).html"
+      ],
+      "sortOrder": "custom"
+    },
+    "Private": {
+      "children": [
+        "Private/assets",
+        "Private/Πλαγιάρι"
+      ],
+      "sortOrder": "custom"
+    },
+    "Private/assets": {
+      "children": [
+        "Private/assets/Exported image 20260208231008-0.png",
+        "Private/assets/Exported image 20260208231011-1.png",
+        "Private/assets/Exported image 20260208231014-2.png",
+        "Private/assets/Exported image 20260208231016-3.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Private/Πλαγιάρι": {
+      "children": [
+        "Private/Πλαγιάρι/Εξόφληση.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Test": {
+      "children": [
+        "Test/Plugins to install.md",
+        "Test/Welcome.md",
+        "Test/Zettelkasten.md",
+        "Test/Perplexity.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Καζαλτζής": {
+      "children": [
+        "Καζαλτζής/Attachments",
+        "Καζαλτζής/ti-soft",
+        "Καζαλτζής/Διάφορα",
+        "Καζαλτζής/Έργα"
+      ],
+      "sortOrder": "custom"
+    },
+    "Καζαλτζής/Attachments": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Καζαλτζής/ti-soft": {
+      "children": [
+        "Καζαλτζής/ti-soft/Πίνακας πυκνωτών διόρθωσης συνφ.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Καζαλτζής/Διάφορα": {
+      "children": [
+        "Καζαλτζής/Διάφορα/Βαθμός προστασίας IP κώδικας » GeoV Solutions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Καζαλτζής/Έργα": {
+      "children": [
+        "Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ.pdf",
+        "Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου.pdf"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "alphabetical",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

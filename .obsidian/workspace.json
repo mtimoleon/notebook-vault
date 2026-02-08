@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "9aaea94abae46692",
+    "type": "split",
+    "children": [
+      {
+        "id": "177bc3fd2fa8977c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9fc4bb95e99b6f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/Interests/AI/Algorithms/MachineLearningAlgorithms Cource Mind map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MachineLearningAlgorithms Cource Mind map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95276d02d69bb9fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed74d67246a6ccc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f834d67aedd82d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ffe8bc52934b1eff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3aa72244326d278",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "ed3f7e0552712392",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cee5bdb12ecd31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349422fd7dc42d3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Developer/General/ChatGPT Codex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ChatGPT Codex"
+            }
+          },
+          {
+            "id": "1d708f68224bc335",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Developer/General/ChatGPT Codex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ChatGPT Codex"
+            }
+          },
+          {
+            "id": "30d8cea00f6edac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1829ed67a98fe521",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43b65ca38b37f2a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Developer/General/ChatGPT Codex.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ChatGPT Codex"
+            }
+          },
+          {
+            "id": "031e2a453ae393a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Developer/General/ChatGPT Codex.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for ChatGPT Codex"
+            }
+          },
+          {
+            "id": "84a9d606001eb845",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Developer/General/ChatGPT Codex.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1114442bb95cf4fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8b8a265069ca66",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6cca100229a19d30",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "d9fc4bb95e99b6f3",
+  "lastOpenFiles": [
+    "OneNote/Interests/AI/Algorithms/MachineLearningAlgorithms Cource Mind map.md",
+    "Καζαλτζής/ti-soft/Πίνακας πυκνωτών διόρθωσης συνφ.md",
+    "OneNote/Interests/Music/Βασικές γνώσεις μουσικής.md",
+    "OneNote/Interests/Music/Strudel.md",
+    "OneNote/Interests/Music/Software to check.md",
+    "OneNote/Interests/Θρησκευτικά/Διάφορα.md",
+    "Developer/General/ChatGPT Codex.md",
+    "OneNote/Interests/Θρησκευτικά/Ιερές ακολουθίες.md",
+    "Private/Πλαγιάρι/Εξόφληση.md",
+    "OneNote/Interests/Βότανα/Πλήρης Οδηγός Φαρμακευτικών Βοτάνων  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
+    "OneNote/Interests/Βότανα/Δείτε το κάθε βότανο σε ποια πάθηση συμβάλλει (αναλυτικός οδηγός).md",
+    "OneNote/Interests/Βιβλία/Επιλογές για Ελλάδα.md",
+    "OneNote/Interests/Βιβλία/Για να δω.md",
+    "OneNote/Interests/AI/Algorithms/How to Build an AI-Powered Web Application With Next.js and TensorFlow.js A Guide  HackerNoon.md",
+    "OneNote/Interests/Attachments/Untitled picture.png",
+    "Exported image 20260209011545-0.gif",
+    "OneNote/Interests/Ιστορία/Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973).md",
+    "OneNote/Interests/Ιστορία/Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973).html",
+    "OneNote/Interests/Physics/The standard model Beyond the Atom.md",
+    "OneNote/Interests/Attachments/rC4eKu5DhiDDMkXAH85FJV.jpg",
+    "attachments",
+    "OneNote/Interests/Assembly Script/https--www.assemblyscript.org.md",
+    "OneNote/Interests/Ionic/Ionic Webinar Identity Vault All-in-one Biometrics Solution.md",
+    "_drawings/Drawing 2026-02-08 18.19.28.excalidraw.md",
+    "Esdi/esdi-clerks/2023.md",
+    "OneNote/Interests/Quantum computing/Einstein Relatively Easy - Quantum Mechanics.md",
+    "OneNote/Interests/Attachments/quantum-software-development.png",
+    "Developer/Electron/The Ultimate Guide to Electron with React  by Aditya Patnaik  FOLK Developers  Medium.md",
+    "OneNote/Interests/Quantum computing/Time complexity - Wikipedia.md",
+    "16.md",
+    "OneNote/Interests/Quantum computing/Quantum software development using the QDK - Q Blog.md",
+    "Clippings/Einstein Relatively Easy - Quantum Mechanics.md",
+    "OneNote/Interests/Ιστορία",
+    "OneNote/Interests/Θρησκευτικά",
+    "OneNote/Interests/Βότανα",
+    "OneNote/Interests/Βιβλία",
+    "OneNote/Interests/Time Series Database",
+    "OneNote/Interests/Quantum computing",
+    "OneNote/Interests/AI/Models",
+    "OneNote/Interests/AI/Linear Algebra",
+    "OneNote/Interests/AI/General/_General notes - Ink.svg",
+    "OneNote/Interests/AI/Algorithms/Machine learning/Data science - Ink.svg",
+    "OneNote/Interests/AI/Algorithms/Google AI - Ink.svg",
+    "Exported image 20260209010145-0.jpeg",
+    "OneNote/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ - Ink.svg",
+    "OneNote/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ (1)/20211116_ΑΓ_ΑΚΑΚΙΟΣ (1)_2.png",
+    "Test/Untitled 1.canvas",
+    "Test/attachements/batch-c-0-deps.canvas",
+    "Test/Untitled/Untitled.canvas"
+  ]
+}

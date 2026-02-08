@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "readableLineLength": true
+}
