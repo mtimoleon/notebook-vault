@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973)</title>
+<style>
+  :root{
+    --bg:#0f172a;           /* slate-900 */
+    --fg:#e5e7eb;           /* gray-200 */
+    --muted:#94a3b8;        /* slate-400 */
+    --grid:#1f2937;         /* gray-800 */
+    --bavaria:#60a5fa;      /* Otto */
+    --glucksburg:#34d399;   /* Γκλύξμπουργκ */
+    --republic:#f59e0b;     /* Α' Δημοκρατία */
+    --junta:#ef4444;        /* δικτατορία ένδειξη */
+    --exile:#a78bfa;        /* εξορία ένδειξη */
+    --card:#111827;         /* bg for PM cards */
+    --accent:#22d3ee;       /* cyan */
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; padding:32px 20px; font:16px/1.5 system-ui,Segoe UI,Roboto,Arial,sans-serif;
+    background:var(--bg); color:var(--fg);
+  }
+  h1{font-size:clamp(22px,2.6vw,34px); margin:0 0 10px}
+  p.lead{margin:0 0 22px; color:var(--muted)}
+  .wrap{max-width:1200px; margin:0 auto}
+  .scale{
+    position:relative; margin:18px 0 8px; height:28px; background:linear-gradient(transparent 22px, var(--grid) 22px, var(--grid) 23px, transparent 23px);
+  }
+  .scale .tick{
+    position:absolute; top:0; height:22px; width:1px; background:var(--grid)
+  }
+  .scale .label{
+    position:absolute; top:24px; transform:translateX(-50%); font-size:12px; color:var(--muted)
+  }
+
+  .timeline{
+    display:flex; gap:6px; padding:10px; border:1px solid var(--grid); border-radius:12px; background:#0b1220;
+    box-shadow:0 0 0 1px rgba(255,255,255,0.02) inset;
+  }
+  .seg{
+    display:flex; flex-direction:column; justify-content:space-between; min-width:40px;
+    border-radius:8px; padding:10px; position:relative; overflow:hidden;
+  }
+  .seg small.range{color:#0b1220; opacity:.85; font-weight:700; letter-spacing:.2px}
+  .seg .who{font-weight:700}
+  .seg[data-kind="bavaria"]{background:linear-gradient(180deg,var(--bavaria),#2563eb)}
+  .seg[data-kind="glucksburg"]{background:linear-gradient(180deg,var(--glucksburg),#059669)}
+  .seg[data-kind="republic"]{background:linear-gradient(180deg,var(--republic),#d97706)}
+  .badge{
+    position:absolute; right:8px; top:8px; font-size:11px; padding:2px 6px; border-radius:999px; font-weight:700; backdrop-filter:blur(4px);
+    color:#0b1220
+  }
+  .badge.junta{background:var(--junta)}
+  .badge.exile{background:var(--exile)}
+  .legend{display:flex; gap:14px; align-items:center; margin:14px 0 22px}
+  .dot{width:12px; height:12px; border-radius:50%}
+  .pm-grid{
+    display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:14px;
+    margin-top:22px;
+  }
+  .pm-card{
+    background:var(--card); border:1px solid var(--grid); border-radius:12px; padding:14px;
+  }
+  .pm-card h3{margin:0 0 6px; font-size:16px}
+  .pm-card .period{color:var(--muted); font-size:13px; margin-bottom:8px}
+  .pm-card ul{margin:0; padding-left:18px}
+  a.note{color:var(--accent); text-decoration:none}
+  a.note:hover{text-decoration:underline}
+  footer{margin-top:20px; color:var(--muted); font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973)</h1>
+  <p class="lead">Χρωματική διάκριση ανά περίοδο: Βαυαροί (Όθων), Γκλύξμπουργκ, Α' Ελληνική Δημοκρατία. Σημειώνονται <b>εξορία</b> και <b>δικτατορία</b> όπου εφαρμόζεται.</p>
+
+  <!-- Χρονική κλίμακα (ενδεικτικές χρονοσημάνσεις) -->
+  <div class="scale" aria-hidden="true">
+    <!-- 1832 (0%), 1863 (21.8%), 1913 (57.0%), 1924 (64.8%), 1935 (72.5%), 1947 (80.3%), 1964 (92.3%), 1973 (98.6%) -->
+    <div class="tick" style="left:0%"></div><div class="label" style="left:0%">1832</div>
+    <div class="tick" style="left:21.8%"></div><div class="label" style="left:21.8%">1863</div>
+    <div class="tick" style="left:57%"></div><div class="label" style="left:57%">1913</div>
+    <div class="tick" style="left:64.8%"></div><div class="label" style="left:64.8%">1924</div>
+    <div class="tick" style="left:72.5%"></div><div class="label" style="left:72.5%">1935</div>
+    <div class="tick" style="left:80.3%"></div><div class="label" style="left:80.3%">1947</div>
+    <div class="tick" style="left:92.3%"></div><div class="label" style="left:92.3%">1964</div>
+    <div class="tick" style="left:98.6%"></div><div class="label" style="left:98.6%">1973</div>
+  </div>
+
+  <!-- Timeline: τα πλάτη είναι αναλογικά (flex-grow = έτη) -->
+  <div class="timeline" role="list" aria-label="Χρονοδιάγραμμα 1832–1973">
+    <section class="seg" role="listitem" data-kind="bavaria" style="flex:30">
+      <div class="who">Όθων</div>
+      <small class="range">1832–1862</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:50">
+      <div class="who">Γεώργιος Α΄</div>
+      <small class="range">1863–1913</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:4">
+      <div class="who">Κωνσταντίνος Α΄</div>
+      <small class="range">1913–1917</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:3">
+      <div class="who">Αλέξανδρος Α΄</div>
+      <small class="range">1917–1920</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:2">
+      <div class="who">Κωνσταντίνος Α΄</div>
+      <small class="range">1920–1922</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:2">
+      <div class="who">Γεώργιος Β΄</div>
+      <small class="range">1922–1924</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="republic" style="flex:11">
+      <div class="who">Α΄ Ελληνική Δημοκρατία</div>
+      <small class="range">1924–1935</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:12">
+      <div class="who">Γεώργιος Β΄</div>
+      <small class="range">1935–1947</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:17">
+      <div class="who">Παύλος Α΄</div>
+      <small class="range">1947–1964</small>
+    </section>
+
+    <section class="seg" role="listitem" data-kind="glucksburg" style="flex:9">
+      <div class="who">Κωνσταντίνος Β΄</div>
+      <small class="range">1964–1973</small>
+      <span class="badge exile" title="Εξορία μετά την απόπειρα αντιπραξικοπήματος (Δεκ. 1967)">Εξορία 1967–1973</span>
+      <span class="badge junta" style="top:34px" title="Δικτατορία (Απρ. 1967–Ιούλ. 1974)">Χούντα 1967–1974</span>
+    </section>
+  </div>
+
+  <div class="legend">
+    <span class="dot" style="background:var(--bavaria)"></span> Βαυαροί (Όθων)
+    <span class="dot" style="background:var(--glucksburg)"></span> Γκλύξμπουργκ
+    <span class="dot" style="background:var(--republic)"></span> Α΄ Ελληνική Δημοκρατία
+    <span class="dot" style="background:var(--junta)"></span> Δικτατορία
+    <span class="dot" style="background:var(--exile)"></span> Εξορία Βασιλέως
+  </div>
+
+  <!-- Κάρτες Πρωθυπουργών ανά περίοδο -->
+  <div class="pm-grid" aria-label="Κύριοι Πρωθυπουργοί ανά περίοδο">
+    <article class="pm-card">
+      <h3>Όθων</h3>
+      <div class="period">1832–1862</div>
+      <ul>
+        <li>Ιωάννης Κωλέττης</li>
+        <li>Ανδρέας Μεταξάς</li>
+        <li>Κωνσταντίνος Κανάρης</li>
+        <li>Αλέξανδρος Μαυροκορδάτος</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Γεώργιος Α΄</h3>
+      <div class="period">1863–1913</div>
+      <ul>
+        <li>Αλέξανδρος Κουμουνδούρος</li>
+        <li>Χαρίλαος Τρικούπης</li>
+        <li>Θεόδωρος Δηλιγιάννης</li>
+        <li>Ελευθέριος Βενιζέλος (1910–1912)</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Κωνσταντίνος Α΄</h3>
+      <div class="period">1913–1917, 1920–1922</div>
+      <ul>
+        <li>Ελευθέριος Βενιζέλος</li>
+        <li>Αλέξανδρος Ζαΐμης</li>
+        <li>Δημήτριος Γούναρης</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Αλέξανδρος Α΄</h3>
+      <div class="period">1917–1920</div>
+      <ul>
+        <li>Ελευθέριος Βενιζέλος</li>
+        <li>Δημήτριος Ράλλης</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Γεώργιος Β΄</h3>
+      <div class="period">1922–1924</div>
+      <ul>
+        <li>Στυλιανός Γονατάς</li>
+        <li>Νικόλαος Πλαστήρας</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Α΄ Ελληνική Δημοκρατία</h3>
+      <div class="period">1924–1935</div>
+      <ul>
+        <li>Αλέξανδρος Παπαναστασίου</li>
+        <li>Γεώργιος Κονδύλης</li>
+        <li>Ελευθέριος Βενιζέλος</li>
+        <li>Παναγής Τσαλδάρης</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Γεώργιος Β΄</h3>
+      <div class="period">1935–1947</div>
+      <ul>
+        <li>Ιωάννης Μεταξάς (καθεστώς 4ης Αυγούστου)</li>
+        <li>Εμμανουήλ Τσουδερός (εξόριστη κυβέρνηση)</li>
+        <li>Θεμιστοκλής Σοφούλης</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Παύλος Α΄</h3>
+      <div class="period">1947–1964</div>
+      <ul>
+        <li>Θεμιστοκλής Σοφούλης</li>
+        <li>Αλέξανδρος Παπάγος</li>
+        <li>Κωνσταντίνος Καραμανλής</li>
+      </ul>
+    </article>
+
+    <article class="pm-card">
+      <h3>Κωνσταντίνος Β΄</h3>
+      <div class="period">1964–1973</div>
+      <ul>
+        <li>Γεώργιος Παπανδρέου</li>
+        <li>Στέφανος Στεφανόπουλος</li>
+        <li>Παναγιώτης Κανελλόπουλος</li>
+        <li>Γεώργιος Παπαδόπουλος (δικτατορία)</li>
+      </ul>
+    </article>
+  </div>
+
+  <footer>
+    Σημ.: Το 1973 η χούντα κατήργησε τη μοναρχία. Το δημοψήφισμα της 8 Δεκεμβρίου 1974 επικύρωσε την Κοινοβουλευτική Δημοκρατία.
+  </footer>
+</div>
+</body>
+</html>

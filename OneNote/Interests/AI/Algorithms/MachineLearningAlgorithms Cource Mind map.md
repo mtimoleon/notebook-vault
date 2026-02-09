@@ -1,0 +1,2 @@
+Clipped from: [https://machinelearningmastery.com/wp-content/uploads/2021/03/MachineLearningAlgorithms.jpg?__s=srkra4ut2terwtcpx5up&utm_source=drip&utm_medium=email&utm_campaign=MMLA+Mini-Course&utm_content=Machine+Learning+Algorithms+Mind-Map+and+Mini-Course](https://machinelearningmastery.com/wp-content/uploads/2021/03/MachineLearningAlgorithms.jpg?__s=srkra4ut2terwtcpx5up&utm_source=drip&utm_medium=email&utm_campaign=MMLA+Mini-Course&utm_content=Machine+Learning+Algorithms+Mind-Map+and+Mini-Course)
+ ![Exported image](Exported%20image%2020260209130234-0.png)
