@@ -10,8 +10,11 @@
     "highTextContrast": false
   },
   "knownTags": {
+    "005bb5": 1,
+    "0070f3": 2,
     "clippings": 1,
     "excalidraw": 2,
+    "important": 3,
     "prompts": 3
   },
   "tagColors": {},
