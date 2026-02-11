@@ -5,8 +5,6 @@ filters:
 properties:
   file.name:
     displayName: Company
-  property.url:
-    displayName: Link
   note.url:
     displayName: URL
   note.people:

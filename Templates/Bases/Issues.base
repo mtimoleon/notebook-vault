@@ -1,0 +1,74 @@
+filters:
+  and:
+    - or:
+        - categories.contains(link("Issues"))
+        - file.path.contains("Notes/Intelligen/Current/")
+        - file.path.contains("Notes/Intelligen/Gantt/")
+        - file.path.contains("Notes/Intelligen/Keycloak/")
+        - file.path.contains("Notes/Auth/Current/")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Issue
+  file.path:
+    displayName: Path
+  note.created:
+    displayName: Created
+  note.status:
+    displayName: Status
+  note.org:
+    displayName: Org
+  note.product:
+    displayName: Product
+  note.component:
+    displayName: Component
+  note.ticket:
+    displayName: Ticket
+views:
+  - type: table
+    name: Recent
+    order:
+      - file.name
+      - ticket
+      - status
+      - org
+      - product
+      - component
+      - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 200
+  - type: table
+    name: Intelligen
+    filters:
+      and:
+        - file.path.contains("Notes/Intelligen/")
+    order:
+      - file.name
+      - ticket
+      - status
+      - product
+      - component
+      - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 200
+  - type: table
+    name: Keycloak
+    filters:
+      and:
+        - file.tags.contains("Notes/Intelligen/Keycloak/")
+    order:
+      - file.name
+      - ticket
+      - status
+      - component
+      - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 200
+  - type: table
+    name: Fluidence Gantt

@@ -1,0 +1,272 @@
+{
+  "workspaces": {
+    "Current-workspace": {
+      "main": {
+        "id": "9aaea94abae46692",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4213a460b8bdad5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e3f451fc60b67a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current/2026-02-11.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-02-11"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "95276d02d69bb9fb",
+        "type": "split",
+        "children": [
+          {
+            "id": "ed74d67246a6ccc1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6f834d67aedd82d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ffe8bc52934b1eff",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "b3aa72244326d278",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 384.5
+      },
+      "right": {
+        "id": "ed3f7e0552712392",
+        "type": "split",
+        "children": [
+          {
+            "id": "3cee5bdb12ecd31b",
+            "type": "tabs",
+            "dimension": 37.7541142303969,
+            "children": [
+              {
+                "id": "349422fd7dc42d3b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "_current/Drawing 2026-02-10 10.15.10.excalidraw.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Drawing 2026-02-10 10.15.10.excalidraw"
+                }
+              },
+              {
+                "id": "1d708f68224bc335",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Current/2026-02-11.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2026-02-11"
+                }
+              },
+              {
+                "id": "30d8cea00f6edac2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "1829ed67a98fe521",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "031e2a453ae393a2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Notes/Developer/Linux/The UNIX Filesystem Commands.md"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-info",
+                  "title": "File properties for The UNIX Filesystem Commands"
+                }
+              },
+              {
+                "id": "84a9d606001eb845",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {
+                    "file": "_current/Drawing 2026-02-10 10.15.10.excalidraw.md"
+                  },
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "c159d314176b7de8",
+            "type": "tabs",
+            "dimension": 34.36592449177154,
+            "children": [
+              {
+                "id": "43b65ca38b37f2a8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Current/2026-02-11.md",
+                    "followCursor": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2026-02-11"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1114442bb95cf4fa",
+            "type": "tabs",
+            "dimension": 27.879961277831562,
+            "children": [
+              {
+                "id": "4a8b8a265069ca66",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "6cca100229a19d30",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 397.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Open today's daily note": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "bases:Create new base": false,
+          "graph:Open graph view": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "obsidian-importer:Open Importer": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "b3aa72244326d278",
+      "mtime": "2026-02-11T21:43:33+02:00"
+    }
+  },
+  "active": "Current-workspace"
+}

@@ -1,10 +1,13 @@
 ---
 categories:
-  - "[[Companies]]"
-type:
-  - Software
+  - "[[Software]]"
+maker: []
+genre: []
+year:
+rating:
+last:
+created: {{date}}
+tags: []
 ---
 
-## Software
-
-![[Software.base#Company]]
+## Notes

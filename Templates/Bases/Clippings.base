@@ -1,0 +1,34 @@
+﻿filters:
+  and:
+    - or:
+        - categories.contains(link("Clippings"))
+        - file.path.contains("Notes/Developer/")
+        - file.path.contains("Notes/Interests/")
+        - file.path.contains("Clippings/")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Note
+  file.path:
+    displayName: Path
+  note.url:
+    displayName: URL
+  note.created:
+    displayName: Created
+  note.tags:
+    displayName: Tags
+  note.categories:
+    displayName: Categories
+views:
+  - type: table
+    name: Clippings
+    order:
+      - file.name
+      - url
+      - file.path
+      - categories
+      - tags
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 200

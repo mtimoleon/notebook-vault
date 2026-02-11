@@ -10,10 +10,9 @@ tags:
   - chatgpt/conversation
   - obsidian
   - obsidian/web-clipper
-  - categories
 categories:
   - "[[Companies]]"
-  - Software
+  - "[[Software]]"
 type:
 ---
 ##### You said:

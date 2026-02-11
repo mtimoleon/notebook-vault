@@ -1,0 +1,67 @@
+{
+	"session": {
+		"id": "f4f2fb3b-9c5b-42dd-a83a-d97e72920000",
+		"createDate": "<2024-01-01T10:00:00> //ISO8601 UTC date-time, use this format because data bases are agnostic of time zones",
+		"metadata": {}
+	},
+	"experimentId": "<string>, //We get it from request coming from the discovery portal",
+	"authors": [
+		{
+			"orcid": "<Open Researcher and Contributor ID>",
+			"authorName": "<string>, //It might be interesting, although it might be enough to go and have the Discovery Portal show you whatever corresponds to the author id, once a RAI id has been resolved.",
+			"rorId": "<The affiliation, institution or organization with which the author is associated>",
+			"id": "<string>, //Return a uuid now, in the future we should take it out of authentication & authorization.",
+			"sourceId": "<string>,// What does this mean?",
+			"metadata": {}
+		}
+	],
+	"dataSet": {
+		"id": "<string>, //The id for us is currently the hash_query_real, so we don't need it This can be another PID created from raise, or just a unique id, it is under discussion",
+		"hash": "<string>, //Right now fixed to ‘heart_rate’, in the future “hash_query_real",
+		"sourceId": "<uuid (string)>, //Right now empty, but according to the user requirements, it is interesting to fill this with the results of the filter / query for SD / AD, to know which  datasets (e.g. study A, study B)",
+		"metadata": {
+			"authors": [
+				{
+					"orcid": "Open Researcher and Contributor ID",
+					"authorName": "string, //It might be interesting, although it might be enough to go and have the Discovery Portal show you whatever corresponds to the author id, once a RAI id has been resolved.",
+					"rorId": "The affiliation, institution or organization with which the author is associated"
+				}
+			],
+			"usesCount": "Number of times used",
+			"isPublic": "boolean",
+			"dataSetBaseId": "Dataset inherited from PID",
+			"raiNodeId":"<string>",
+			"raiNodeAddress": "<Physical storage address/node>"
+		}
+	},
+	"processingScript": {
+		"id": "Script identification (SWHID created from us)",
+		"description": "<string>, //At the moment no description is requested to the External Researcher of  the experiment, to be included in the future.",
+		"hash": "string",
+		"encryptedCode": "<string>, //<NEW according to T3.5 desc> =>Think about need for the discovery portal to give the  decryption code if the External Researcher (owner of the code)  gives the OK",
+		"sourceId": "<string>",
+		"metadata": {
+			"scriptLanguage": "<string>",
+			"isPublic": "<boolean>",
+			"raiNodeId":"<string>",
+			"raiNodeAddress": "<Physical storage address/node>",
+			"processingScriptStorage": "<true>, // enable storage of processingScript inside RCS"
+		}
+	},
+	"processingResult": {
+		"processingResultDescription": "<string>, //Description of results",
+		"results": "<string>, //Contents of the results file in minio",
+		"hash": "<string>, //Compute SHA256",
+		"id": "string",
+		"sourceId": "string",
+		"metadata": {
+			"processingResultStorage": "<true>, // (Default value: true) is valued false to prevent results to be stored inside RCS otherwise result are by default stored inside RCS.",
+			"raiNodeId":"<string>",
+			"raiNodeAddress": "<Physical storage address/node>"
+		}
+	},
+	"raiNode": {
+		"raiNodeId": "f4f2fb3b-9c5b-42dd-a83a-d97e72920802",
+		"rootPublicUrl": " https://vitalise-node2.med.auth.gr"
+	}
+}
