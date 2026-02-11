@@ -1,0 +1,10 @@
+Clipped from: [https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA](https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA)  
+To use **Sybil AI** for your low-dose computed tomography (LDCT) scan, follow these steps:
+
+1. **Eligibility and Screening**: Ensure you meet the eligibility criteria for lung cancer screening. The Centers for Disease Control and Prevention (CDC) recommends annual LDCT scans for adults aged 50 to 80 who have a significant smoking history or other risk factors for lung cancer.
+2. **Schedule an LDCT Scan**: Contact your healthcare provider or a radiology center to schedule a low-dose CT scan. This scan is crucial as Sybil analyzes the images obtained from it.
+3. **Integration with Radiology Systems**: Sybil is designed to run in real-time within standard radiology reading stations. When your LDCT scan is performed, the results will be processed using Sybil's AI capabilities without requiring additional input from radiologists.
+4. **AI Analysis**: After the scan, Sybil will analyze the three-dimensional images to identify patterns and signs of potential lung cancer that may not be visible to human eyes. It assesses the images for abnormal growths and other indicators.
+5. **Receive Risk Assessment**: Based on its analysis, Sybil provides a risk score indicating the likelihood of developing lung cancer within the next one to six years. This information can help your healthcare provider determine if you need closer monitoring or further testing.
+6. **Follow-Up with Your Doctor**: Discuss the results with your healthcare provider. They can explain what the risk score means for your health and any necessary next steps, including potential follow-up scans or preventive measures.
+7. **Stay Informed**: As research on Sybil continues, stay updated on its clinical applications and effectiveness through your healthcare provider or reputable medical sources.
