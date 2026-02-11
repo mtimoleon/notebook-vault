@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65729a20c64b3ccc",
+        "id": "c742c0e9e6ca5f84",
         "type": "tabs",
         "children": [
           {
-            "id": "7d64851de9c352b2",
+            "id": "7e454c21380ebfbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categories/Software.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "New tab"
             }
           }
         ]
@@ -63,11 +49,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#categories",
+                "query": "263-im",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 347.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -167,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Categories/Software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software"
+              "title": "Outline"
             }
           },
           {
@@ -181,11 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Categories/Software.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Software"
+              "title": "File properties"
             }
           },
           {
@@ -251,53 +234,53 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7d64851de9c352b2",
+  "active": "d6f834d67aedd82d",
   "lastOpenFiles": [
-    "Categories/Companies.md",
-    "Categories/Software.md",
-    "Clippings/Επίσημα templates Obsidian.md",
-    "Templates/Software Template.md",
-    "CategoryAdd.prompt.md",
-    "Templates/Bases/Software.base",
-    "Templates/Bases/Genre.base",
-    "Templates/Bases/Companies.base",
-    "Notes/OneNote/Intelligen/Gantt/Completed issues/Completed issues.md",
-    "_current/Untitled.md",
-    "_current/Drawing 2026-02-10 10.15.10.excalidraw.md",
-    "_assets/_current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211135044_529.png",
-    "_assets/_current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211134914_280.png",
-    "_assets/_current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211130148_027.png",
-    "_current/2026-02-11.md",
-    "_assets/_current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211125618_060.png",
-    "_assets/_current/Drawing 2026-02-10 10.15.10.excalidraw.md",
-    "_current/Games.base",
-    "Templates/Bases",
-    "Categories",
-    "_assets/_current/2026-02-11.md",
-    "Notes/Καζαλτζής/ti-soft/TiSoft - Πίνακας πυκνωτών διόρθωσης συνφ.md",
-    "Clippings/–.md",
-    "Notes/Καζαλτζής/ti-soft/Πίνακας πυκνωτών διόρθωσης συνφ.md",
-    "Notes/Καζαλτζής/Διάφορα/Βαθμός προστασίας IP κώδικας » GeoV Solutions.md",
-    "Notes/Developer/Linux/The UNIX Filesystem Commands.md",
-    "Notes/Developer/General/The HTTP2 protocol.md",
-    "Notes/Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 4 (Queueing requesting delivery in background).md",
-    "Notes/Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 3 (Replacing Messages & Urgency).md",
-    "Notes/Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 2 (Requesting Delivery).md",
-    "Notes/Developer/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 1 (Push API).md",
-    "Notes/Test/Perplexity.md",
-    "_assets/Notes/Developer/UI/Frame0  Sketch your app ideas without hassle.md",
-    "_assets/Notes/Developer/UI",
-    "_assets/Notes/Developer/sj-project/Diagrams.md",
-    "_assets/Notes/Developer/sj-project/Amaze_Services_Prices.md",
-    "_assets/Notes/Developer/sj-project",
-    "_assets/Notes/Developer/Linux/The Linux Filesystem Explained - Linux.com.md",
-    "_assets/Notes/Developer/Linux",
-    "_assets/Notes/Developer/Error Responses",
-    "_assets/_current/2026-02-11.md/image-4.png",
-    "_assets/_current/2026-02-11.md/image-3.png",
-    "_assets/_current/2026-02-11.md/image-2.png",
-    "_assets/_current/2026-02-11.md/image-1.png",
-    "_assets/_current/2026-02-11.md/image.png",
+    "Attachments/Notes/Interests/AI/Algorithms/Model compression/Scaling Laws for Neural Language Models.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Model compression/Model compression.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Model compression/Distilling the Knowledge in a Neural Network.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Model compression",
+    "Attachments/Notes/Interests/AI/Algorithms/Markov Decision Process/The Mathematics of 2048 Optimal Play with Markov Decision Processes.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Markov Decision Process",
+    "Attachments/Notes/Interests/AI/Algorithms/Data science/ML Notes.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Data science/Data centric ML.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Data science",
+    "Attachments/Notes/Interests/AI/Algorithms/Machine learning/Demystifying 6 key machine learning algorithms.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Machine learning/Data science.md",
+    "Attachments/Notes/Interests/AI/Algorithms/Machine learning",
+    "Attachments/Notes/Interests/AI/General/_General notes.md",
+    "Attachments/Notes/Interests/AI/General/The AI Renaissance How Machines are Transforming Art, Music, and Literature  HackerNoon.md",
+    "Attachments/Notes/Interests/AI/General/News-Ideas.md",
+    "Attachments/Notes/Interests/AI/General/Chain-of-Thought.md",
+    "Attachments/Notes/Interests/AI/General/Difference Between Algorithm and Model in Machine Learning - MachineLearningMastery.com.md",
+    "Attachments/Notes/Interests/AI/General/Apple paper.md",
+    "Attachments/Notes/Interests/AI/General",
+    "Attachments/Notes/Interests/AI/Models/TPU-KNN paper.md",
+    "Attachments/Notes/Interests/AI/Models/SatCLIP paper.md",
+    "Attachments/Notes/Interests/AI/Models/Synthetic Intelligence Beyond A.I. and Robotics.md",
+    "Attachments/Notes/Interests/AI/Models/Looking Artificial Analysis and LMArena leaderboards.md",
+    "Attachments/Notes/Interests/AI/Models/https--www.perplexity.ai-page-what-is-chain-of-thought-promp-JtoLvuAnTpmuW0W2xewHjw.md",
+    "Attachments/Notes/Interests/AI/Models/https--hackernoon.com-from-data-silos-to-intelligent-systems-rag-and-knowledge-graph-synergy.md",
+    "Attachments/Notes/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md",
+    "Attachments/Notes/Interests/AI/Models/How to choose the right AI model.md",
+    "Attachments/Notes/Interests/AI/Models",
+    "Attachments/Notes/Interests/AI/Linear Algebra/Book basic of Linear Algebra.md",
+    "Attachments/Notes/Interests/AI/Linear Algebra/Statistical machine learning.md",
+    "Attachments/Notes/Interests/AI/Linear Algebra",
+    "Attachments/Notes/Interests/AI/Algorithms/MachineLearningAlgorithms Cource Mind map.md",
+    "Attachments/Notes/Interests/AI/Algorithms",
+    "Attachments/Notes/Interests/AI/Courses",
+    "Attachments/Notes/Interests/AI",
+    "Attachments/Current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211135044_529.png",
+    "Attachments/Current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211134914_280.png",
+    "Attachments/Current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211130148_027.png",
+    "Attachments/Current/Drawing 2026-02-10 10.15.10.excalidraw.md/Pasted Image 20260211125618_060.png",
+    "Attachments/Current/2026-02-11.md/image-4.png",
+    "Attachments/Current/2026-02-11.md/image-3.png",
+    "Attachments/Current/2026-02-11.md/image-2.png",
+    "Attachments/Current/2026-02-11.md/image-1.png",
+    "Attachments/Current/2026-02-11.md/image.png",
     "assets/image-13.png",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",

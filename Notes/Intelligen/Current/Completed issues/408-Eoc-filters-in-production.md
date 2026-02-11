@@ -34,7 +34,7 @@
 		
 • (object) Task 
 	
-![[_assets/Notes/OneNote/Intelligen/Current/Completed issues/408-Eoc-filters-in-production.md/image 1.png]]
+![[image 1.png]]
 
 
 
@@ -160,4 +160,4 @@ End: 2022-01-01T07:20:00.000+00:00
 1. string isEmpty/isNotEmpty we check for null also, is this right?
 
 
-![[_assets/Notes/OneNote/Intelligen/Current/Completed issues/408-Eoc-filters-in-production.md/image 1.png]]
+![[image 1.png]]

@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "_assets",
+  "attachmentFolderPath": "Attachments",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "trashOption": "system",
@@ -8,7 +8,7 @@
   "readableLineLength": true,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_current",
+  "newFileFolderPath": "Current",
   "foldHeading": true,
   "foldIndent": true,
   "showIndentGuide": false,
