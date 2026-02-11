@@ -59,7 +59,7 @@ views:
     name: Keycloak
     filters:
       and:
-        - file.tags.contains("Notes/Intelligen/Keycloak/")
+        - file.path.contains("Notes/Intelligen/Keycloak/")
     order:
       - file.name
       - ticket
@@ -72,3 +72,17 @@ views:
     limit: 200
   - type: table
     name: Fluidence Gantt
+    filters:
+      and:
+        - file.path.contains("Notes/Intelligen/Gantt/")
+    order:
+      - file.name
+      - ticket
+      - status
+      - product
+      - component
+      - file.path
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 200

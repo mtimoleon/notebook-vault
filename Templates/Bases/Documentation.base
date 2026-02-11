@@ -1,4 +1,4 @@
-﻿filters:
+filters:
   and:
     - or:
         - categories.contains(link("Documentation"))
@@ -34,6 +34,8 @@ views:
       - component
       - file.path
     sort:
+      - property: org
+        direction: DESC
       - property: file.mtime
         direction: DESC
     limit: 200

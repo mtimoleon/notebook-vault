@@ -1,5 +1,4 @@
-```
-# User Handling and Workspace Creation Documentation
+
 ## Overview
 This document describes the user handling mechanisms in the ScpCloud system, including authentication, authorization, workspace creation, and production database management. The system uses Keycloak for identity management, JWT tokens for request authentication, and multi-tenant architecture with separate databases for planning and production services.
 ## User Authentication and Token Structure
@@ -124,4 +123,3 @@ User-related events:
 - `UserRegistrationApprovedIntegrationEvent`
 - `UserRegistrationRemovedIntegrationEvent`
 These events coordinate user state across services when registration status changes.
-```
