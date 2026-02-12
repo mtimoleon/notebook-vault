@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
@@ -11,9 +11,9 @@ component: Keycloak
 ---
 ![[image.png]]
    
-Ta realm roles Ο€ΟΞ­Ο€ΞµΞΉ Ξ½Ξ± Ο„Ξ± Ξ²Ξ¬Ξ»ΞµΞΉΟ‚ ΟƒΟ„ΞΏ  dedicated-scope ΞΌΞµ assign
-ΞΊΞ±ΞΉ ΞΌΞµΟ„Ξ¬ Ξ³ΞΉΞ± Ξ½Ξ± Ο„ΞΏ Ξ­Ο‡ΞµΞΉ Ξ­Ξ½Ξ±Ο‚ user Ο€ΟΞ­Ο€ΞµΞΉ Ξ½Ξ± Ο„ΞΏ Ξ²Ξ¬Ξ»ΞµΞΉΟ‚ ΞΊΞ±ΞΉ ΟƒΟ„ΞΏ user.
-ΞΟ€ΞΏΞΉΞΏΟ‚ user Ο„ΞΏ Ξ­Ο‡ΞµΞΉ ΞΈΞ± Ο†Ξ±Ξ½ΞµΞ― ΞΊΞ±ΞΉ ΞΌΞ­ΟƒΞ± ΟƒΟ„ΞΏ token Ο„ΞΏΟ….
+Ta realm roles πρέπει να τα βάλεις στο  dedicated-scope με assign
+και μετά για να το έχει ένας user πρέπει να το βάλεις και στο user.
+Όποιος user το έχει θα φανεί και μέσα στο token του.
 
 ![Exported image](Exported%20image%2020260209140409-1.png)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
  - "[[Work]]"
  - "[[Issues]]"
@@ -9,12 +9,12 @@ status: completed
 product: ScpCloud
 ---
 
-- [x] ΞΒΞΒµΞβ€ΞΒ±Ξβ€ ΞΞΞΒΞΒ¬ FixedTimeShiftUnitId & FixedTimeShiftValue ΞΒ±Ξβ‚¬ΞΒ OperationTimeShiftUpdateDto ΞΖ’ΞΒµ OperationSchedulingUpdateDto & NonProcessingOperationSchedulingUpdateDto. ΞΒΞΞ‰ ΞΒ±ΞΒ»ΞΒ»ΞΒ±ΞΒ³ΞΒ­Ξβ€ ΞΞΞΒ± Ξβ€ Ξβ€ΞΒ¬ΞΖ’ΞΞΞβ€¦ΞΒ½ Ξβ€°Ξβ€ Ξβ€ΞΞ domain. 
-- [x] Rename UpdateOperationTimeShift ΞΖ’ΞΒµ UpdateOperationFlexibleShiftsAndBreaks (route, dto, action, controller , domain ΞΞΞΒ»Ξβ‚¬.) 
+- [x] Μεταφορά FixedTimeShiftUnitId & FixedTimeShiftValue από OperationTimeShiftUpdateDto σε OperationSchedulingUpdateDto & NonProcessingOperationSchedulingUpdateDto. Οι αλλαγές θα φτάσουν ως το domain. 
+- [x] Rename UpdateOperationTimeShift σε UpdateOperationFlexibleShiftsAndBreaks (route, dto, action, controller , domain κλπ.) 
 - [x] Get OperationAdditionalSchedulingLinks operation/{id}/additional-scheduling-link LinkProcedureId LinkProcedureName LinkOperationId LinkOperationName LinkRelation TimeShiftUinitId TimeShiftUnitValue 
 - [x] POST OperationAdditionalSchedulingLink (Create) operation/{id}/add-additional-scheduling-link LinkOperationId LinkRelationId TimeShiftUinitId TimeShiftUinitValue 
 - [x] DELETE OperationAdditionalSchedulingLink operation/{id}/additional-scheduling-link OperationId 
-- [x] POST UpdateOperationAdditionalSchedulingLinkTimeShift ΞΒ³ΞΞ‰ΞΒ± (inplace edit) operation/{id}/update-additional-scheduling-link-timeshift OperationId LinkOperationId TimeShiftUinitId TimeShiftUnitValue 
+- [x] POST UpdateOperationAdditionalSchedulingLinkTimeShift για (inplace edit) operation/{id}/update-additional-scheduling-link-timeshift OperationId LinkOperationId TimeShiftUinitId TimeShiftUnitValue 
 - [x] POST UpdateOperationAdditionalSchedulingLinkOperation (inplace edit) operation/{id}/update-additional-scheduling-link-operation OperationId LinkOperationId NewLinkOperationId LinkRelationId
 - [ ] Renames
 - [x] SchedulingReferenceOperation -\> SchedulingLinkOperation ChartsDto OperationDto OperationSchedulingUpdateDto OperationTableDto

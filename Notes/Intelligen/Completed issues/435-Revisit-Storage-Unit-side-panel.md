@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
@@ -10,7 +10,7 @@ product: ScpCloud
 ---
 
 - [x] StorageUnit General tab  
-To SizeBasisUnit ΞΈΞ± Ξ³Ξ―Ξ½ΞµΞΉ -\> SizeBasis (To unit sto FE tha to katargisoyme)
+To SizeBasisUnit θα γίνει -\> SizeBasis (To unit sto FE tha to katargisoyme)
    
 ![Exported image](Exported%20image%2020260209135724-0.png)  
 ![Exported image](Exported%20image%2020260209135725-1.png)  

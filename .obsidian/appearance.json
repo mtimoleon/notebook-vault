@@ -10,5 +10,6 @@
   "nativeMenus": false,
   "showViewHeader": true,
   "cssTheme": "",
-  "accentColor": "#8a5cf5"
+  "accentColor": "#8a5cf5",
+  "interfaceFontFamily": ""
 }

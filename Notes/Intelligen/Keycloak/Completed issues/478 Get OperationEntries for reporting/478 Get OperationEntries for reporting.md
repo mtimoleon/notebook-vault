@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
@@ -46,10 +46,10 @@ component: Keycloak
  
 ![Exported image](Exported%20image%2020260209140307-0.png) ![Exported image](Exported%20image%2020260209140309-1.png)                                                                                                                                                                                                                   
 
-To Basic auth Ο€ΞΏΟ… Ο€ΟΞ­Ο€ΞµΞΉ Ξ½Ξ± Ξ΄ΟΟƒΞΏΟ…ΞΌΞµ ΟƒΟ„ΞΏΟ…Ο‚ customers ΞΈΞ± ΞµΞ―Ξ½Ξ±ΞΉ:  
+To Basic auth που πρέπει να δώσουμε στους customers θα είναι:  
 Basic (base64)"serviec-client-name:service-client-secret"
  
-Ξ‘Ξ»Ξ»Ξ±Ξ³Ξ­Ο‚ Ο€ΞΏΟ… Ο‡ΟΞµΞΉΞ¬Ξ¶ΞΏΞ½Ο„Ξ±ΞΉ Ξ³ΞΉΞ± Ο„ΞΏ production:  
+Αλλαγές που χρειάζονται για το production:  
 - Setting in WebProductionBff to get keycloak base url for the request to get access token later  
 - Setting in ProductionApi valid issuers (may not required), add the service token issuer
 
@@ -61,7 +61,7 @@ Basic (base64)"serviec-client-name:service-client-secret"
 ![Exported image](Exported%20image%2020260209140313-5.png)- **In dedicated scope add mapper of a hardcoded claim**
 ![Exported image](Exported%20image%2020260209140315-6.png)  
 ![Exported image](Exported%20image%2020260209140321-7.png)  
-- **Ξ“ΞΉΞ± claim value Ξ²Ξ¬Ξ¶ΞΏΟ…ΞΌΞµ Ο„ΞΏ id Ο„ΞΏΟ… admin Ξ³ΞΉΞ± Ο„ΞΏ develop. Ξ£Ο„ΞΏ production Ξ²Ξ¬Ξ¶ΞΏΟ…ΞΌΞµ Ο„ΞΏ id ΞµΞ½ΟΟ‚ user Ο„ΞΏΟ… ΞΏΟΞ³Ξ±Ξ½ΞΉΟƒΞΌΞΏΟ.**
+- **Για claim value βάζουμε το id του admin για το develop. Στο production βάζουμε το id ενός user του οργανισμού.**
 
 ![[478 Get OperationEntries for reporting - Ink.svg]]
 

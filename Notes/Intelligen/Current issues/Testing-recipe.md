@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
@@ -17,7 +17,7 @@ PR676-Export
 
 Imported the plant workspace into app and used it until PR 676.  
 Added PR676 and exported the ws as PR-676-Export  
-Schedule the Plant-Export Ξ²Ββ€ΞΏΞΒ  
+Schedule the Plant-Export ✔️  
 Added PR670 and imported the PR-676-Export and Plant-Export  
 Schedule the PR-676-Export in 2m 14s with 3385 iterations  
 Schedule the Plant-Export in 2m 21s with 3372 iterations  
@@ -38,7 +38,7 @@ Schedule the Plant-3 in 2m 1s with 3375 iterations
 Schedule the Plant-4 in ------
     
 ```
-Ξ’Β  Ξ’Β  "enforceMainAuxEquipmentCompatibility": true,
+    "enforceMainAuxEquipmentCompatibility": true,
 ```
  692
    

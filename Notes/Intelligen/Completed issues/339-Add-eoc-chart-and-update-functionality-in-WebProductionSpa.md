@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
@@ -30,7 +30,7 @@ CampaignName
 CampaignColorIndex
    
 
-Ξ£Ο‡ΞµΟ„ΞΉΞΊΞ¬ ΞΌΞµ Ο„ΞΏ ΟΟ„ΞΉ ΞΌΟ€ΞΏΟΞµΞ― Ξ½Ξ± Ξ­Ο‡ΞΏΟ…ΞΌΞµ stale Ξ΄ΞµΞ΄ΞΏΞΌΞ­Ξ½Ξ± Ξ³ΞΉΞ± Ξ­Ξ½Ξ± OperationEntry ΟƒΟ„ΞΏ web production.
+Σχετικά με το ότι μπορεί να έχουμε stale δεδομένα για ένα OperationEntry στο web production.
 
 ![Exported image](Exported%20image%2020260209135813-0.png)
 

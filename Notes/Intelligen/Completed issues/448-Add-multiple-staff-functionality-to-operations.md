@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
@@ -18,17 +18,17 @@ product: ScpCloud
 - [x] na stelnei kai to sourceStaffId  
 - [x] na rename to stafId se destinationStaffId
 
-β”οΈChartService 982  
-β”οΈOperationBase UpdateStaff  
-β”οΈChartsDto 314  
-β”οΈOperationDto 602  
-β”οΈOperationEntryDto  
-β”οΈMoveStaffOperationEntryCommandHandler  
-β”οΈOperationEntry UpdateStaff/ReplaceStaff  
+✔️ChartService 982  
+✔️OperationBase UpdateStaff  
+✔️ChartsDto 314  
+✔️OperationDto 602  
+✔️OperationEntryDto  
+✔️MoveStaffOperationEntryCommandHandler  
+✔️OperationEntry UpdateStaff/ReplaceStaff  
 UpdateOperationEntryStaffCommandHandler  
-β”οΈUpdate eoc staff pool calculation
+✔️Update eoc staff pool calculation
  
-β”οΈ==planning/25/operation-base/operation/4967/update-staff==  
+✔️==planning/25/operation-base/operation/4967/update-staff==  
 
 ```
 {
@@ -56,7 +56,7 @@ UpdateOperationEntryStaffCommandHandler
 }
 ```
  
-β”οΈ==planning/25/operation-entry/19967/staff-move?returnEocData=true== Ξ’Ξ³Ξ¬Ξ¶Ο‰ Ξ±Ο€Ο Ο„Ξ± staff Ο„ΞΏ id(row) Ο€ΞΏΟ… Ξ®Ο„Ξ±Ξ½ ΞΊΞ±ΞΉ Ξ²Ξ¬Ξ¶Ο‰ Ο„ΞΏ id Ο„ΞΏΟ… staff row Ο€ΞΏΟ… Ο€Ξ®Ξ³Ξµ  
+✔️==planning/25/operation-entry/19967/staff-move?returnEocData=true== Βγάζω από τα staff το id(row) που ήταν και βάζω το id του staff row που πήγε  
 {
 "schedulingBoardId": 25,
 "schedulingBoardConcurrencyToken": 191440,
@@ -67,7 +67,7 @@ UpdateOperationEntryStaffCommandHandler
 }
 
  
-β”οΈ==planning/25/operation-entry/19934/update-staff==  
+✔️==planning/25/operation-entry/19934/update-staff==  
 
 ```
 {

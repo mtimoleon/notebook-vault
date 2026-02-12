@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
 created: 2025-10-07T10:47
@@ -2799,7 +2799,7 @@ Contains roles and scope changes
 =="email":== =="admin2@domain.com",==  
 =="username":== =="admin2"==  
 ==}==
- \> Ξ‘Ο€Ο \<[https://www.jwt.io/](https://www.jwt.io/)\>
+ \> Από \<[https://www.jwt.io/](https://www.jwt.io/)\>
 
 
 

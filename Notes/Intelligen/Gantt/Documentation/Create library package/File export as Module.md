@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
@@ -41,9 +41,9 @@ You can import the default export without using curly braces:
 import myFunction from './myModule.js';
 ```
 
-Remember, the path to the file should be relative to the file where youβ€™re importing it. Also, make sure your environment supports ES6 modules or youβ€™re using a module bundler like Webpack or Babel to handle them.
+Remember, the path to the file should be relative to the file where you’re importing it. Also, make sure your environment supports ES6 modules or you’re using a module bundler like Webpack or Babel to handle them.
 Please note that the file extension .js is mandatory when using ES6 import/export syntax in Node.js environment. In a create-react-app environment, you can omit the .js extension.
-If youβ€™re using Node.js and it doesnβ€™t support ES6 modules, you can use module.exports and require instead.
+If you’re using Node.js and it doesn’t support ES6 modules, you can use module.exports and require instead.
 
 ```
 // myModule.js
@@ -54,7 +54,7 @@ module.exports = function myFunction() {
 const myFunction = require('./myModule.js');
 ```
 
-Ξ‘Ο€Ο <https://www.bing.com/search?form=WSBCTB&toWww=1&redig=B79E5B1C7C9D428EBA4E4D3C7E13371A&q=What+can+the+new+Bing+chat+do%3F&showconv=1> 
+Από <https://www.bing.com/search?form=WSBCTB&toWww=1&redig=B79E5B1C7C9D428EBA4E4D3C7E13371A&q=What+can+the+new+Bing+chat+do%3F&showconv=1> 
 
 
 

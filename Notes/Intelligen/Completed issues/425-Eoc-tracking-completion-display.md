@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
@@ -11,7 +11,7 @@ product: ScpCloud
 
 In eoc chart equipment data in ==EocOperationEntryTaskDto== task we have:
  
-- [x] ΞΞ± Ο†ΟΞ³ΞΏΟ…Ξ½
+- [x] Να φύγουν
  
 public bool TrackedStarted { get; set; }  
 public bool TrackedCompleted { get; set; }
@@ -27,7 +27,7 @@ TrackedEndDate
 Started  
 Completed
  
-- [x] ΞΞ± ΞΌΟ€ΞµΞΉ  
+- [x] Να μπει  
 - [x] TimingStatusId  
 - [x] To completion percentage tha to ypologizei to FE
     

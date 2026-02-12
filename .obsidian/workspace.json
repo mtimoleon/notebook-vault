@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md",
+                "file": "Notes/Home/Συντάξεις/Σύνταξη.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "263-Import-Export"
+              "title": "Σύνταξη"
+            }
+          },
+          {
+            "id": "7e29004714187ea4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image.png"
+              },
+              "icon": "lucide-image",
+              "title": "image"
             }
           }
         ]
@@ -167,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md"
+                "file": "Notes/Home/Συντάξεις/Σύνταξη.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 263-Import-Export"
+              "title": "File properties for Σύνταξη"
             }
           }
         ],
@@ -187,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md",
+                "file": "Notes/Home/Συντάξεις/Σύνταξη.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 263-Import-Export"
+              "title": "Outline of Σύνταξη"
             }
           },
           {
@@ -259,50 +271,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "7dfd200b99fb62b8",
   "lastOpenFiles": [
-    "Notes/Intelligen/Algorithms/Round-robin scheduling - Wikipedia.md",
-    "Notes/Intelligen/Algorithms/Round-robin scheduling - Wikipedia.md",
-    "Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md",
-    "Notes/Intelligen/Current issues/Hovione.md",
-    "Notes/Intelligen/Algorithms/Scheduling service.md",
-    "Notes/Intelligen/Algorithms/Calculate operation timing.md",
-    "Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md",
+    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μιχάλη.md",
+    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μάγδας.md",
+    "Notes/Home/Συντάξεις/Ιστορικό ασφάλισης.md",
+    "Notes/Home/Συντάξεις/Ένσημα Μιχάλης.md",
+    "Notes/Home/Συντάξεις/Ένσημα Μάγδας.md",
+    "Notes/Home/Συντάξεις/Σύνταξη.md",
+    "Notes/Home/Σπίτι/Σχέδιο πέργκολας.md",
+    "Notes/Home/Σπίτι/ΠΛΑΚΑΚΙΑ ΣΑΝ ΠΕΤΡΑ - Damask.gr  Elegant Synthesis of Home Materials.md",
+    "Notes/Home/Σπίτι/Πετρέλαιο, φυσικό αέριο ή ρεύμα; Ποιο σύστημα θέρμανσης τελικά συμφέρει - Παραδείγματα  Ημερησία.md",
+    "Notes/Home/Σπίτι/Όλα όσα θέλετε να ξέρετε για τα Δάπεδα Βινυλίου  SOULOUPOSETO.md",
+    "Notes/Home/Σπίτι/Λαμπάκια.md",
+    "Notes/Home/Σπίτι/Κλίμακα Beaufort.md",
+    "Notes/Home/Σπίτι/Υλικά/ΝΕΟΤΕΧ.md",
+    "Notes/Home/Σπίτι/Υλικά/Έκπτωση φόρου για ανακαίνιση.pdf.md",
+    "Notes/Home/Σπίτι/Υλικά/Revestech.md",
+    "Notes/Home/Σπίτι/Υλικά/ISOMAT Μεμβράνη αποσύμπλεξης και στεγάνωσης.md",
+    "Notes/Home/Σπίτι/Υλικά/Ceresit.md",
+    "Notes/Home/Σπίτι/Τεντοπέργκολα/Πριτσίνια με σπείρωμα (RIVETNUTS) - Blog - Rivel.md",
+    "Notes/Home/Μαμά/Φάρμακα μαμάς.md",
+    "Notes/Home/Μαμά/Ιατρικό ιστορικό.md",
+    "Notes/Home/Μαμά/Επιδότηση ενοικίου.md",
+    "Notes/Home/Μαμά/Εμβόλια covid.md",
+    "Notes/Home/Μαμά/Διάφορα.md",
+    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/ΟΔΗΓΙΕΣ ΣΥΜΠΛΗΡΩΣΗΣ.md",
+    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας.md",
+    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Κάτοικος εξωτερικού.md",
+    "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image.png",
+    "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image-1.png",
+    "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image-2.png",
+    "Attachments/image-2.png",
     "Attachments/~$heduleTiming.docx",
     "Attachments/ScheduleTiming.docx",
-    "Current/127-Scroll-improvements.md",
-    "Categories/Issues.md",
-    "Notes/Intelligen/Notes/Introduction to cloud-native applications  Microsoft Docs.md",
-    "Notes/Intelligen/Notes/DDD_Reference_2015-03.md",
-    "Notes/Intelligen/Documentation/GRPC communication/Bff-Grpc flow.md",
-    "Categories/Documentation.md",
-    "Notes/Intelligen/Documentation/Backup-Copy/Backup-Copy Differences.md",
-    "Notes/Intelligen/Gantt/Documentation/Create library package/File export as Module.md",
-    "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Windows authentication.md",
     "Attachments/image-1.png",
-    "Notes/Intelligen/Keycloak/Documentation/Docs.md",
-    "Notes/Intelligen/Keycloak/Documentation/Documentation - Update realm.md",
     "Attachments/image.png",
     "Attachments/Notes/Intelligen/Keycloak/Documentation/Documentation - Update realm.md/image.png",
-    "Notes/Intelligen/CQRS/Clarified CQRS.md",
-    "Notes/Intelligen/CQRS/Applying CQRS and CQS approaches in a DDD microservice in eShopOnContainers  Microsoft Docs.md",
-    "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md",
-    "Current/2026-02-11.md",
     "Attachments/Notes/Intelligen/Current issues/Telemetry.md/Exported image 20260209140001-5.png",
     "orphan-attachments-report-20260212-152742.txt",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Εργασία/Άδεια αναψυχής Πόση δικαιούστε, πώς μπορείτε να την υπολογίσετε.md/Exported image 20260209140849-2.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Εργασία/Άδεια αναψυχής Πόση δικαιούστε, πώς μπορείτε να την υπολογίσετε.md",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Εργασία",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md/Exported image 20260209140239-10.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md/Exported image 20260209140238-9.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md/Exported image 20260209140234-8.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md/Exported image 20260209140232-7.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md/Exported image 20260209140231-6.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Docs.md",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Completed issues/493-Tenant-filtering.md",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Completed issues",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak",
     "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Current issues",
