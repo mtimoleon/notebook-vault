@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5f239fbfcf35e38e",
+        "id": "4bc8cb445442b40a",
         "type": "tabs",
         "children": [
           {
-            "id": "11c64e35bb543adf",
+            "id": "6bfe592453b9503f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Home/Financial/Trading plan/Trading ορολογία.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Trading ορολογία"
             }
           }
         ]
@@ -91,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Home/Financial/Trading plan/Trading ορολογία.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Trading ορολογία"
             }
           },
           {
@@ -109,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Home/Financial/Trading plan/Trading ορολογία.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Trading ορολογία"
             }
           },
           {
@@ -150,9 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Notes/Home/Financial/Trading plan/Trading ορολογία.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Trading ορολογία"
             }
           }
         ],
@@ -169,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Home/Financial/Trading plan/Trading ορολογία.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Trading ορολογία"
             }
           },
           {
@@ -240,8 +259,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "11c64e35bb543adf",
+  "active": "6bfe592453b9503f",
   "lastOpenFiles": [
+    "Notes/Home/Financial/Trading plan/Pinescripts.md",
     "Notes/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
     "Attachments/Συνημμένο.pdf",
     "Tools/dead-attachment-links.csv",
@@ -287,7 +307,6 @@
     "Attachments/Notes/Interests/AI/General/Difference Between Algorithm and Model in Machine Learning - MachineLearningMastery.com.md",
     "Attachments/Notes/Interests/AI/General/Chain-of-Thought.md",
     "Attachments/Notes/Interests/AI/General/Apple paper.md",
-    "Attachments/Notes/Interests/AI/Courses/Coursera - Generative AI with Large Language Models.md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
