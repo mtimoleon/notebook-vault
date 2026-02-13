@@ -124,7 +124,7 @@ When the data for a resource do change to a degree that results in a fundamental
  Decide on the web services that will be required for your Persistent Identifiers. At a minimum this should include basic HTTP resolution of the identifiers, or use 3rd party identifier hosting services if this is preferred (section 4g).
   
 Doi id has only 3 records.  
-- Data and Metadata #important  
+- Data and Metadata
 Another source of confusion when assigning Persistent Identifiers arises because the terms “data” and “metadata” can often be used interchangeably (and sometimes the difference is not clear).  
 Generally “data” have been described as the information about the resource in question, and “metadata” are “data about data”. Sometimes the boundaries of these two are blurred and some people even believe that all information in the biodiversity informatics domain is metadata because we are discussing physical resources and events. Data are also believed to be more enduring, whereas metadata may often change.  
 Overall it does not matter too much whether data or metadata are the subject of a specific Persistent Identifier so long as the identifier always refers to the same resource.
@@ -334,7 +334,7 @@ Record 1 should be the main record in our database with foreign keys to other ta
  
 - [https://www.go-fair.org/fair-principles/fairification-process/](https://www.go-fair.org/fair-principles/fairification-process/)
 - [https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html](https://faircookbook.elixir-europe.org/content/recipes/findability/identifiers.html)
-- Best Practices for PID Managers: [https://docs.google.com/presentation/d/17L_deP11Mlvnwoj3ICXZEUi_YoI-4McvLYTMt0cWr3s/edit#slide=id.g29da710bbe1_0_0](https://docs.google.com/presentation/d/17L_deP11Mlvnwoj3ICXZEUi_YoI-4McvLYTMt0cWr3s/edit#slide=id.g29da710bbe1_0_0) #important 
+- Best Practices for PID Managers: [https://docs.google.com/presentation/d/17L_deP11Mlvnwoj3ICXZEUi_YoI-4McvLYTMt0cWr3s/edit#slide=id.g29da710bbe1_0_0](https://docs.google.com/presentation/d/17L_deP11Mlvnwoj3ICXZEUi_YoI-4McvLYTMt0cWr3s/edit#slide=id.g29da710bbe1_0_0)  
 - [ ] EOSC policy, FAIR, process to fairification
     
 |                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                    |                                            |                                                                                                                                                                                                                        |

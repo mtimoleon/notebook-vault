@@ -8,6 +8,6 @@ created: 2021-08-13
  
 machine learning system for ==mapping natural language responses to semantic intents==
  
-**LSTM Networks** From \<[http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\> #important
+**LSTM Networks** From \<[http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)\> \#important
 
 ![[Google AI - Ink.svg]]
