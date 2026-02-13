@@ -16,11 +16,14 @@ component: Keycloak
  
 - From the left menu select Realm settings
 - You are viewing the ScpCloud realm settings page
-- Up right corner select partial import￼
+- Up right corner select partial import
+
 ![Exported image](Exported%20image%2020260209140326-1.png)
  
-- In the partial import modal, browse and find our ￼..\scpCloud\volumes\keycloak\import\ScpCloud-realm.json
-- Now select to import only clients and skip the existing￼
+- In the partial import modal, browse and find our 
+..\scpCloud\volumes\keycloak\import\ScpCloud-realm.json
+- Now select to import only clients and skip the existing
+
 ![Exported image](Exported%20image%2020260209140327-2.png)   - Now you should have a new client "develop-integration-api-service" in realm Clients. ![Exported image](Exported%20image%2020260209140328-3.png)
 
 

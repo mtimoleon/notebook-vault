@@ -1,23 +1,117 @@
 ```
 DATASET PID
-{￼  "url":  "\<string\>", //Not updateable or only if there is a     policy decision to update naming of urls  ￼  "registration-date":  "\<ISO 8601 standard date\>",￼  "dataSet": {￼    
+{
+  "url":  "\<string\>", //Not updateable or only if there is a     policy decision to update naming of urls  
+  "registration-date":  "\<ISO 8601 standard date\>",
+  "dataSet": {
+    
     "dvc-id": "\<dvc commit string\>", //Not updateable as it will be used for experiment registration
-    "raiNodeId": "\<uuid string\>"  //Not updateable as it will be used for experiment registration￼  },￼  "metadata": {￼    "contributor": [//As defined by RAiD, NEED TO CAPTURE AS SUCH IN THE PORTAL - //UPDATEABLE by PID owner //https://metadata.raid.org/en/latest/core/contributors.html#
+    "raiNodeId": "\<uuid string\>"  //Not updateable as it will be used for experiment registration
+  },
+  "metadata": {
+    "contributor": [//As defined by RAiD, NEED TO CAPTURE AS SUCH IN THE PORTAL - //UPDATEABLE by PID owner //https://metadata.raid.org/en/latest/core/contributors.html#
 //Check the values below if they are compliant with raid
-      {￼        "id": "ABCDEFGHIJKLMNOPQ",￼        "schemaUri": "ABCDEFGHIJKLMNOPQR",￼        "role": "ABCDE",￼        "position": "ABCDEFGHIJKLMNOPQRSTUVWX",￼        "leader": true,￼        "contact": true￼      }
-    ],￼    "organisation": [//As defined by RAiD, NEED TO CAPTURE AS SUCH IN THE PORTAL - //UPDATEABLE by PID owner//https://metadata.raid.org/en/latest/core/organisations.html#organisation-role
-//Check the values below if they are compliant with raid      {￼        "id": "ABCDEFGHIJKLMNOP",￼        "schemaUri": "ABCDEFGHIJKLMNOPQRSTUVWXY",￼        "role": "ABCDEFGHIJKLMNOPQRSTUVWXY"￼      },￼    ],￼
+      {
+        "id": "ABCDEFGHIJKLMNOPQ",
+        "schemaUri": "ABCDEFGHIJKLMNOPQR",
+        "role": "ABCDE",
+        "position": "ABCDEFGHIJKLMNOPQRSTUVWX",
+        "leader": true,
+        "contact": true
+      }
+    ],
+    "organisation": [//As defined by RAiD, NEED TO CAPTURE AS SUCH IN THE PORTAL - //UPDATEABLE by PID owner//https://metadata.raid.org/en/latest/core/organisations.html#organisation-role
+//Check the values below if they are compliant with raid      {
+        "id": "ABCDEFGHIJKLMNOP",
+        "schemaUri": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+        "role": "ABCDEFGHIJKLMNOPQRSTUVWXY"
+      },
+    ],
+
         "description": "\<string\>", //UPDATEABLE by RAISE automatically if dataset owner updates description - Not by PID owner    
         "title": "\<string\>", //UPDATEABLE by RAISE automatically if dataset owner updates description - Not by PID owner    
         "license": "\<string\>", 
         "isPublic": "\<boolean\>", 
         "RCH-RCN-available": "\<boolean\>", //Popular dataset or moved to RCH RCN when a RCN is going down with planned transference
-        "provenance": "\<provenance object\>" //To be described, capture, transformation, DMP, .... information //Not UPDATEABLE￼ }￼}
+        "provenance": "\<provenance object\>" //To be described, capture, transformation, DMP, .... information //Not UPDATEABLE
+ }
+}
 ```
 
 ```
 PID STRUCTURE
-{￼  "url": "ABCDEFGHIJKLMNOPQRSTU",￼  "experiment-requestor": {￼    "id": "ABCDEFGHIJKLMNOPQRSTU",￼    "schemaUri": "ABCDEFGHIJ"￼  },￼  "registration-date": "ABCDEFGHIJKLMNOPQRSTUVW",￼  "dataSet": {￼    "id": 25.15999/"ABCDEFGHIJKLMNOPQRSTUVWXYZABC"￼  },￼  "processingScript": {￼    "id": "ABCDEFGHIJKLMNOP"￼  },￼  "processingResult": {￼    "id": "ABCDEFGHIJKLMNOPQRSTUVW"￼  },￼  "metadata": {￼    "experimentTitle": "ABCDEFGHIJKLMNOPQRSTUVWX",￼    "experimentDescription": "ABCDEFGHIJKLMNOPQRSTUV",￼    "published": false,￼    "pidOwner": {￼      "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZA",￼      "schemaUri": "ORCID"￼    },￼    "contributor": [￼      {￼        "id": "ABCDEFGHIJKLMN",￼        "schemaUri": "ORCID",￼        "position": {￼          "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",￼          "schemaUri": "ABCDEFGHIJKLMNOPQRSTUVWX"￼        },￼        "leader": null,￼        "contact": "Yes",￼        "role": {￼          "id": "ABCDEFGHIJKL",￼          "schemaUri": "ABCDEFGHIJKL"￼        }￼      },￼     ],￼    "organisation": [￼      {￼        "id": "ABCDEFGHIJKLMNOPQRSTUVWXY",￼        "schemaUri": "ABCDEFGHIJKLM",￼        "role": {￼          "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",￼          "schemaUri": "ABCDEFGHIJKLMNOPQRSTUV",￼          "startDate": "ABCDEFGHIJKLMN",￼          "endDate": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"￼        }￼      },￼     ],￼    "experimentSession": {￼      "relatedExperiments": [￼        "ABCDEFGHIJKLMNO",￼        "ABCDEFGHIJKLMNOPQRSTUV",￼        "ABCDEFGHIJKLMNOPQRST",￼        "ABCDEFGHIJKLMNOP",￼        "ABCDEFGHIJ",￼        "ABCD"￼      ],￼      "datasetUsageContract": [],￼      "preferredExperiment": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"￼    },￼    "sequentialScript": {￼      "sequential": false,￼      "sequentialStepsRai": [￼        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"￼      ]￼    }￼  }￼}
+{
+  "url": "ABCDEFGHIJKLMNOPQRSTU",
+  "experiment-requestor": {
+    "id": "ABCDEFGHIJKLMNOPQRSTU",
+    "schemaUri": "ABCDEFGHIJ"
+  },
+  "registration-date": "ABCDEFGHIJKLMNOPQRSTUVW",
+  "dataSet": {
+    "id": 25.15999/"ABCDEFGHIJKLMNOPQRSTUVWXYZABC"
+  },
+  "processingScript": {
+    "id": "ABCDEFGHIJKLMNOP"
+  },
+  "processingResult": {
+    "id": "ABCDEFGHIJKLMNOPQRSTUVW"
+  },
+  "metadata": {
+    "experimentTitle": "ABCDEFGHIJKLMNOPQRSTUVWX",
+    "experimentDescription": "ABCDEFGHIJKLMNOPQRSTUV",
+    "published": false,
+    "pidOwner": {
+      "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZA",
+      "schemaUri": "ORCID"
+    },
+    "contributor": [
+      {
+        "id": "ABCDEFGHIJKLMN",
+        "schemaUri": "ORCID",
+        "position": {
+          "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZAB",
+          "schemaUri": "ABCDEFGHIJKLMNOPQRSTUVWX"
+        },
+        "leader": null,
+        "contact": "Yes",
+        "role": {
+          "id": "ABCDEFGHIJKL",
+          "schemaUri": "ABCDEFGHIJKL"
+        }
+      },
+     ],
+    "organisation": [
+      {
+        "id": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+        "schemaUri": "ABCDEFGHIJKLM",
+        "role": {
+          "id": "ABCDEFGHIJKLMNOPQRSTUVWXYZABC",
+          "schemaUri": "ABCDEFGHIJKLMNOPQRSTUV",
+          "startDate": "ABCDEFGHIJKLMN",
+          "endDate": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        }
+      },
+     ],
+    "experimentSession": {
+      "relatedExperiments": [
+        "ABCDEFGHIJKLMNO",
+        "ABCDEFGHIJKLMNOPQRSTUV",
+        "ABCDEFGHIJKLMNOPQRST",
+        "ABCDEFGHIJKLMNOP",
+        "ABCDEFGHIJ",
+        "ABCD"
+      ],
+      "datasetUsageContract": [],
+      "preferredExperiment": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "sequentialScript": {
+      "sequential": false,
+      "sequentialStepsRai": [
+        "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+      ]
+    }
+  }
+}
 ```
 
 ```

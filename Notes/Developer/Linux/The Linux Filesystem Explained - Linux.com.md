@@ -8,20 +8,26 @@ This tutorial will help you get up to speed faster than I did.
 
 It makes sense to explore the Linux filesystem from a terminal window, not because the author is a grumpy old man and resents new kids and their pretty graphical tools — although there is some truth to that — but because a terminal, despite being text-only, has better tools to show the map of Linux’s directory tree.  
 In fact, that is the name of the first tool you’ll install to help you on the way: _tree_. If you are using Ubuntu or Debian, you can do:  
-sudo apt install tree￼  
+sudo apt install tree
+  
 On Red Hat or Fedora, do:  
-sudo dnf install tree￼  
+sudo dnf install tree
+  
 For SUSE/openSUSE use zypper:  
-sudo zypper install tree￼  
+sudo zypper install tree
+  
 For Arch-like distros (Manjaro, Antergos, etc.) use:  
-sudo pacman -S tree￼  
+sudo pacman -S tree
+  
 … and so on.  
 Once installed, stay in your terminal window and run _tree_ like this:  
-tree /￼  
+tree /
+  
 The / in the instruction above refers to the _root_ directory. The root directory is the one from which all other directories branch off from. When you run tree and tell it to start with _/_, you will see the whole directory tree, all directories and all the subdirectories in the whole system, with all their files, fly by.  
 If you have been using your system for some time, this may take a while, because, even if you haven’t generated many files yourself, a Linux system and its apps are always logging, cacheing, and storing temporal files. The number of entries in the file system can grow quite quickly.  
 Don’t feel overwhelmed, though. Instead, try this:  
-tree -L 1 /￼  
+tree -L 1 /
+  
 And you should see what is shown in Figure 1.
 
 ![File Edit View Bookmarks Settings tree bin boot cd...](Exported%20image%2020260209000028-1.png)
@@ -124,20 +130,25 @@ That is the root directory covered, but many of the subdirectories lead to their
 
 Figure 2: Standard Unix filesystem hierarchy.  
 To explore the filesystem yourself, use the cd command:  
-cd ￼  
+cd 
+  
 will take you to the directory of your choice (_cd_ stands for _change directory_.  
 If you get confused,  
 pwd  
 will always tell you where you (_pwd_ stands for _print working directory_). Also,  
-cd￼  
+cd
+  
 with no options or parameters, will take you back to your own home directory, where things are safe and cosy.  
 Finally,  
-cd ..￼  
+cd ..
+  
 will take you up one level, getting you one level closer to the _/_ root directory. If you are in _/usr/share/wallpapers_ and run cd .., you will move up to _/usr/share_.  
 To see what a directory contains, use  
-ls ￼  
+ls 
+  
 or simply  
-ls￼  
+ls
+  
 to list the contents of the directory you are in right now.  
 And, of course, you always have tree to get an overview of what lays within a directory. Try it on _/usr/share_ — there is a lot of interesting stuff in there.
 

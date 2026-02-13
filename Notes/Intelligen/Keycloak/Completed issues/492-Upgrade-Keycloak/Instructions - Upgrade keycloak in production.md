@@ -31,15 +31,20 @@ component: Keycloak
     - scpCloud client dedicated scope will have no mappers  
     - hovione-integration-api-client mapper organizationId will be replace with tenantId mapper.
     
-2. **Backup of keys**:￼docker cp keycloak:/opt/keycloak/data/ ./data_backup/
-3. **Stop Keycloak 22 container****￼**docker compose stop keycloak
+2. **Backup of keys**:
+docker cp keycloak:/opt/keycloak/data/ ./data_backup/
+3. **Stop Keycloak 22 container****
+**docker compose stop keycloak
 4. **Create a full backup DB**
 
 docker exec -it sqlserver /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P "password" -Q "BACKUP DATABASE [keycloak] TO DISK='/var/opt/mssql/backup/keycloak.bak'"
  
-**￼****2. Deploy & Run**
+**
+****2. Deploy & Run**
 
-1. **Deploy and run the application as usual**￼Running the container it should upgrade the keycloak database gradually and produce logs (similar below) into container console:￼
+1. **Deploy and run the application as usual**
+Running the container it should upgrade the keycloak database gradually and produce logs (similar below) into container console:
+
 
 ```
 2025-11-11 12:24:12.947 | 2025-11-11 10:24:12,945 INFO  [org.keycloak.quarkus.runtime.storage.database.liquibase.QuarkusJpaUpdaterProvider] (main) Updating database. Using changelog META-INF/jpa-changelog-master.xml

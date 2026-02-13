@@ -13,9 +13,12 @@ Show refresh button when frontend is updated
     - Other ideas for the application  
 - [ ] Fix user for mysql @ raise2vm and raise service use  
 - [ ] Check panel management backup info and logs backups  
-- [ ] RCN zombi processes ==@Nikos==￼[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld)  
+- [ ] RCN zombi processes ==@Nikos==
+[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld)  
 - [ ] e-consent  
-- [ ] **Blockchain**￼==Database choose==￼Generic schema
+- [ ] **Blockchain**
+==Database choose==
+Generic schema
  
 - [ ] ==Statistics==  
 - [ ] Update sto UI ==@Petsani,==  
@@ -27,14 +30,21 @@ Show refresh button when frontend is updated
  
 - [ ] Review documents  
 [https://drive.google.com/open?id=1ZqakhlPOYzVpMNIuDiZR8XY3K9K-Kzdi&usp=drive_fs](https://drive.google.com/open?id=1ZqakhlPOYzVpMNIuDiZR8XY3K9K-Kzdi&usp=drive_fs)  
-- [ ] Suggested New Features 4/9/2025￼[https://mail.google.com/mail/u/0/?ui=2#inbox/FMfcgzQbgJRqcjQKrjqqDJclwgcFXxnK](https://mail.google.com/mail/u/0/?ui=2#inbox/FMfcgzQbgJRqcjQKrjqqDJclwgcFXxnK)  
+- [ ] Suggested New Features 4/9/2025
+[https://mail.google.com/mail/u/0/?ui=2#inbox/FMfcgzQbgJRqcjQKrjqqDJclwgcFXxnK](https://mail.google.com/mail/u/0/?ui=2#inbox/FMfcgzQbgJRqcjQKrjqqDJclwgcFXxnK)  
 - [ ] Exoyme kati gia email contact sto consent confirmation. To see ==@Nikos== requests  
 - [ ] To check if backup is taken properly  
 - [ ] Na steilo Niko token gia postman
    
 
-- [ ] EMQX 5.8.9￼[https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.html](https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.htmlhttps://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.htmlhttps://github.com/emqx/emqx/tree/v5.8.9)￼https://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.html￼https://github.com/emqx/emqx/tree/v5.8.9**￼**  
-- [ ] Get RAISE installer/RCN ==security== suggestions ==@Nikos, also Hernandez sent email==￼[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJB](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJBhttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz)￼https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz  
+- [ ] EMQX 5.8.9
+[https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.html](https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.htmlhttps://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.htmlhttps://github.com/emqx/emqx/tree/v5.8.9)
+https://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.html
+https://github.com/emqx/emqx/tree/v5.8.9**
+**  
+- [ ] Get RAISE installer/RCN ==security== suggestions ==@Nikos, also Hernandez sent email==
+[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJB](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJBhttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz)
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz  
 - [ ] RAISE Architecture draw.io [https://drive.google.com/file/d/180BgZ3nkKciSbHpNjbQWC0OrmYDHu02n/view?usp=sharing](https://drive.google.com/file/d/180BgZ3nkKciSbHpNjbQWC0OrmYDHu02n/view?usp=sharing)  
 - [ ] Dataset hash  
 - [ ] New script languages  

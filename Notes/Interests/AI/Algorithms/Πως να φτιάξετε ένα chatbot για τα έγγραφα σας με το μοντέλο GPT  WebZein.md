@@ -30,22 +30,33 @@ Clipped from: [https://www.webzein.gr/blog/19/pos-na-ftiaxete-ena-chatbot-gia-ta
 Αυτό που κάνει το LlamaIndex ουσιαστικά είναι να μετατρέψει τα αρχικά δεδομένα των εγγράφων σας σε ένα διανυσματικό ευρετήριο, το οποίο είναι πολύ αποτελεσματικό για την υποβολή ερωτημάτων. Θα χρησιμοποιήσει αυτό το ευρετήριο για να βρει τα πιο σχετικά μέρη με βάση την ομοιότητα του ερωτήματος και των δεδομένων. Στη συνέχεια, θα συνδέσει τα αποτελέσματα στο prompt που θα στείλει στο GPT, έτσι ώστε το GPT να έχει το "πλαίσιο" για να απαντήσει στην ερώτησή σας.  
 **Ρυθμίσεις**  
 Πρώτα θα εγκαταστήσουμε τις βιβλιοθήκες. Δώστε τις παρακάτω εντολές στο τερματικό σας ή στο σημειωματάριο Google Colab. Αυτές οι εντολές θα εγκαταστήσουν τόσο το LlamaIndex όσο και το OpenAI.  
-pip install llama-index￼pip install openai  
+pip install llama-index
+pip install openai  
 Στη συνέχεια, σε ένα νέο αρχείο .py, θα εισαγάγουμε τις βιβλιοθήκες στην python και θα ρυθμίσουμε το κλειδί API OpenAI. Να τι πρέπει να γράψουμε στο αρχείο:  
-from llama_index import GPTSimpleVectorIndex, Document, SimpleDirectoryReader￼import os￼os.environ['OPENAI_API_KEY'] = 'YOUR-GPI-API-KEY' # αντικαταστήστε το με το κλειδί σας.
+from llama_index import GPTSimpleVectorIndex, Document, SimpleDirectoryReader
+import os
+os.environ['OPENAI_API_KEY'] = 'YOUR-GPI-API-KEY' # αντικαταστήστε το με το κλειδί σας.
 
 ### **Κατασκευή του ευρετηρίου**
 
 Στη συνέχεια, θα δημιουργήσουμε ένα ευρετήριο του εγγράφου μας. Για να φορτώσετε τα έγγραφά σας, μπορείτε να χρησιμοποιήσετε τη μέθοδο SimpleDirectoryReader που παρέχεται από το LllamaIndex (ή μπορείτε να το φορτώσετε από strings), κάπως έτσι.  
-# Φόρτωση από κατάλογο στο δίσκο￼documents = SimpleDirectoryReader('your_directory').load_data()￼# Φόρτωση από strings: text1, text2, ...￼text_list = [text1, text2, ...]￼documents = [Document(t) for t in text_list]  
+# Φόρτωση από κατάλογο στο δίσκο
+documents = SimpleDirectoryReader('your_directory').load_data()
+# Φόρτωση από strings: text1, text2, ...
+text_list = [text1, text2, ...]
+documents = [Document(t) for t in text_list]  
 Το LlamaIndex έχει επίσης μια ποικιλία συνδέσμων δεδομένων (Notion, Asana, Google Drive, Obsidian, κλπ). Μπορείτε να τις βρείτε στη διεύθυνση [https://llamahub.ai/](https://llamahub.ai/).  
 Μετά τη φόρτωση των εγγράφων, μπορούμε στη συνέχεια να κατασκευάσουμε το ευρετήριο απλά με  
 index = GPTSimpleVectorIndex(documents)  
 Εάν θέλετε να αποθηκεύσετε το ευρετήριο και να το φορτώσετε για μελλοντική χρήση, μπορείτε να χρησιμοποιήσετε τις ακόλουθες μεθόδους  
-# Αποθήκευση ευρετηρίου σε ένα index.json αρχείο￼index.save_to_disk('index.json')￼# Και αργότερα, φόρτωση του ευρετηρίου από το αρχείο index.json￼index = GPTSimpleVectorIndex.load_from_disk('index.json')  
+# Αποθήκευση ευρετηρίου σε ένα index.json αρχείο
+index.save_to_disk('index.json')
+# Και αργότερα, φόρτωση του ευρετηρίου από το αρχείο index.json
+index = GPTSimpleVectorIndex.load_from_disk('index.json')  
 **Υποβολή ερωτημάτων στο ευρετήριο και λήψη απάντησης**  
 Η υποβολή ερωτημάτων στο ευρετήριο είναι απλή:  
-response = index.query("What features do users want to see in the app?")￼print(response)  
+response = index.query("What features do users want to see in the app?")
+print(response)  
 Και θα λάβετε την απάντησή σας τυπωμένη. Το LlamaIndex θα πάρει την ερώτησή σας, θα αναζητήσει σχετικά κομμάτια στο ευρετήριο και θα στείλει στο GPT το ερώτημα σας μαζί με τα σχετικά κομμάτια που βρήκε...  
 **Μερικές extras για προηγμένη χρήση**  
 Τα παραπάνω βήματα είναι απλά μια πολύ απλή εκκίνηση για να στήσετε ένα Q&A bot με το LlamaIndex και το GPT. Αλλά μπορείτε να κάνετε πολύ περισσότερα. Στην πραγματικότητα, μπορείτε να ρυθμίσετε το LlamaIndex ώστε να χρησιμοποιεί ένα διαφορετικό μοντέλο LLM, να χρησιμοποιεί διαφορετικό τύπο ευρετηρίου για διαφορετικές εργασίες, να ενημερώνει τους υπάρχοντες δείκτες με ένα νέο ευρετήριο κ.λπ. Αν σας ενδιαφέρει, μπορείτε να διαβάσετε περισσότερα στη διεύθυνση [https://gpt-index.readthedocs.io/en/latest/index.html](https://gpt-index.readthedocs.io/en/latest/index.html)

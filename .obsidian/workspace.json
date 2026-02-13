@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a3a0399d39ad99",
+        "id": "8639bd365f1b80f5",
         "type": "tabs",
         "children": [
           {
-            "id": "7dfd200b99fb62b8",
+            "id": "cb47844ce1abcf27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Notes/Home/Συντάξεις/Σύνταξη.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
+                "bFile": "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Σύνταξη"
-            }
-          },
-          {
-            "id": "7e29004714187ea4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image.png"
-              },
-              "icon": "lucide-image",
-              "title": "image"
+              "icon": "diff",
+              "title": "Diff: Instructions - Add keycloak client from realm settings  (Working Tree)"
             }
           }
         ]
@@ -178,11 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Notes/Home/Συντάξεις/Σύνταξη.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Σύνταξη"
+              "title": "File properties"
             }
           }
         ],
@@ -191,7 +167,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 31.268151016456926,
+        "dimension": 19.651500484027107,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -199,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Home/Συντάξεις/Σύνταξη.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Σύνταξη"
+              "title": "Outline"
             }
           },
           {
@@ -225,7 +200,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 36.30203291384318,
+        "dimension": 47.91868344627299,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -271,20 +246,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7dfd200b99fb62b8",
+  "active": "cb47844ce1abcf27",
   "lastOpenFiles": [
-    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μιχάλη.md",
-    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μάγδας.md",
-    "Notes/Home/Συντάξεις/Ιστορικό ασφάλισης.md",
-    "Notes/Home/Συντάξεις/Ένσημα Μιχάλης.md",
-    "Notes/Home/Συντάξεις/Ένσημα Μάγδας.md",
-    "Notes/Home/Συντάξεις/Σύνταξη.md",
+    "Notes/Home/Συντάξεις/Γενική Διεύθυνση Πληροφορικής και Επικοινωνιών  e-ΕΦΚΑ.md",
+    "Notes/Home/Σπίτι/Κλίμακα Beaufort.md",
     "Notes/Home/Σπίτι/Σχέδιο πέργκολας.md",
+    "Notes/Home/Συντάξεις/Ένσημα Μιχάλης.md",
+    "Notes/Home/Συντάξεις/Ιστορικό ασφάλισης.md",
+    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μιχάλη.md",
+    "Notes/Home/Υγεία/Μιχάλης ιστορικό.md",
+    "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image.png",
+    "Notes/Home/Υγεία/Πνευμονολόγοι.md",
+    "Notes/Home/Υγεία/Σύνδρομο Παγωμένου Ώμου — Οδηγός Ασκήσεων.md",
+    "Notes/Home/Υγεία/Συνταγή οφθαλμίατρος Μιχάλης.md",
+    "Notes/Home/Συντάξεις/Σύνταξη.md",
+    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μάγδας.md",
+    "Notes/Home/Συντάξεις/Ένσημα Μάγδας.md",
     "Notes/Home/Σπίτι/ΠΛΑΚΑΚΙΑ ΣΑΝ ΠΕΤΡΑ - Damask.gr  Elegant Synthesis of Home Materials.md",
     "Notes/Home/Σπίτι/Πετρέλαιο, φυσικό αέριο ή ρεύμα; Ποιο σύστημα θέρμανσης τελικά συμφέρει - Παραδείγματα  Ημερησία.md",
     "Notes/Home/Σπίτι/Όλα όσα θέλετε να ξέρετε για τα Δάπεδα Βινυλίου  SOULOUPOSETO.md",
     "Notes/Home/Σπίτι/Λαμπάκια.md",
-    "Notes/Home/Σπίτι/Κλίμακα Beaufort.md",
     "Notes/Home/Σπίτι/Υλικά/ΝΕΟΤΕΧ.md",
     "Notes/Home/Σπίτι/Υλικά/Έκπτωση φόρου για ανακαίνιση.pdf.md",
     "Notes/Home/Σπίτι/Υλικά/Revestech.md",
@@ -294,12 +275,6 @@
     "Notes/Home/Μαμά/Φάρμακα μαμάς.md",
     "Notes/Home/Μαμά/Ιατρικό ιστορικό.md",
     "Notes/Home/Μαμά/Επιδότηση ενοικίου.md",
-    "Notes/Home/Μαμά/Εμβόλια covid.md",
-    "Notes/Home/Μαμά/Διάφορα.md",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/ΟΔΗΓΙΕΣ ΣΥΜΠΛΗΡΩΣΗΣ.md",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας.md",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Κάτοικος εξωτερικού.md",
-    "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image.png",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image-1.png",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image-2.png",
     "Attachments/image-2.png",

@@ -49,7 +49,8 @@ product: ScpCloud
 - [_productionSchedulingBoardServiceContract.TrackingSyncSchedulingBoardAsync(new TrackingSyncDto { ... })](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/michael/.vscode/extensions/openai.chatgpt-0.4.68-win32-x64/webview/#)
 - όπου στέλνει:
 - `BatchToUpdateTrackingContentsAndEocDataFor` (το “main” batch)
-- `BatchesToUpdateEocDataFor` (τα επηρεαζόμενα batches)￼(`SyncService.cs:296+`)
+- `BatchesToUpdateEocDataFor` (τα επηρεαζόμενα batches)
+(`SyncService.cs:296+`)
 
 **Σημειώσεις/συμπεριφορά**
 

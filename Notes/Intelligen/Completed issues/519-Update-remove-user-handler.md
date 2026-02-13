@@ -11,7 +11,8 @@ product: ScpCloud
 ---
 
 
-- [x] Add planner role to the registered user￼ This will take place during user registration when we create the user in keycloak from admin api after RegisterUserAsync
+- [x] Add planner role to the registered user
+ This will take place during user registration when we create the user in keycloak from admin api after RegisterUserAsync
  
 - [x] Check when I delete a user from admin if the workspaces/scheduling boards delete aswell, they delete alright  
 - [x] For events coming to planning api bypass authorization, we already have it with ServerName != null in PlanningDbContext

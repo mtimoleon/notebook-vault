@@ -7,7 +7,8 @@
 ==One of the ways of polling is combining RxJs====’====s== _timer_ ==with== _switchMap_==. Also remember to unsubscribe, because all sorts of intervals can easily produce memory leaks, in this example, we are using== _takeUntil_ ==operator that unsubscribes from the observable when it====’====s component is destroyed.==  
 **EXAMPLE:**
  
-==timer(0, 5000).pipe( switchMap(() =\> this.truckService.getLoadedTrucks()), takeUntil(this.stopPolling) )====￼==
+==timer(0, 5000).pipe( switchMap(() =\> this.truckService.getLoadedTrucks()), takeUntil(this.stopPolling) )====
+==
  \> From \<[https://inero-software.com/angular-how-to-manage-back-end-long-running-asynchronous-tasks/](https://inero-software.com/angular-how-to-manage-back-end-long-running-asynchronous-tasks/)\>     
 
 **Websockets**  
@@ -17,8 +18,18 @@
 ==Send HTTP POST request that informs the backend to start the calculations and listen on Websocket connection with a backend that returns data when the calculations finish==  
 **EXAMPLE:**  
 ==At first, you connect to a WebSocket:==  
-==public connect() {====￼====const socket = new== **WebSocket**==(this.webSocketUri);====￼====this.stompClient = Stomp.over(socket);====￼====this.stompClient.connect({},====￼====() =\> this.subscribe()====￼====}====￼==  
+==public connect() {====
+====const socket = new== **WebSocket**==(this.webSocketUri);====
+====this.stompClient = Stomp.over(socket);====
+====this.stompClient.connect({},====
+====() =\> this.subscribe()====
+====}====
+==  
 ==And later on, you subscribe to its values:==  
-==this.stompClient.subscribe('/user/queue/truck-load-updates-queue', (msg: Stomp.Frame) =\> {====￼====const msgBody === **JSON**==.parse(msg.body);====￼====...====￼====});====￼==  
+==this.stompClient.subscribe('/user/queue/truck-load-updates-queue', (msg: Stomp.Frame) =\> {====
+====const msgBody === **JSON**==.parse(msg.body);====
+====...====
+====});====
+==  
 ==The subscription above is triggered after the calculation is done.==
  \> From \<[https://inero-software.com/angular-how-to-manage-back-end-long-running-asynchronous-tasks/](https://inero-software.com/angular-how-to-manage-back-end-long-running-asynchronous-tasks/)\>

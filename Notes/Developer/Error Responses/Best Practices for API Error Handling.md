@@ -16,7 +16,8 @@ Good error codes must pass **three basic criteria** in order to truly be helpful
 
 ```
 
-< HTTP/1.1 400 Bad Request￼\< Date: Wed, 31 May 2017 19:01:41 GMT
+< HTTP/1.1 400 Bad Request
+\< Date: Wed, 31 May 2017 19:01:41 GMT
 < Server: Apache/2.4.25 (Ubuntu)
 < Connection: close
 < Transfer-Encoding: chunked
@@ -31,16 +32,26 @@ Twitter API is a great example of descriptive error reporting codes. Let’s att
 [https://api.twitter.com/1.1/statuses/mentions_timeline.json](https://api.twitter.com/1.1/statuses/mentions_timeline.json)  
 When this is sent to the Twitter API, we receive the following response:  
 ```
-HTTP/1.1 400 Bad Request￼x-connection-hash:￼xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+HTTP/1.1 400 Bad Request
+x-connection-hash:
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 set-cookie:
 guest_id=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Date:￼Thu, 01 Jun 2017 03:04:23 GMT
-Content-Length:￼62
-x-response-time:￼5￼strict-transport-security:
+Date:
+Thu, 01 Jun 2017 03:04:23 GMT
+Content-Length:
+62
+x-response-time:
+5
+strict-transport-security:
 max-age=631138519
-Connection:￼keep-alive
-Content-Type:￼application/json; charset=utf-8
-Server:￼tsa_b￼ 
+Connection:
+keep-alive
+Content-Type:
+application/json; charset=utf-8
+Server:
+tsa_b
+ 
 {"errors":[{"code":215,"message":"Bad Authentication data."}]}
 ```
 
@@ -64,7 +75,22 @@ This request should give us a few basic fields from this user’s Facebook profi
 
 To show a complex failure response code, let’s send a poorly formed (essentially null) GET request to Bing. 
 ```
-HTTP/1.1 200￼Date:￼Thu, 01 Jun 2017 03:40:55 GMT￼Content-Length:￼276￼Connection:￼keep-alive￼Content-Type:￼application/json; charset=utf-8￼Server:￼Microsoft-IIS/10.0￼X-Content-Type-Options:￼nosniff￼ ￼{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"api error codes"},"Errors":[{"Code":1001,"Message":"Required parameter is missing.","Parameter":"SearchRequest.AppId","HelpUrl":"http\u003a\u002f\u002fmsdn.microsoft.com\u002fen-us\u002flibrary\u002fdd251042.aspx"}]}}￼
+HTTP/1.1 200
+Date:
+Thu, 01 Jun 2017 03:40:55 GMT
+Content-Length:
+276
+Connection:
+keep-alive
+Content-Type:
+application/json; charset=utf-8
+Server:
+Microsoft-IIS/10.0
+X-Content-Type-Options:
+nosniff
+ 
+{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"api error codes"},"Errors":[{"Code":1001,"Message":"Required parameter is missing.","Parameter":"SearchRequest.AppId","HelpUrl":"http\u003a\u002f\u002fmsdn.microsoft.com\u002fen-us\u002flibrary\u002fdd251042.aspx"}]}}
+
 ```
 
 ### Spotify
@@ -74,7 +100,13 @@ GET /v1/me/player/currently-playing
 This resulted in the following error:  
 [2017-05-02 13:32:14] production.ERROR: GuzzleHttp\Exception\ServerException: 
 ```
-Server error: `GET [https://api.spotify.com/v1/me/player/currently-playing](https://api.spotify.com/v1/me/player/currently-playing)` resulted in a `502 Bad Gateway` response:￼{￼ "error" : {￼ "status" : 502,￼ "message" : "Bad gateway."￼ }￼}  
+Server error: `GET [https://api.spotify.com/v1/me/player/currently-playing](https://api.spotify.com/v1/me/player/currently-playing)` resulted in a `502 Bad Gateway` response:
+{
+ "error" : {
+ "status" : 502,
+ "message" : "Bad gateway."
+ }
+}  
 ```
 So what makes this a good error code? While the 502 Bad gateway error seems opaque, the additional data in the **header response** is where our value is derived. By noting the error occurring in production and its addressed variable, we get a general sense that the issue at hand is one of the server gateway handling an exception rather than anything external to the server. In other words, we know the request entered the system, but was rejected for an internal issue at that specific exception address.  
 When addressing this issue, it was noted that 502 errors are not abnormal, suggesting this to be an issue with server load or gateway timeouts. In such a case, it’s almost impossible to note granularly all of the possible variables — given that situation, this error code is about the best you could possibly ask for.

@@ -61,7 +61,9 @@ Inside providers we get **organizationId** from token organizationId claim, but
  
 |   |   |   |   |   |
 |---|---|---|---|---|
-|**ADMIN REGISTRATION**|**PLANNING DB****￼****USER**|**PLANNING API RequestInfoProvider**|**PRODUCTION API****￼****RequestInfoProvider**|**TOKEN**|
+|**ADMIN REGISTRATION**|**PLANNING DB****
+****USER**|**PLANNING API RequestInfoProvider**|**PRODUCTION API****
+****RequestInfoProvider**|**TOKEN**|
 |Id|||||
 |==UserId==|==Id==|||==sub==|
 ||ConcurrencyToken||||

@@ -11,7 +11,9 @@ product: Gantt
 ---
 
 - [ ] Update fluidence example repo with latest package version 1.4.2  
-- [ ] bar element.style with 45 deg stripes￼[https://css-tricks.com/stripes-css/#aa-normal-colored-diagonal-stripes](https://css-tricks.com/stripes-css/#aa-normal-colored-diagonal-stripes)￼
+- [ ] bar element.style with 45 deg stripes
+[https://css-tricks.com/stripes-css/#aa-normal-colored-diagonal-stripes](https://css-tricks.com/stripes-css/#aa-normal-colored-diagonal-stripes)
+
 
 ![Exported image](Exported%20image%2020260209140050-0.png)
 
@@ -32,7 +34,9 @@ background-blend-mode: multiply;
    
 
 - [ ] Instead of having layers for bars, have one main layer and many baseline layers  
-- [x] **Rename** bar to bars and **update documentation**￼For handleBarClick￼For HandleBarRightClick
+- [x] **Rename** bar to bars and **update documentation**
+For handleBarClick
+For HandleBarRightClick
 
 ![Exported image](Exported%20image%2020260209140052-1.png)  
 

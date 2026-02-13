@@ -38,7 +38,8 @@ product: ScpCloud
 
 ![Exported image](Exported%20image%2020260209135617-1.png)
 
-- [ ] Procedure name must have a value since we are in production operation entry modal￼
+- [ ] Procedure name must have a value since we are in production operation entry modal
+
 
 ![Exported image](Exported%20image%2020260209135619-2.png)  
 
@@ -55,7 +56,8 @@ product: ScpCloud
 - [ ] 502 Fix order bug ==Zlate==
 
 ![Exported image](Exported%20image%2020260209135627-4.png)   
-- [ ] In Admin api keycloak service, use httpClient created by httpClientFactory not with new inside service￼[https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory](https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory)  
+- [ ] In Admin api keycloak service, use httpClient created by httpClientFactory not with new inside service
+[https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory](https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory)  
 - [ ] Fix the names of contracts to contain the api name. Ayto na ginei oste na min mperdeyoyme ta contracts kai toys clients
     otan kaloyme dyo από διαγορετικό project  
 - [ ] Integrate microsoft clarity in front end app
