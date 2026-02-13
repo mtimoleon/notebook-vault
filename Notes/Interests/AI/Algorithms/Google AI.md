@@ -1,3 +1,7 @@
+---
+created: 2021-08-13
+---
+
 [![Types of ML Problems There are several subclasses ...](Exported%20image%2020260209125846-0.png)](https://developers.google.com/machine-learning/problem-framing/cases#types-of-ml-problems)
 
 **NLP:** thought vectors ( Geoff Hinton ) From \<[https://ai.googleblog.com/2015/11/computer-respond-to-this-email.html](https://ai.googleblog.com/2015/11/computer-respond-to-this-email.html)\>

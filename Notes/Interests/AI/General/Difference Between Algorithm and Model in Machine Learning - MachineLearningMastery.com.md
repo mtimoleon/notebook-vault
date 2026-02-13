@@ -1,3 +1,7 @@
+---
+created: 2025-01-03
+---
+
 Clipped from: [https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)  
 Machine learning involves the use of machine learning **algorithms** and **models**.  
 For beginners, this is very confusing as often “_machine learning algorithm_” is used interchangeably with “_machine learning model_.” Are they the same thing or something different?  

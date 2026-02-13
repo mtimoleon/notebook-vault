@@ -1,3 +1,7 @@
+---
+created: 2025-03-06
+---
+
 [https://chatgpt.com/c/67ca0793-ded8-8012-a041-babb1c7c8f44](https://chatgpt.com/c/67ca0793-ded8-8012-a041-babb1c7c8f44)
  
 [https://www.perplexity.ai/search/pid-signposting-DtxUdAyvSkidmT79rd5_yw](https://www.perplexity.ai/search/pid-signposting-DtxUdAyvSkidmT79rd5_yw)

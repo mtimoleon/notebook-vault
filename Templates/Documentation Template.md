@@ -1,7 +1,6 @@
-﻿---
+---
 categories:
   - "[[Documentation]]"
-org:
 product: []
 component: []
 created: {{date}}

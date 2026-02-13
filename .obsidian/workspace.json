@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8639bd365f1b80f5",
+        "id": "026f1f99bd8e6296",
         "type": "tabs",
         "children": [
           {
-            "id": "cb47844ce1abcf27",
+            "id": "52c3d34fba504fec",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
-                "bFile": "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
-                "aRef": ""
+                "file": "Notes/Interests/AI/Models/SatCLIP paper.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Instructions - Add keycloak client from realm settings  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "SatCLIP paper"
             }
           }
         ]
@@ -41,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#intelligen",
+                "query": "\"![Discover Anything m miro 572 reads Miro The Innova...](Exported%20image%2020260209130850-0.png)\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 453.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -87,7 +97,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 32.4298160696999,
+        "dimension": 36.78606001936108,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md",
+                "file": "Notes/Interests/AI/Models/SatCLIP paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Πίνακες"
+              "title": "Backlinks for SatCLIP paper"
             }
           },
           {
@@ -114,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md",
+                "file": "Notes/Interests/AI/Models/SatCLIP paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Πίνακες"
+              "title": "Outgoing links from SatCLIP paper"
             }
           },
           {
@@ -129,7 +139,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -156,9 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Notes/Interests/AI/Models/SatCLIP paper.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for SatCLIP paper"
             }
           }
         ],
@@ -167,7 +179,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 19.651500484027107,
+        "dimension": 29.33204259438529,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -175,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Interests/AI/Models/SatCLIP paper.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SatCLIP paper"
             }
           },
           {
@@ -200,7 +213,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 47.91868344627299,
+        "dimension": 33.88189738625363,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -246,54 +259,53 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb47844ce1abcf27",
+  "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
-    "Notes/Home/Συντάξεις/Γενική Διεύθυνση Πληροφορικής και Επικοινωνιών  e-ΕΦΚΑ.md",
-    "Notes/Home/Σπίτι/Κλίμακα Beaufort.md",
-    "Notes/Home/Σπίτι/Σχέδιο πέργκολας.md",
-    "Notes/Home/Συντάξεις/Ένσημα Μιχάλης.md",
-    "Notes/Home/Συντάξεις/Ιστορικό ασφάλισης.md",
-    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μιχάλη.md",
-    "Notes/Home/Υγεία/Μιχάλης ιστορικό.md",
+    "Notes/Interests/AI/Models/SatCLIP paper.md",
+    "Attachments/2311.17179v3 1.pdf",
+    "Attachments/2311.17179v3.pdf",
+    "Notes/Interests/AI/Models/Synthetic Intelligence Beyond A.I. and Robotics.md",
+    "Attachments/lindleyInBiosa.pdf",
+    "Notes/Interests/AI/Models/What is chain of thought prompt.md",
+    "Notes/Interests/AI/Models/From Data Silos to Intelligent Systems RAG and Knowledge Graph Synergy.md",
+    "Notes/Interests/AI/Models/How to choose the right AI model.md",
+    "Notes/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
+    "Attachments/Notes/Interests/AI/Models/https--hackernoon.com-from-data-silos-to-intelligent-systems-rag-and-knowledge-graph-synergy.md/Exported image 20260209130850-0.png",
+    "Attachments/Συνημμένο.pdf",
+    "Notes/Interests/AI/Algorithms/Model compression/Scaling Laws for Neural Language Models.md",
+    "Attachments/2001.08361v1.pdf",
+    "Notes/Intelligen/Gantt/Backlog.md",
+    "Attachments/Notes/Intelligen/Gantt/Backlog/Backlog.md/Exported image 20260209140052-1.png",
+    "Attachments/Notes/Intelligen/Gantt/Backlog/Backlog.md/Exported image 20260209140050-0.png",
+    "Notes/Intelligen/Backlog.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/2025.md",
+    "Tools/dead-attachment-links.csv",
+    "Tools/check-dead-attachments.ps1",
+    "Clippings/Git Subtree.md",
+    "Clippings/Git Submodule.md",
+    "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md",
+    "Tools/ensure-created.report.jsonl",
+    "Tools/ensure-created.ps1",
+    "Notes/Intelligen/Gantt/Documentation/Create library package/The Ultimate Guide to Getting Started with the Rollup.js JavaScript Bundler  by Craig Buckler  StackAnatomy  Medium.md",
+    "Notes/Intelligen/Gantt/Documentation/Scrolling flow.md",
+    "Notes/Intelligen/Gantt/Documentation/Create library package/Obfuscator settings.md",
+    "Notes/Intelligen/Gantt/Documentation/Create library package/File export as Module.md",
+    "Notes/Intelligen/Gantt/Completed issues/Create library package.md",
+    "Notes/Intelligen/Gantt/Completed issues/Arrows on operations rows.md",
+    "Notes/Intelligen/Gantt/Current issues/127-Scroll-improvements.md",
+    "Notes/Intelligen/Gantt/Completed issues/120-Arrows-bug.md",
+    "Notes/Intelligen/Gantt/Completed issues/108-Add-timeline.md",
+    "Notes/Intelligen/Gantt/Completed issues/105-Move-bars-update.md",
+    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
+    "Notes/Intelligen/Gantt/Documentation/Gantt z-Indexes.md",
+    "Untitled",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image.png",
-    "Notes/Home/Υγεία/Πνευμονολόγοι.md",
-    "Notes/Home/Υγεία/Σύνδρομο Παγωμένου Ώμου — Οδηγός Ασκήσεων.md",
-    "Notes/Home/Υγεία/Συνταγή οφθαλμίατρος Μιχάλης.md",
-    "Notes/Home/Συντάξεις/Σύνταξη.md",
-    "Notes/Home/Συντάξεις/Συνοπτικό ιστορικό Μάγδας.md",
-    "Notes/Home/Συντάξεις/Ένσημα Μάγδας.md",
-    "Notes/Home/Σπίτι/ΠΛΑΚΑΚΙΑ ΣΑΝ ΠΕΤΡΑ - Damask.gr  Elegant Synthesis of Home Materials.md",
-    "Notes/Home/Σπίτι/Πετρέλαιο, φυσικό αέριο ή ρεύμα; Ποιο σύστημα θέρμανσης τελικά συμφέρει - Παραδείγματα  Ημερησία.md",
-    "Notes/Home/Σπίτι/Όλα όσα θέλετε να ξέρετε για τα Δάπεδα Βινυλίου  SOULOUPOSETO.md",
-    "Notes/Home/Σπίτι/Λαμπάκια.md",
-    "Notes/Home/Σπίτι/Υλικά/ΝΕΟΤΕΧ.md",
-    "Notes/Home/Σπίτι/Υλικά/Έκπτωση φόρου για ανακαίνιση.pdf.md",
-    "Notes/Home/Σπίτι/Υλικά/Revestech.md",
-    "Notes/Home/Σπίτι/Υλικά/ISOMAT Μεμβράνη αποσύμπλεξης και στεγάνωσης.md",
-    "Notes/Home/Σπίτι/Υλικά/Ceresit.md",
-    "Notes/Home/Σπίτι/Τεντοπέργκολα/Πριτσίνια με σπείρωμα (RIVETNUTS) - Blog - Rivel.md",
-    "Notes/Home/Μαμά/Φάρμακα μαμάς.md",
-    "Notes/Home/Μαμά/Ιατρικό ιστορικό.md",
-    "Notes/Home/Μαμά/Επιδότηση ενοικίου.md",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image-1.png",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md/image-2.png",
     "Attachments/image-2.png",
-    "Attachments/~$heduleTiming.docx",
-    "Attachments/ScheduleTiming.docx",
     "Attachments/image-1.png",
     "Attachments/image.png",
     "Attachments/Notes/Intelligen/Keycloak/Documentation/Documentation - Update realm.md/image.png",
-    "Attachments/Notes/Intelligen/Current issues/Telemetry.md/Exported image 20260209140001-5.png",
-    "orphan-attachments-report-20260212-152742.txt",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Εργασία/Άδεια αναψυχής Πόση δικαιούστε, πώς μπορείτε να την υπολογίσετε.md/Exported image 20260209140849-2.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Εργασία",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md/Exported image 20260209140239-10.png",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation/Windows authentication",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Documentation",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak/Completed issues",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Keycloak",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Current issues",
-    "Attachments/_orphaned/2026-02-12/Notes/Intelligen/Completed issues",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

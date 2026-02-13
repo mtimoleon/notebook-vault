@@ -1,3 +1,7 @@
+---
+created: 2025-01-06
+---
+
 Clipped from: [https://en.wikipedia.org/wiki/Time_complexity#](https://en.wikipedia.org/wiki/Time_complexity#)
 
 

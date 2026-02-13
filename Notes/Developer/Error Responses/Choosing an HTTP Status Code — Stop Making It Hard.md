@@ -1,3 +1,7 @@
+---
+created: 2022-04-07
+---
+
 Clipped from: [https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)  
 [Michael Kropat](http://www.codetinkerer.com/about)  
 Dec 4, 2015 • 5 min read  

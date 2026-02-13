@@ -1,3 +1,7 @@
+---
+created: 2023-04-11
+---
+
 Clipped from: [https://en.wikipedia.org/wiki/List_of_economic_crises](https://en.wikipedia.org/wiki/List_of_economic_crises)  
 This is a **list of economic crises and depressions.**
 

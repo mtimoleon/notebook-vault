@@ -1,3 +1,7 @@
+---
+created: 2024-12-27
+---
+
 Clipped from: [https://www.cs.cornell.edu/~caruana/compression.kdd06.pdf?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8Nn5OVj3dTBdTH-GAmIwKoZcC1BwKNAoatZ0GojmK4u2kdR00P1UCZ6glOBmFJQdyng0hiGzuTE21Jqa0ISs-hk4eqmQ&_hsmi=340071601&utm_content=340067195&utm_source=hs_email](https://www.cs.cornell.edu/~caruana/compression.kdd06.pdf?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-8Nn5OVj3dTBdTH-GAmIwKoZcC1BwKNAoatZ0GojmK4u2kdR00P1UCZ6glOBmFJQdyng0hiGzuTE21Jqa0ISs-hk4eqmQ&_hsmi=340071601&utm_content=340067195&utm_source=hs_email)
 
 ![Model Compression Cristian Bucil Computer Science ...](Exported%20image%2020260209130057-0.png)

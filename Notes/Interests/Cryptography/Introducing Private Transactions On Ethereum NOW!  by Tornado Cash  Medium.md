@@ -1,3 +1,7 @@
+---
+created: 2022-04-19
+---
+
 Clipped from: [https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-42ee915babe0](https://tornado-cash.medium.com/introducing-private-transactions-on-ethereum-now-42ee915babe0)  
 
 By default, your entire Ethereum transaction history and balances are public. All transactions can be seen on block explorers like Etherscan, and anyone who knows that you own a particular address can easily view your payments, trace the source of your funds, calculate your holdings, and analyse your on-chain activity.

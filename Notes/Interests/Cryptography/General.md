@@ -1,2 +1,6 @@
+---
+created: 2021-08-28
+---
+
 Quantum Cryptography: [https://en.wikipedia.org/wiki/Quantum_cryptography](https://en.wikipedia.org/wiki/Quantum_cryptography)  
 Sambego presentation: [https://jose.sambego.tech/](https://jose.sambego.tech/)

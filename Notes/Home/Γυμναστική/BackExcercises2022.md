@@ -1,3 +1,7 @@
+---
+created: 2023-12-22
+---
+
 [Προεπισκόπηση συνημμένου BackExcercises2022.docx](https://mail.google.com/mail/u/0?ui=2&ik=a19c85291a&attid=0.2&permmsgid=msg-f:1785835964183977402&th=18c89059004d9dba&view=att&disp=safe&realattid=f_lqe983rs1)
  [![Exported image](Exported%20image%2020260211194436-0.png)](https://mail.google.com/mail/u/0?ui=2&ik=a19c85291a&attid=0.2&permmsgid=msg-f:1785835964183977402&th=18c89059004d9dba&view=att&disp=safe&realattid=f_lqe983rs1)
 

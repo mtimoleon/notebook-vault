@@ -1,3 +1,7 @@
+---
+created: 2025-12-02
+---
+
 Clipped from: [https://www.e-efka.gov.gr/el/yperesies-e-ephka/epikoinonia-dioikisi-efka-kentrikes-ipiresies/geniki-dieythynsi-pliroforikis-kai-epikoinonion](https://www.e-efka.gov.gr/el/yperesies-e-ephka/epikoinonia-dioikisi-efka-kentrikes-ipiresies/geniki-dieythynsi-pliroforikis-kai-epikoinonion)  
 **Γενική Διεύθυνση Πληροφορικής και Επικοινωνιών**  
 **e-mail:** **gd.it@efka.gov.gr****

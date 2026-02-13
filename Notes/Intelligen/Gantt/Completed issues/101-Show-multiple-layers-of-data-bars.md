@@ -5,7 +5,6 @@ categories:
 created: 2025-03-17T16:46
 tags:
   - intelligen
-  - gantt
 status: completed
 product: Gantt
 ---

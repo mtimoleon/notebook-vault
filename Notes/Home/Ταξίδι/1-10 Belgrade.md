@@ -1,3 +1,7 @@
+---
+created: 2025-05-25
+---
+
 ![Exported image](Exported%20image%2020260211200144-0.png) ![Exported image](Exported%20image%2020260211200145-1.png)
  
 ==Please send messages exclusively from 8:00 AM to 2:00 PM, as this is our busiest time managing bookings and reservations. After 2:00 PM, you may call only if your check-in is scheduled for the same day. If your check-in is for a future date, please send a message instead—we will respond within 24 hours. Please understand that, at times, we may have up to 500 guests requiring assistance simultaneously. To ensure everyone gets the help they need, we kindly ask you NOT to make multiple calls in quick succession, as it can create unnecessary stress for our team. Thank you for your understanding and cooperation!==  

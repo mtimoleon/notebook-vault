@@ -1,3 +1,7 @@
+---
+created: 2021-10-20
+---
+
 Clipped from: [https://jaxenter.com/blockchain-data-164727.html](https://jaxenter.com/blockchain-data-164727.html)
 
 ![Exported image](Exported%20image%2020260211205154-0.jpeg)

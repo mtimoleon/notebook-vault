@@ -5,7 +5,6 @@ categories:
 created: 2024-05-14T15:30
 tags:
   - intelligen
-  - gantt
 ---
 To export your file as a module in JavaScript, you can use the export keyword. Here are a few ways to do it:
 1. Named Exports: You can export multiple named exports from a file. These can be variables, functions, objects, etc.

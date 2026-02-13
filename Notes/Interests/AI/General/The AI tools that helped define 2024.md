@@ -1,3 +1,7 @@
+---
+created: 2024-12-24
+---
+
 **The AI tools that helped define 2024**  
 **A special winter holiday issue of Data Points**  
 Usually, Data Points brings you the latest AI news, tools, models, and research in brief. But in today’s special winter holiday edition, you’ll find something different: a Data Points-sized summary of twelve of the AI tools that helped us find our way in 2024.  

@@ -1,3 +1,7 @@
+---
+created: 2022-03-15
+---
+
 Meeting 15-3-2022
  
 Captain coach to sent user model to central system through api  

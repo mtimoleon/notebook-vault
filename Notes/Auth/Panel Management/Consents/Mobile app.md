@@ -1,3 +1,7 @@
+---
+created: 2022-07-01
+---
+
 ```
 Your Ionic app is ready! Follow these next steps:
 

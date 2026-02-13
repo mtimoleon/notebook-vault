@@ -1,5 +1,8 @@
 ---
+created: 2026-01-15
 tags:
+
+
   - prompts
 ---
 model = "gpt-5.2-codex"  

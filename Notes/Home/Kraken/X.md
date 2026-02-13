@@ -1,3 +1,7 @@
+---
+created: 2024-11-10
+---
+
 [https://bscscan.com/tx/0x3ed4f64d711bd44fe22a5c6a77fbe1eeb74f440159ca14cf1536836eddfe48da](https://bscscan.com/tx/0x3ed4f64d711bd44fe22a5c6a77fbe1eeb74f440159ca14cf1536836eddfe48da)
 
 ![Exported image](Exported%20image%2020260211194133-0.png)

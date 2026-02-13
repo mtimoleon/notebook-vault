@@ -1,3 +1,7 @@
+---
+created: 2024-12-28
+---
+
 Clipped from: [https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA](https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA)  
 The **Sybil AI** algorithm, developed through a collaboration between MIT and Massachusetts General Hospital, is indeed available as an open-source tool. Here’s how you can access and utilize it for research purposes:
 

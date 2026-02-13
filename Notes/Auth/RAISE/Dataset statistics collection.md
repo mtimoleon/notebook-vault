@@ -1,3 +1,7 @@
+---
+created: 2024-06-26
+---
+
 [https://guidelines.openaire.eu/en/latest/data/index.html](https://guidelines.openaire.eu/en/latest/data/index.html)
    
 

@@ -1,3 +1,7 @@
+---
+created: 2024-08-21
+---
+
 - [ ] Technical requirements and description of the RAI finder service, Popular dataset preservation and multi-tenant RAI node and the Fair publishing of RAIs and results repository, and description of the RAI validates authenticity of results and popular dataset preservation workflows.
  \> Από \<[https://app.slack.com/client/T04F4S5GVQB/search](https://app.slack.com/client/T04F4S5GVQB/search)\>   
 ## **Task 3.2 RAISE FAIR Catalogue and Portal for data discovery (INTRA)**

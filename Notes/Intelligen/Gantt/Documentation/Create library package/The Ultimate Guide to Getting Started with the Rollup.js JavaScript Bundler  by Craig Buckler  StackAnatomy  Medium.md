@@ -1,12 +1,20 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
-created: 2024-05-14T20:56
+created: 2026-02-13
 tags:
   - intelligen
-  - gantt
+product:
+  - Gantt
+component: []
 ---
+
+## Summary
+
+## Details
+
+## Links
 
 Clipped from: [https://medium.com/stackanatomy/the-ultimate-guide-to-getting-started-with-the-rollup-js-javascript-bundler-2ebec9398656](https://medium.com/stackanatomy/the-ultimate-guide-to-getting-started-with-the-rollup-js-javascript-bundler-2ebec9398656)
 

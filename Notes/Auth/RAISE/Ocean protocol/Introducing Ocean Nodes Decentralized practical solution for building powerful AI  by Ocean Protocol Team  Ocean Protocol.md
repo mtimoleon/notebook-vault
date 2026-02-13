@@ -1,3 +1,7 @@
+---
+created: 2025-07-21
+---
+
 Clipped from: [https://blog.oceanprotocol.com/introducing-ocean-nodes-decentralized-practical-solution-for-building-powerful-ai-c72fc6747165](https://blog.oceanprotocol.com/introducing-ocean-nodes-decentralized-practical-solution-for-building-powerful-ai-c72fc6747165)
 
 [![Ocean Protocol Team](Exported%20image%2020260211205125-0.png)](https://medium.com/@TeamOcean?source=post_page---byline--c72fc6747165---------------------------------------)

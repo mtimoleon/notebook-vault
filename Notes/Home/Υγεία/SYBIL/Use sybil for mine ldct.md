@@ -1,3 +1,7 @@
+---
+created: 2024-12-28
+---
+
 Clipped from: [https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA](https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA)  
 To use **Sybil AI** for your low-dose computed tomography (LDCT) scan, follow these steps:
 

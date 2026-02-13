@@ -1,3 +1,7 @@
+---
+created: 2021-09-18
+---
+
 Clipped from: [https://devblogs.microsoft.com/qsharp/quantum-software-development-using-the-qdk/?ocid=aid3021690](https://devblogs.microsoft.com/qsharp/quantum-software-development-using-the-qdk/?ocid=aid3021690)
 
 Mariia  

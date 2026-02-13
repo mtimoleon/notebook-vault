@@ -1,3 +1,7 @@
+---
+created: 2023-11-19
+---
+
 Clipped from: [https://www.alpha.gr/el/idiotes/kartes/upiresies/prostasia-agoron](https://www.alpha.gr/el/idiotes/kartes/upiresies/prostasia-agoron)
 
 ![prostasiaagoron](Exported%20image%2020260211194209-0.png)

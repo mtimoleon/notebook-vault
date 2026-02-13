@@ -1,3 +1,7 @@
+---
+created: 2022-01-31
+---
+
 [https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps](https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps)
  
 [https://www.linode.com/docs/guides/how-to-secure-mysql-server/](https://www.linode.com/docs/guides/how-to-secure-mysql-server/)

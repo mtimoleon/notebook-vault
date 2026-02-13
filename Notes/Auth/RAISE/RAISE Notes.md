@@ -1,3 +1,7 @@
+---
+created: 2025-10-15
+---
+
 - **RAISE Notes**
     - RAISE flows: [https://drive.google.com/drive/folders/1eSSgIME0fxqQhVNSdDVg8X3q5LT-s2nJ](https://drive.google.com/drive/folders/1eSSgIME0fxqQhVNSdDVg8X3q5LT-s2nJ)
     - Drive document for integrations: [https://docs.google.com/document/d/1uuGzFLrX1lz3_z0k2b5T0B7aFcIfm4ewvVYS_kgU1C4](https://docs.google.com/document/d/1uuGzFLrX1lz3_z0k2b5T0B7aFcIfm4ewvVYS_kgU1C4) #important

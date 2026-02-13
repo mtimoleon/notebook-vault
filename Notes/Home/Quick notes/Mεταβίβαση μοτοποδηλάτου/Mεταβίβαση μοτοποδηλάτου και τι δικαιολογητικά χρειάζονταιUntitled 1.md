@@ -1,3 +1,7 @@
+---
+created: 2026-02-11
+---
+
 Clipped from: https://www.astynomia.gr/odigos-tou-politi/dikaiologitika/motopodilata-adeia-odigisis-adeia-kykloforias-metavivasi/pou-na-apefthyntho-gia-metavivasi-motopodilatou-kai-ti-dikaiologitika-chreiazontai-chreiazetai-na-proskomiso-kai-to-motopodilato-gia-elegcho/
 Απευθύνεστε στα Τμήματα Τροχαίας και στα Αστυνομικά Τμήματα που χειρίζονται θέματα Τροχαίας καθώς και στα ΚΕΠ.
 Τα δικαιολογητικά που απαιτούνται είναι τα εξής:

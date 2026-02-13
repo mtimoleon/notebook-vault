@@ -1,3 +1,7 @@
+---
+created: 2025-11-20
+---
+
 [https://github.com/tidalcycles/Dirt-Samples](https://github.com/tidalcycles/Dirt-Samples)  
 [https://github.com/switchangel](https://github.com/switchangel)
    

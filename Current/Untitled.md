@@ -1,0 +1,6 @@
+---
+categories:
+  - "[[Documentation]]"
+product:
+component:
+---

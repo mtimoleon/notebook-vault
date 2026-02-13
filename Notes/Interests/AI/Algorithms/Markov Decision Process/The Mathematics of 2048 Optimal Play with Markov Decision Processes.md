@@ -1,3 +1,7 @@
+---
+created: 2024-12-27
+---
+
 [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
  
 Clipped from: [https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)  

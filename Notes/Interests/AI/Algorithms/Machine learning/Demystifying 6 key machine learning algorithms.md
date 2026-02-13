@@ -1,3 +1,7 @@
+---
+created: 2022-06-28
+---
+
 Clipped from: [https://mail.google.com/mail/u/0/?zx=tcn2064j5ymd#inbox/FMfcgzGpGdmpGKzbfNkJFbTtdjFMptlh](https://mail.google.com/mail/u/0/?zx=tcn2064j5ymd#inbox/FMfcgzGpGdmpGKzbfNkJFbTtdjFMptlh)
 
 ![Exported image](Exported%20image%2020260209130033-0.png)

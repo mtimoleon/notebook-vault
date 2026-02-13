@@ -1,3 +1,7 @@
+---
+created: 2022-05-24
+---
+
 ![Events Start date 01 Jun 2020, 0006 27 Jun 2022, 1...](Exported%20image%2020260211204056-0.png)
 
 ==Project "name" Studies==

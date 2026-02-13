@@ -1,3 +1,7 @@
+---
+created: 2025-07-03
+---
+
 [https://www.deviantart.com/starwarscartographer](https://www.deviantart.com/starwarscartographer)
  
 Clipped from: [https://static1.srcdn.com/wordpress/wp-content/uploads/2025/06/star-wars-galaxy-map.jpeg](https://static1.srcdn.com/wordpress/wp-content/uploads/2025/06/star-wars-galaxy-map.jpeg)

@@ -1,3 +1,7 @@
+---
+created: 2021-08-29
+---
+
 **Solve RL With This One Weird Trick**  
 ==The previous state-of-the-art model for playing vintage Atari games took advantage of a number of advances in reinforcement learning (RL). The new champion is a basic RL architecture plus a trick borrowed from image generation.==  
 **What’s new:** ==A team led by Florin Gogianu, Tudor Berariu, and colleagues== ==found== ==that spectral normalization, a technique that limits the degree of variation between representations of similar inputs, improved an RL model’s performance more than several recent innovations combined.== ==The team included researchers at Bitdefender, Deepmind, Imperial College London, Technical University of Cluj-Napoca, and University College London.==  

@@ -1,3 +1,7 @@
+---
+created: 2022-03-10
+---
+
 Clipped from: [https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97](https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97)
 
 ![F DELECTRON React](Exported%20image%2020260208235847-0.png)

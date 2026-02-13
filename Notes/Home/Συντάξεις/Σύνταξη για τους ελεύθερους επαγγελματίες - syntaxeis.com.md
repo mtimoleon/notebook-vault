@@ -1,3 +1,7 @@
+---
+created: 2024-09-26
+---
+
 Clipped from: [https://syntaxeis.com/blog/syntaxi-gia-tou-eleutherous-epaggelmaties/](https://syntaxeis.com/blog/syntaxi-gia-tou-eleutherous-epaggelmaties/)
 
 ![Exported image](Exported%20image%2020260211195929-0.jpeg)

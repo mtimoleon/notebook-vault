@@ -1,9 +1,5 @@
-﻿---
-product: ScpCloud
-tags:
-  - intelligen
 ---
-ο»Ώ---
+product: ScpCloud
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
@@ -11,7 +7,6 @@ created: 2022-11-08T16:15
 tags:
   - intelligen
 ---
-
 \<Entity\>LookupDto  
 Contains:
 

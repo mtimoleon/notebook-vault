@@ -1,3 +1,7 @@
+---
+created: 2024-12-28
+---
+
 Clipped from: [https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA](https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA)  
 To create a lung cancer prediction model using **Sybil**, you can utilize various tools and components from the open-source repository associated with Sybil. Here’s a structured approach based on the information available:
 

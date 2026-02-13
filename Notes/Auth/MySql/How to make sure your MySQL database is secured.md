@@ -1,3 +1,7 @@
+---
+created: 2022-01-26
+---
+
 Clipped from: [https://www.freecodecamp.org/news/cjn-is-your-mysql-secured-7793e5444cf5/](https://www.freecodecamp.org/news/cjn-is-your-mysql-secured-7793e5444cf5/)
  ![How to make sure your MySQL database is secured](Exported%20image%2020260211203947-0.png) _Some basic information before we get started:_
 

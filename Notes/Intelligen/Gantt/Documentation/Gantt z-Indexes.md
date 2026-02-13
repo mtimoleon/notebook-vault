@@ -1,12 +1,21 @@
-﻿---
+---
+product:
+  - Gantt
 categories:
-  - "[[Work]]"
   - "[[Documentation]]"
+  - "[[Work]]"
+component: []
 created: 2025-12-08T15:32
 tags:
   - intelligen
   - gantt
 ---
+
+## Summary
+
+## Details
+
+## Links
 
 |     |                              |
 | --- | ---------------------------- |

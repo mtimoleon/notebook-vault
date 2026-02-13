@@ -1,3 +1,7 @@
+---
+created: 2024-12-28
+---
+
 Clipped from: [https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA](https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA)  
 **Sybil AI** is currently available as an open-source tool, allowing researchers and institutions to access and utilize its capabilities for predicting lung cancer risk based on low-dose computed tomography (LDCT) scans. Here’s how you can use Sybil and what to expect regarding its availability:
 

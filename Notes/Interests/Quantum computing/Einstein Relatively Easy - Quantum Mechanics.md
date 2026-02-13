@@ -1,3 +1,7 @@
+---
+created: 2025-01-06
+---
+
 Clipped from: [https://einsteinrelativelyeasy.com/index.php/quantum-mechanics](https://einsteinrelativelyeasy.com/index.php/quantum-mechanics)
 
 

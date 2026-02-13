@@ -1,3 +1,7 @@
+---
+created: 2025-11-25
+---
+
 Clipped from: [https://greekonomics.gr/afieroma-stis-ependyseis/](https://greekonomics.gr/afieroma-stis-ependyseis/)
 
 ![Exported image](Exported%20image%2020260211194027-0.jpeg)

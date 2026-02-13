@@ -1,9 +1,5 @@
 ---
 component: Keycloak
-tags:
-  - intelligen
----
-?---
 created: 2025-05-08T10:04
 tags:
   - keycloak
@@ -12,7 +8,6 @@ categories:
   - "[[Work]]"
   - "[[Documentation]]"
 ---
-
 **Keycloak documentation**  
 [https://www.keycloak.org/docs/latest/server_admin/index.html#_user-storage-federation](https://www.keycloak.org/docs/latest/server_admin/index.html#_user-storage-federation)  
 [https://www.keycloak.org/docs/latest/server_admin/index.html#_ldap](https://www.keycloak.org/docs/latest/server_admin/index.html#_ldap)

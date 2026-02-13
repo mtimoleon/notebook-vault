@@ -1,3 +1,7 @@
+---
+created: 2021-09-29
+---
+
 ![Provisioned Capacity RCU WCU level Set consumption...](Exported%20image%2020260211201408-0.png)
 
 ![Amazon DynamoDB Fast and flexible NoSQL database s...](Exported%20image%2020260211201413-1.png)

@@ -1,3 +1,7 @@
+---
+created: 2026-02-11
+---
+
 To become **eIDAS compliant**, you need to ensure that your service meets the requirements for electronic identification, authentication, and trust services as outlined by the eIDAS Regulation. Here are the key steps you should take:
 
 1. **Electronic Identification (eID)**: Implement a system for electronic identification that complies with eIDAS standards. This means your users should be able to authenticate themselves using a recognized eID method.

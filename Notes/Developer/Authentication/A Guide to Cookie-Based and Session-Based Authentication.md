@@ -1,3 +1,7 @@
+---
+created: 2024-12-27
+---
+
 ![Exported image](Exported%20image%2020260208235813-8.png)
 ![Exported image](Exported%20image%2020260208235811-7.png) 
 ![Exported image](Exported%20image%2020260208235806-6.png) 

@@ -1,3 +1,7 @@
+---
+created: 2025-02-13
+---
+
 ![Exported image](Exported%20image%2020260211194609-0.png)
 
 [https://pospoint.gr/legal/](https://pospoint.gr/legal/)  

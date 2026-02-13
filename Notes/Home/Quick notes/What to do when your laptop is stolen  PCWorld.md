@@ -1,3 +1,7 @@
+---
+created: 2024-05-01
+---
+
 Clipped from: [https://www.pcworld.com/article/394850/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html](https://www.pcworld.com/article/394850/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html)
  
 Having your laptop stolen isn’t just stressful because you need to replace a pricey piece of hardware—it also poses a threat to your digital security. Fortunately, there are steps you can take to protect yourself both before and after your laptop goes missing.  

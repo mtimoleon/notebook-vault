@@ -1,3 +1,7 @@
+---
+created: 2025-02-06
+---
+
 I believe we can focus today's discussion on:
  
 - PID agnostic blockchain writting - check (and feel free to update, create alternatives) Evdo's approach [https://swimlanes.io/u/iKOTPJcGJw](https://swimlanes.io/u/iKOTPJcGJw) vs Gorka's approach [https://swimlanes.io/u/dKbzDOAcGL](https://swimlanes.io/u/dKbzDOAcGL)

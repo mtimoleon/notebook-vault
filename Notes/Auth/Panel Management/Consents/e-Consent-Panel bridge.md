@@ -1,3 +1,7 @@
+---
+created: 2022-05-30
+---
+
 ![liid NC type NC value associationld associatio n O...](Exported%20image%2020260211204104-0.png)
 
 - A panel management organization is the user (the account) of e-Consent service. This means that jwt is created for organization owner? or the actual organization? We need to create (hardcoded) Admin account for each organization-owner. ![econsentdb.users Docu ments Aggregations ALTER ADD...](Exported%20image%2020260211204105-1.png)  

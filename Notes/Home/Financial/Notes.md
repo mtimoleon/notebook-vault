@@ -1,3 +1,7 @@
+---
+created: 2024-09-01
+---
+
 Renaissance Institutional Equities Fund (RIEF)  
 Medallion
    

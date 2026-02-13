@@ -1,3 +1,7 @@
+---
+created: 2024-09-08
+---
+
 //@version=5
  
 strategy("markov", overlay=true, default_qty_type=strategy.percent_of_equity, default_qty_value=100)

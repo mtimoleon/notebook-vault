@@ -1,3 +1,7 @@
+---
+created: 2021-10-21
+---
+
 Clipped from: [https://www.linux.com/training-tutorials/linux-filesystem-explained/](https://www.linux.com/training-tutorials/linux-filesystem-explained/)
  ![bin essential user command binaries bash cat chmod...](Exported%20image%2020260209000024-0.png)   
 Back in 1996 I learned how to install software on my spanking new Linux before really understanding the topography of the filesystem. This turned out to be a problem, not so much for programs, because they would just magically work even though I hadn’t a clue of where the actual executable files landed. The problem was the documentation.  

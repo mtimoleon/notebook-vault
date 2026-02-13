@@ -1,3 +1,7 @@
+---
+created: 2021-10-27
+---
+
 October-2020 ==Virtual Coaching for Older Adults at Home using SMART Goal Supported Behavior Chang==
  \> From \<[https://www.researchgate.net/publication/348016314_Virtual_Coaching_for_Older_Adults_at_Home_using_SMART_Goal_Supported_Behavior_Change](https://www.researchgate.net/publication/348016314_Virtual_Coaching_for_Older_Adults_at_Home_using_SMART_Goal_Supported_Behavior_Change)\>      
 2019  

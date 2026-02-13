@@ -1,3 +1,7 @@
+---
+created: 2022-03-23
+---
+
 ![Exported image](Exported%20image%2020260211193740-0.png) ![Exported image](Exported%20image%2020260211193743-1.png)
  
 Extract the "Mirascript" archive on your key and keep only the "RT6_USERCOM.CMD" file from the "CMD" folder.  

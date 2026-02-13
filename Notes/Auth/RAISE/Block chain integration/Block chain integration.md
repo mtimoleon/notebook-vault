@@ -1,3 +1,7 @@
+---
+created: 2024-10-04
+---
+
 **Blockchain Registration flow:** [https://swimlanes.io/u/DBfoGFqkYz](https://swimlanes.io/u/DBfoGFqkYz)
    
 \> Από \<[https://docs.google.com/document/d/1lFByH3jm139qFkW1dAD3rcpfwA6hZmSN_NhS8hKdKeE/edit?usp=gmail](https://docs.google.com/document/d/1lFByH3jm139qFkW1dAD3rcpfwA6hZmSN_NhS8hKdKeE/edit?usp=gmail)\>   

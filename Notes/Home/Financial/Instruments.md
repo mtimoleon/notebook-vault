@@ -1,3 +1,7 @@
+---
+created: 2024-08-10
+---
+
 When it comes to day trading, selecting the right instruments is crucial. Here are some options to consider:
 
 1. **Price Rate of Change (ROC)**: This indicator measures the rate at which a security’s price changes over time. It’s powerful for gauging both speed and direction of price movements. [Backtesting shows a](https://www.liberatedstocktrader.com/best-indicators-for-day-trading/) **93% win rate** on Dow Jones stocks1.

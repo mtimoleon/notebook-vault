@@ -1,3 +1,7 @@
+---
+created: 2021-11-05
+---
+
 # Richer Video Representations
 
 To understand a movie scene, viewers often must remember or infer previous events and extrapolate potential consequences. New work improved a model’s ability to do the same.  

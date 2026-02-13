@@ -1,3 +1,7 @@
+---
+created: 2021-08-18
+---
+
 A Process Model of Emotions in a Multi-Agent System: [https://condor.depaul.edu/~elliott/ar/papers/dis/elliott-phd.html](https://condor.depaul.edu/~elliott/ar/papers/dis/elliott-phd.html)
    
 

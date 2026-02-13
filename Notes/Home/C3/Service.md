@@ -1,3 +1,7 @@
+---
+created: 2024-01-07
+---
+
 Σύμφωνα με το **approvedcarworkshop.co.za**, συνιστάται να γίνεται  
 Minor Service κάθε 10.000 χλμ,  
 Intermediate Service κάθε 20.000 χλμ  

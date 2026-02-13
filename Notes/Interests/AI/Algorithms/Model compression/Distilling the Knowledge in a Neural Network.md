@@ -1,3 +1,7 @@
+---
+created: 2024-12-27
+---
+
 Clipped from: [https://arxiv.org/pdf/1503.02531](https://arxiv.org/pdf/1503.02531)
 
 ![Distilling the Knowledge in a Neural Network Geoff...](Exported%20image%2020260209130112-0.png)

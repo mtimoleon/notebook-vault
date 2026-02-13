@@ -1,3 +1,7 @@
+---
+created: 2024-12-27
+---
+
 Clipped from: [https://hackernoon.com/how-to-build-an-ai-powered-web-application-with-nextjs-and-tensorflowjs-a-guide?source=rss](https://hackernoon.com/how-to-build-an-ai-powered-web-application-with-nextjs-and-tensorflowjs-a-guide?source=rss)  
 by [IvanDev](https://hackernoon.com/how-to-build-an-ai-powered-web-application-with-nextjs-and-tensorflowjs-a-guide)
 

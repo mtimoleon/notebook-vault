@@ -1,3 +1,7 @@
+---
+created: 2023-07-11
+---
+
 ![Exported image](Exported%20image%2020260211194427-0.png)
 
 Clipped from: [https://medictests.com/units/the-peripheral-spinal-nerves](https://medictests.com/units/the-peripheral-spinal-nerves)

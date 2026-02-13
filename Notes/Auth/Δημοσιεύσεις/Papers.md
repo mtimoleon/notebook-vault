@@ -1,3 +1,7 @@
+---
+created: 2023-12-19
+---
+
 [https://www.researchgate.net/scientific-contributions/Michalis-Timoleon-2157777254](https://www.researchgate.net/scientific-contributions/Michalis-Timoleon-2157777254)
  
 1. JOURNAL ARTICLE **2024**:

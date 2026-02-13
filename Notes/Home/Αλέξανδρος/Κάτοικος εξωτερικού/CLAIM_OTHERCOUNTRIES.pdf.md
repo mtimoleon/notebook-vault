@@ -1,3 +1,7 @@
+---
+created: 2025-10-05
+---
+
 Clipped from: [https://www.aade.gr/sites/default/files/2017-03/CLAIM_OTHERCOUNTRIES.pdf](https://www.aade.gr/sites/default/files/2017-03/CLAIM_OTHERCOUNTRIES.pdf)
 
 ![HELLENIC REPUBLIC MINISTRY 0F FINANCE 1st copyfor ...](Exported%20image%2020260211194328-0.png)

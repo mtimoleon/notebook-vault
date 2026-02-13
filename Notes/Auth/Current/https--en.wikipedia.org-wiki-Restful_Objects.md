@@ -1,3 +1,7 @@
+---
+created: 2021-10-05
+---
+
 ![Configuration as code This plugin supports configu...](Exported%20image%2020260211203830-0.png)   
 [https://www.baeldung.com/ops/jenkins-slack-integration](https://www.baeldung.com/ops/jenkins-slack-integration)
 

@@ -1,3 +1,7 @@
+---
+created: 2025-07-21
+---
+
 Clipped from: [https://blog.oceanprotocol.com/ocean-nodes-oasis-sapphire-integration-a-new-era-of-decentralized-encryption-0ce9b3b0c843](https://blog.oceanprotocol.com/ocean-nodes-oasis-sapphire-integration-a-new-era-of-decentralized-encryption-0ce9b3b0c843)
 
  [![Ocean Protocol Team](Exported%20image%2020260211205117-0.png)](https://medium.com/@TeamOcean?source=post_page---byline--0ce9b3b0c843---------------------------------------)![ocean nodes Ocean Nodes on Oasis Sapphire ocean OA...](Exported%20image%2020260211205118-1.jpeg)

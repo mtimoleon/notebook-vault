@@ -1,3 +1,7 @@
+---
+created: 2023-11-08
+---
+
 ![Exported image](Exported%20image%2020260211200217-0.png)
 
 Clipped from: [https://www.efka.gov.gr/el/epikoinonia](https://www.efka.gov.gr/el/epikoinonia)

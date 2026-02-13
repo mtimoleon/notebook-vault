@@ -1,3 +1,7 @@
+---
+created: 2022-04-07
+---
+
 Clipped from: [https://nordicapis.com/best-practices-api-error-handling/](https://nordicapis.com/best-practices-api-error-handling/)
  
 ## Making a Good Error Code

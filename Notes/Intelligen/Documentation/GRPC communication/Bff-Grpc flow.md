@@ -3,18 +3,10 @@ product: ScpCloud
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
-tags:
-  - intelligen
----
-﻿---
-categories:
-  - "[[Work]]"
-  - "[[Documentation]]"
 created: 2023-12-06T11:20
 tags:
   - intelligen
 ---
-
 ![Exported image](Exported%20image%2020260209134046-0.png)   
 # Depict the flow from logs
  

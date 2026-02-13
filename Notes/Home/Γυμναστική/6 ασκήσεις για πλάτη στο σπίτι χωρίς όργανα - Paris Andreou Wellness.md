@@ -1,3 +1,7 @@
+---
+created: 2022-01-30
+---
+
 Clipped from: [https://www.parisandreou.net/askhseis-gia-plath-sto-spiti/](https://www.parisandreou.net/askhseis-gia-plath-sto-spiti/)
  _6 σούπερ ασκήσεις για πλάτη στο σπίτι χωρίς όργανα_
 

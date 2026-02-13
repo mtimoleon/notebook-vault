@@ -1,3 +1,7 @@
+---
+created: 2022-04-13
+---
+
 Plugins dashboard
 
 - Health view for server

@@ -17,8 +17,6 @@ properties:
     displayName: Path
   note.created:
     displayName: Created
-  note.org:
-    displayName: Org
   note.product:
     displayName: Product
   note.component:
@@ -30,16 +28,14 @@ views:
     name: Recent
     order:
       - file.name
-      - org
       - product
       - component
+      - file.ctime
       - file.path
     sort:
       - property: file.name
         direction: ASC
-      - property: org
-        direction: DESC
-      - property: file.mtime
+      - property: file.ctime
         direction: DESC
     limit: 200
   - type: table
@@ -53,6 +49,8 @@ views:
       - component
       - file.path
     sort:
+      - property: product
+        direction: ASC
       - property: file.name
         direction: ASC
     limit: 500

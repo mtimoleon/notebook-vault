@@ -1,3 +1,7 @@
+---
+created: 2024-12-28
+---
+
 Clipped from: [https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA](https://www.perplexity.ai/search/pes-mou-ti-einai-to-double-sca-UlPqn9J.RzemnMo4RwbfSA)  
 Currently, there is no publicly accessible platform for individuals to directly use **Sybil AI** for lung cancer risk assessment online. Sybil is primarily designed to be integrated into clinical settings, specifically within radiology departments, where it analyzes low-dose computed tomography (LDCT) scans in real-time.
 

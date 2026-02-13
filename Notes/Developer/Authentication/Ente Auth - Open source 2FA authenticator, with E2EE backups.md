@@ -1,4 +1,6 @@
-
+---
+created: 2024-12-27
+---
 
 ![thumbnail](Exported%20image%2020260208235816-0.png)
 

@@ -1,3 +1,7 @@
+---
+created: 2024-08-05
+---
+
 ### **- Heikin Ashi**
  
 From the above formulas, it becomes clear that the current candlestick of the indicator is calculated with a delay, therefore the signals given by Heikin Ashi are of a lagging nature. In this case, the calculations of a new candle will be possible only after the next one appears on the price chart.

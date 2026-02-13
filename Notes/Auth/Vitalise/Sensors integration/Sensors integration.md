@@ -1,3 +1,7 @@
+---
+created: 2022-04-05
+---
+
 Another plugin type (reader)
        
 follows data protocols  

@@ -1,3 +1,7 @@
+---
+created: 2025-08-27
+---
+
 Statistical machine learning  
 Introduction: What is statistical thinking in machine learning?  
 In the modern era of gen AI, we see practitioners build [machine learning](https://www.ibm.com/think/topics/machine-learning) (ML) models from simple [linear regressions](https://www.ibm.com/think/topics/linear-regression) to complex, sophisticated [neural networks](https://www.ibm.com/think/topics/neural-networks) and generative large language models (LLMs). We also see ubiquitous [data science](https://www.ibm.com/think/topics/data-science) and data analysis done for predicting customer churn, recommendation systems and other use cases. However, even though machine learning (ML) models might look like they run on massive [dataset](https://www.ibm.com/think/topics/dataset) and powerful algorithms, under the hood, they are fundamentally a statistical process.  

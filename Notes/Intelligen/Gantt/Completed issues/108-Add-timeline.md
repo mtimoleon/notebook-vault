@@ -1,11 +1,10 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Issues]]"
 created: 2025-05-23T13:56
 tags:
   - intelligen
-  - gantt
 status: completed
 product: Gantt
 ---

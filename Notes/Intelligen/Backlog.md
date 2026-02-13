@@ -10,8 +10,9 @@ product: ScpCloud
 ---
 
 
-- [ ] Library to have a scroll to date functionality on demand  
-- [ ] Scroll to follow current time: instead of moving current time line, scroll the chart  
+- [ ] Zoom στο browser και εμφάνιση εφαρμογής σε laptops της Hovione
+- [x] Library to have a scroll to date functionality on demand  
+- [x] Scroll to follow current time: instead of moving current time line, scroll the chart  
 - [ ] if soy edose current time kai einai mesa sto display kai einai entos min/max orion to chart time kai einai to proto render ki egine to layout tote pigenai to scrolling 
       sto current time,
       na mpei ena bool prop display current time

@@ -1,3 +1,7 @@
+---
+created: 2024-12-27
+---
+
 Clipped from: [https://hackernoon.com/your-architecture-cheat-sheet-to-api-design-styles?source=rss](https://hackernoon.com/your-architecture-cheat-sheet-to-api-design-styles?source=rss)
 
 ## Too Long; Didn't Read

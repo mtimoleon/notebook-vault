@@ -1,3 +1,7 @@
+---
+created: 2024-02-11
+---
+
 Clipped from: [https://datacite.org/fee-model/#Service-Fees](https://datacite.org/fee-model/#Service-Fees)
 
 ![Exported image](Exported%20image%2020260211204612-0.jpeg)

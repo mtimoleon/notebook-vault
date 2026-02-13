@@ -1,3 +1,7 @@
+---
+created: 2023-07-31
+---
+
 ![Exported image](Exported%20image%2020260211193800-0.png)   ![KIT Xenon H7 35W HID 12V 6000K](Exported%20image%2020260211193810-1.jpeg)  
 
 [https://www.truck-led.gr/kit-lampteres-xenon-h7-35w-hid-12v-6000k.html](https://www.truck-led.gr/kit-lampteres-xenon-h7-35w-hid-12v-6000k.html)

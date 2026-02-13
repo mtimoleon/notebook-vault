@@ -1,2 +1,6 @@
+---
+created: 2023-06-02
+---
+
 ==Shared Resources from today's event! - Building with Instruct-Tuned LLMs, a Step-by-Step Guide:== ==https://github.com/FourthBrain/Building-with-Instruction-Tuned-LLMs-A-Step-by-Step-Guide== ==- Supervised Fine-Tuning (Instruct-Tuning) of OpenLLAMA with Dolly15k & QLORA:== ==https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing== ==- Unsupervised Fine-Tuning (1-O Schema) of BLOOMZ with PEFT-LORA:== ==https://colab.research.google.com/drive/1ARmlaZZaKyAg6HTi57psFLPeh0hDRcPX?usp=sharing==
  \> From \<[https://www.youtube.com/watch?v=eTieetk2dSw](https://www.youtube.com/watch?v=eTieetk2dSw)\>
