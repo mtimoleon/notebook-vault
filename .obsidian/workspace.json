@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08d07c759f4b5d17",
+        "id": "737cf4c95e3b5573",
         "type": "tabs",
         "children": [
           {
-            "id": "259dab0a5d862086",
+            "id": "73bfef0010f39205",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 415.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -235,37 +235,47 @@
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "259dab0a5d862086",
+  "active": "d6f834d67aedd82d",
   "lastOpenFiles": [
+    "Notes/Interests/Ιστορία/Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973).md",
+    "Attachments/image.png",
+    "Attachments/Notes/Home/Financial/Notes.md/Notes - Ink.svg",
+    "Attachments/Notes/Home/Quick notes/Mεταβίβαση μοτοποδηλάτου/Mεταβίβαση μοτοποδηλάτου ΚΕΠ.md/image.png",
+    "Attachments/Notes/Home/Quick notes/Mεταβίβαση μοτοποδηλάτου/Mεταβίβαση μοτοποδηλάτου ΚΕΠ/file-2026-02-11.png",
+    "Attachments/Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md/Exported image 20260209134127-2.jpeg",
+    "Attachments/Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md/Exported image 20260209134126-1.jpeg",
+    "Attachments/Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md/Exported image 20260209134125-0.png",
+    "Notes/Intelligen/CQRS/Clarified CQRS.md",
+    "Notes/Interests/AI/Models/Looking Artificial Analysis and LMArena leaderboards.md",
+    "Notes/Interests/AI/Models/Synthetic Intelligence Beyond A.I. and Robotics.md",
+    "Attachments/Notes/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md/lindleyInBiosa.pdf",
+    "Attachments/Notes/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md/Συνημμένο 2.pdf",
+    "Attachments/Notes/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md/Συνημμένο 1.pdf",
+    "Attachments/Notes/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md/Συνημμένο.pdf",
+    "Attachments/Notes/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md/Original.pdf",
+    "Notes/Interests/Βότανα/Πλήρης Οδηγός Φαρμακευτικών Βοτάνων  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
+    "Tools/misplaced-attachments.csv",
+    "Tools/attachments-without-note.csv",
+    "Notes/Interests/AI/Models/How to choose the right AI model.md",
+    "Notes/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
+    "Notes/Interests/AI/Models/From Data Silos to Intelligent Systems RAG and Knowledge Graph Synergy.md",
+    "Notes/Interests/AI/Models/FourthBrain LLM.md",
     "Notes/Interests/AI/Models/FLAN paper.md",
     "Attachments/Notes/Interests/AI/Models/FLAN paper/Exported image 20260209131920-19.png",
     "Current/2026-02-11.md",
     "Attachments/Current/2026-02-11/image.png",
     "Attachments/Current/2026-02-11/image-1.png",
-    "Attachments/Current/2026-02-11/image-2.png",
-    "Attachments/Current/2026-02-11/image-4.png",
-    "Attachments/Current/2026-02-11.md/image-3.png",
-    "Attachments/image.png",
     "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak",
     "Attachments/Notes/Home/Σπίτι/Λαμπάκια",
     "Attachments/Notes/Home/Σπίτι/Ασφάλεια",
-    "Attachments/Notes/Home/Γυμναστική/BackExcercises2022",
-    "Attachments/Notes/Home/Quick notes/Κεντρικό Μητρώο Πιστώσεων της Τραπέζης της Ελλάδος",
-    "Attachments/Notes/Home/Quick notes/Γενικό",
-    "Attachments/Notes/Home/Quick notes/star-wars-galaxy-map.jpeg (4000×4000)",
-    "Attachments/Notes/Home/Financial/Quant Knowledge",
-    "Attachments/Notes/Auth/RAISE/RAI PID NOTES/Handle.net",
     "Notes/Intelligen/Completed issues/525-Sync-after-planning-update.md",
     "Notes/Auth/AWS/Amazon DynamoDB.md",
     "Notes/Auth/AWS/data-modeling-on-amazon-dynamodb.md",
     "Notes/Auth/AWS/Untitled-20260211203705.md",
-    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design/Vernon_2011_3.pdf",
-    "Attachments/Notes/Private/Πλαγιάρι/Εξόφληση/Exported image 20260208231016-3.png",
-    "Attachments/Notes/Private/Πλαγιάρι/Εξόφληση/Exported image 20260208231014-2.png",
-    "Attachments/Notes/Private/Πλαγιάρι/Εξόφληση/Exported image 20260208231011-1.png",
     "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md",
     "Attachments/Notes/Home/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ.md",
     "Attachments/Notes/Home/Σπίτι/Ασφάλεια.md",
@@ -277,14 +287,6 @@
     "Attachments/Notes/Auth/RAISE/Architecture/D3.1 RAI Cloud services' specifications v3.0.md",
     "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/2025.md",
     "Attachmentss/Notes/Private/Πλαγιάρι/Εξόφληση.md",
-    "Attachmentss/Notes/Interests/Θρησκευτικά/Ιερές ακολουθίες.md",
-    "Attachmentss/Notes/Interests/Βότανα/Πλήρης Οδηγός Φαρμακευτικών Βοτάνων  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
-    "Attachmentss/Notes/Interests/Βότανα/Λεξικό για βότανα  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
-    "Attachmentss/Notes/Interests/Quantum computing/Quantum software development using the QDK - Q Blog.md",
-    "Attachmentss/Notes/Interests/Physics/The standard model Beyond the Atom.md",
-    "Attachmentss/Notes/Interests/AI/Models/TPU-KNN paper.md",
-    "Attachmentss/Notes/Interests/AI/Models/Synthetic Intelligence Beyond A.I. and Robotics.md",
-    "Attachmentss/Notes/Interests/AI/Models/SatCLIP paper.md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
