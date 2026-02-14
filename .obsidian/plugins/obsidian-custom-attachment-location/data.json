@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "Attachments/${noteFilePath}",
   "attachmentRenameMode": "Only pasted images",
-  "collectAttachmentUsedByMultipleNotesMode": "Skip",
+  "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
   "customTokensStr": "",
@@ -19,11 +19,11 @@
     "/Templates/*.*",
     "/Tools/*.*"
   ],
-  "generatedAttachmentFileName": "file-${date:{momentJsFormat:'YYYYMMDDHHmmssSSS'}}",
+  "generatedAttachmentFileName": "${noteFileName}-${date:{momentJsFormat:'YYYYMMDD'}}",
   "includePaths": [],
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
-  "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
+  "moveAttachmentToProperFolderUsedByMultipleNotesMode": "Prompt",
   "renamedAttachmentFileName": "",
   "shouldDeleteOrphanAttachments": true,
   "shouldHandleRenames": true,
