@@ -1,12 +1,11 @@
 ---
-abandonded:
 categories:
   - "[[Work]]"
   - "[[Issues]]"
 created: 2026-01-30T15:19
 tags:
   - intelligen
-status: completed
+status: abandoned
 product: ScpCloud
 component:
 ticket:

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e78ec304514fbd1",
+        "id": "83ec434a872ea225",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb599d6888c944e",
+            "id": "adb92e5b08e42b15",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/obsidian-custom-attachment-location/data.json",
-                "bFile": ".obsidian/plugins/obsidian-custom-attachment-location/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,8 +241,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3eb599d6888c944e",
+  "active": "adb92e5b08e42b15",
   "lastOpenFiles": [
+    "Notes/Intelligen/Completed issues/525-Sync-after-planning-update.md",
+    "Notes/Auth/AWS/Amazon DynamoDB.md",
+    "Notes/Auth/AWS/data-modeling-on-amazon-dynamodb.md",
+    "Notes/Auth/AWS/Untitled-20260211203705.md",
     "Notes/Intelligen/CQRS/Vernon_2011_3.pdf",
     "Attachments/Notes/Private/Πλαγιάρι/Εξόφληση/Exported image 20260208231016-3.png",
     "Attachments/Notes/Private/Πλαγιάρι/Εξόφληση/Exported image 20260208231014-2.png",
@@ -266,7 +267,6 @@
     "Attachments/Notes/Intelligen/Completed issues/266-Scheduling board horizon",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες",
     "Attachments/Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export",
-    "Attachments/Notes/Intelligen/Completed issues/263-Import-Export",
     "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md",
     "Attachments/Notes/Home/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ.md",
     "Attachments/Notes/Home/Σπίτι/Ασφάλεια.md",
@@ -289,9 +289,6 @@
     "Attachmentss/Notes/Interests/AI/Models/How to choose the right AI model.md",
     "Attachmentss/Notes/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
     "Attachmentss/Notes/Interests/AI/Models/FLAN paper.md",
-    "Attachmentss/Notes/Interests/AI/Linear Algebra/Statistical machine learning.md",
-    "Attachmentss/Notes/Interests/AI/Linear Algebra/Book basic of Linear Algebra.md",
-    "Attachmentss/Notes/Interests/AI/General/The AI Renaissance How Machines are Transforming Art, Music, and Literature  HackerNoon.md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
