@@ -1,10 +1,20 @@
 ---
 categories:
   - "[[Work]]"
-created: 2026-01-09T11:04
+  - "[[Documentation]]"
+created: 2026-02-14
 tags:
   - intelligen
+product:
+  - ScpCloud
+component: []
 ---
+
+## Summary
+
+## Details
+
+## Links
 
 Ροή προγραμματισμού (scheduling)
 • Είσοδοι: Scheduling board ή συγκεκριμένα campaigns. Κάθε campaign πρέπει να έχει Recipe για να γίνει layout. ScheduleCampaigns/ScheduleFromToCampaigns/ScheduleIndependentCampaign καλούν campaign.Layout() και μετά (προαιρετικά) επίλυση συγκρούσεων. SchedulingService.cs

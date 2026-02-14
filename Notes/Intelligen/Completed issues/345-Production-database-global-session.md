@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 - [x] Fix service registrations in startup  

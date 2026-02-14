@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 [https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-9.0](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction?view=aspnetcore-9.0)

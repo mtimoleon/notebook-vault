@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 SetTime toy OperationEntry Start & Duration  

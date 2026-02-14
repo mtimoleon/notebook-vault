@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 ![Exported image](Exported%20image%2020260209135639-0.png)   

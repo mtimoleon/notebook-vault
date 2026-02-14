@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 - [x] Batch overlaps, check if mine batch overlaps with any of these to update

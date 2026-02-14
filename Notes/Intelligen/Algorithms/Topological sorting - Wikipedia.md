@@ -1,5 +1,6 @@
 ---
 categories:
+  - "[[Documentation]]"
   - "[[Work]]"
 title: Topological sorting - Wikipedia
 source: https://en.wikipedia.org/wiki/Topological_sorting

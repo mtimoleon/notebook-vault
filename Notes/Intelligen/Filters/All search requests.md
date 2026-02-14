@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
 created: 2022-06-03T22:18

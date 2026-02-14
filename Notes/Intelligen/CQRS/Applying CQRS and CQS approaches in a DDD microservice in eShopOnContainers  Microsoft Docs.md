@@ -1,9 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
-created: 2021-11-03T00:37
+  - "[[Documentation]]"
+created: 2026-02-14
 tags:
   - intelligen
+product: []
+component: []
 ---
 
 Clipped from: [https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/eshoponcontainers-cqrs-ddd-microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/eshoponcontainers-cqrs-ddd-microservice)  
@@ -11,7 +14,4 @@ Clipped from: [https://docs.microsoft.com/en-us/dotnet/architecture/microservice
 ==The essence of those patterns, and the important point here, is that queries are idempotent: no matter how many times you query a system, the state of that system won't change. In other words, queries are side-effect free.==  
 ==Therefore, you could use a different "reads" data model than the transactional logic "writes" domain model, even though the ordering microservices are using the same database. Hence, this is a simplified CQRS approach.==
  \> From \<[https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/eshoponcontainers-cqrs-ddd-microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/eshoponcontainers-cqrs-ddd-microservice)\>
-
-
-
 

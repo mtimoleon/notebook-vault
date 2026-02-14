@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 Το βρήκα το πρόβλημα. Φαίνεται ότι όταν στο sync υπολογίζουμε τα overlapping batches δεν σκεφτήκαμε (σκέφτηκα) την περίπτωση να είχαμε ένα μακρύ batch με conflict με το επόμενο batch, το οποίο να κονταίνει και άρα να μην κάνει πια overlap (ούτε conflict) με το επόμενο. Επειδή δεν κάνει overlap δεν θα ανανεωθούν τα eocData του.

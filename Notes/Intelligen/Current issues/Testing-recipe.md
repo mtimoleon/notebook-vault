@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: current
 product: ScpCloud
+component:
+ticket:
 ---
 
 Merged PR 688: 514 Consolidate migrations and improve scheduling configuration property naming.

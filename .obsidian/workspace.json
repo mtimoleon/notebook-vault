@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3936667c15a9dbf4",
+        "id": "af939e0b1f80daad",
         "type": "tabs",
         "children": [
           {
-            "id": "7dff1c0aa1b1e312",
+            "id": "c76ac9e58135b260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Επίσημα templates Obsidian.md",
+                "file": "Templates/Issue Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Επίσημα templates Obsidian"
+              "title": "Issue Template"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 320.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Επίσημα templates Obsidian.md",
+                "file": "Templates/Issue Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Επίσημα templates Obsidian"
+              "title": "Backlinks for Issue Template"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Επίσημα templates Obsidian.md",
+                "file": "Templates/Issue Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Επίσημα templates Obsidian"
+              "title": "Outgoing links from Issue Template"
             }
           },
           {
@@ -167,14 +167,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Interests/AI/Models/From Data Silos to Intelligent Systems RAG and Knowledge Graph Synergy.md"
+                "file": "Templates/Issue Template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for From Data Silos to Intelligent Systems RAG and Knowledge Graph Synergy"
+              "title": "File properties for Issue Template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "c159d314176b7de8",
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Επίσημα templates Obsidian.md",
+                "file": "Templates/Issue Template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Επίσημα templates Obsidian"
+              "title": "Outline of Issue Template"
             }
           },
           {
@@ -259,44 +259,44 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "c76ac9e58135b260",
   "lastOpenFiles": [
-    "Categories/Companies.md",
-    "Clippings/Επίσημα templates Obsidian.md",
-    "Clippings/News Digest (2026-02-11 — 2026-02-12).md",
-    "Current/Gmail.md",
-    "Current/2026-02-11.md",
-    "Current/Drawing 2026-02-10 10.15.10.excalidraw.md",
-    "Clippings/Git Submodule.md",
-    "Clippings/Git Subtree.md",
-    "Templates/Views/Genre.base",
-    "Templates/Views",
-    "Categories/Documentation.md",
-    "Notes/Auth/RAISE/RAI PID NOTES/EPIC GrNET accounts.md",
-    "Notes/Auth/RAISE/RAI PID NOTES/EPIC GRnet.md",
-    "Notes/Auth/RAISE/RAI PID NOTES/PID Metadata signposting.md",
-    "Notes/Intelligen/Gantt/Documentation/Create library package/File export as Module.md",
-    "Current/Untitled 1.md",
-    "Templates/Home Template.md",
-    "Templates/Bases/Documentation.base",
-    "Templates/Bases/Home.base",
-    "Templates/Bases/Interests.base",
-    "Templates/Bases/Issues.base",
-    "Templates/Bases/Work.base",
-    "Templates/Bases/Companies.base",
-    "Templates/Bases/Clippings.base",
-    "Current/Untitled.md",
-    "Templates/Gpt Template.md",
-    "Templates/Bases/Gpt/Gpt.base",
-    "Categories/Gpt.md",
-    "Categories/Software.md",
-    "Categories/Work.md",
-    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
-    "Notes/Intelligen/Gantt/Documentation/Create library package/Obfuscator settings.md",
-    "Categories/Home.md",
-    "Categories/Interests.md",
-    "Categories/Issues.md",
-    "Categories/Clippings.md",
+    "Tools/obsidian-web-clipper-settings.json",
+    "Notes/Intelligen/Filters/C in a Nutshell - PredicateBuilder.md",
+    "Notes/Intelligen/Filters/All search requests.md",
+    "Notes/Intelligen/Filters/Notes.md",
+    "Notes/Intelligen/Discussions/Recipe entities ordering.md",
+    "Notes/Intelligen/Discussions/Dates handling.md",
+    "Notes/Intelligen/CQRS/Vernon_2011_3.pdf",
+    "Notes/Intelligen/CQRS/Effective Aggregate Design.md",
+    "Notes/Intelligen/CQRS/CQRS Documents.md",
+    "Notes/Intelligen/CQRS/Clarified CQRS.md",
+    "Notes/Intelligen/CQRS/Applying CQRS and CQS approaches in a DDD microservice in eShopOnContainers  Microsoft Docs.md",
+    "Attachments/Notes/Intelligen/CQRS/CQRS Documents",
+    "Attachments/Notes/Intelligen/CQRS/CQRS Documents/cqrs_documents.pdf",
+    "Notes/Intelligen/CQRS/Unconfirmed 352346.crdownload",
+    "Notes/Intelligen/CQRS/Vernon_2011_3.pdf.md",
+    "Notes/Intelligen/CQRS/Unconfirmed 630339.crdownload",
+    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design",
+    "Notes/Intelligen/CQRS/Vernon_2011_2.pdf.md",
+    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design/Vernon_2011_2.pdf",
+    "Notes/Intelligen/CQRS/Unconfirmed 696393.crdownload",
+    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design.pdf",
+    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design/Effective Aggregate Design Part I.pdf",
+    "Notes/Intelligen/Completed issues/408-Eoc-filters-in-production.md",
+    "Notes/Intelligen/Completed issues/405-Resource-ordering-and-visibility.md",
+    "Notes/Intelligen/Completed issues/390-import-data-from-scp.md",
+    "Notes/Intelligen/Completed issues/386-Configuring-material.md",
+    "Notes/Intelligen/Completed issues/374-Update-chart-library.md",
+    "Notes/Intelligen/Completed issues/373-Improve-sync.md",
+    "Notes/Intelligen/Completed issues/358-Implement-register-updates-in-WebProductionSpa.md",
+    "Notes/Intelligen/Completed issues/349-Add-SignalR-messaging.md",
+    "Notes/Intelligen/Completed issues/345-Production-database-global-session.md",
+    "Notes/Intelligen/Completed issues/339-Add-eoc-chart-and-update-functionality-in-WebProductionSpa.md",
+    "Notes/Intelligen/Completed issues/332-Production-Operation-Entry-tracking-timing-update.md",
+    "Notes/Intelligen/Completed issues/321-Sync planning scheduling board with production.md",
+    "Notes/Intelligen/Completed issues/303-Add-Production-application-BFF-FE.md",
+    "Notes/Intelligen/Completed issues/300-link-arrows-for-additional-scheduling-links.md",
     "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md/Exported image 20260209140451-1.png",
     "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md/Exported image 20260209140450-0.png",
     "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md/Λαμπάκια - Ink.svg",

@@ -1,7 +1,7 @@
 ---
 categories:
-  - "[[Clippings]]"
   - "[[Work]]"
+  - "[[Documentation]]"
 title: Round-robin scheduling - Wikipedia
 source: https://en.wikipedia.org/wiki/Round-robin_scheduling
 author:

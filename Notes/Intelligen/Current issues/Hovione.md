@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: current
 product: ScpCloud
+component:
+ticket:
 ---
 
 

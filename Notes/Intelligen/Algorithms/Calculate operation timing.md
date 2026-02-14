@@ -1,10 +1,20 @@
-﻿---
+---
 categories:
   - "[[Work]]"
-created: 2022-03-29T20:39
+  - "[[Documentation]]"
+created: 2026-02-14
 tags:
   - intelligen
+product:
+  - ScpCloud
+component: []
 ---
+
+## Summary
+
+## Details
+
+## Links
 ![[ScheduleTiming.docx]]
 
 GOAL: 

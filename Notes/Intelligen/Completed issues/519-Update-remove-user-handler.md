@@ -8,6 +8,8 @@ categories:
   - "[[Issues]]"
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 

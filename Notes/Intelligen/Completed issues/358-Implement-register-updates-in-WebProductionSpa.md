@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 - [x] Να δω το ct για το operation entry και batch , trackingupdate ct, se καποια δτο πρέπει να καταργηθούν  

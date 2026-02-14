@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 - [x] Μεταφορά FixedTimeShiftUnitId & FixedTimeShiftValue από OperationTimeShiftUpdateDto σε OperationSchedulingUpdateDto & NonProcessingOperationSchedulingUpdateDto. Οι αλλαγές θα φτάσουν ως το domain. 

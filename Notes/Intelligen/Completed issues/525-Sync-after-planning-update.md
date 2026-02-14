@@ -8,6 +8,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 #### Code update that consolidates batch overlapping calculations:

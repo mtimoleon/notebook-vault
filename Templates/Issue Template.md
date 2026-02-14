@@ -2,7 +2,7 @@
 categories:
   - "[[Issues]]"
   - "[[Work]]"
-product: []
+product:
 component:
 ticket:
 status:

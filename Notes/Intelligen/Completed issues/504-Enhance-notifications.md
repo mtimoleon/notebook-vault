@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 Campaigns missing recipes and I have to reschedule -\> edo px thelo ta Campaign names sta params

@@ -7,6 +7,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 In eoc chart equipment data in ==EocOperationEntryTaskDto== task we have:

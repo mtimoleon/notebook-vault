@@ -8,6 +8,8 @@ tags:
   - intelligen
 status: completed
 product: ScpCloud
+component:
+ticket:
 ---
 
 You can perform stream transfers using the **protobuf-net** library to efficiently serialize and deserialize data over streams in .NET applications. The **protobuf-net** library is a .NET implementation of Google's Protocol Buffers, which offers high-performance binary serialization.  
