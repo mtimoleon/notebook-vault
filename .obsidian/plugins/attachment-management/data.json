@@ -10,15 +10,19 @@
   "dateFormat": "YYYYMMDDHHmmssSSS",
   "excludeExtensionPattern": "",
   "autoRenameAttachment": true,
-  "excludedPaths": "Categories;Templates;Tools;",
+  "excludedPaths": "Tools;Categories;Templates",
   "excludePathsArray": [
-    "Categories",
-    "Templates",
     "Tools",
-    ""
+    "Categories",
+    "Templates"
   ],
   "excludeSubpaths": true,
-  "originalNameStorage": [],
+  "originalNameStorage": [
+    {
+      "n": "Notes - Ink",
+      "md5": "43E9A879F9F23459534F0C0936BDBFD5"
+    }
+  ],
   "overridePath": {},
   "disableNotification": false
 }

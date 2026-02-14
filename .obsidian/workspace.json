@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2438a103250b626e",
+        "id": "b0558b4e7f72e899",
         "type": "tabs",
         "children": [
           {
-            "id": "90740d96ac1a8376",
+            "id": "bcfe497fe5f7db1d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -83,7 +83,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 45.98257502420135,
+        "dimension": 26.524685382381413,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -163,7 +163,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 20.135527589545017,
+        "dimension": 19.36108422071636,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -196,7 +196,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 33.88189738625363,
+        "dimension": 54.11423039690223,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -241,36 +241,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "90740d96ac1a8376",
+  "active": "bcfe497fe5f7db1d",
   "lastOpenFiles": [
+    "Templates/Bases/Work.base",
+    "Templates/Bases/Software.base",
+    "Templates/Bases/Issues.base",
+    "Templates/Bases/Interests.base",
+    "Templates/Bases/Home.base",
+    "Templates/Bases/Documentation.base",
+    "Templates/Bases/Companies.base",
+    "Templates/Bases/Clippings.base",
+    "Notes/Intelligen/CQRS/Vernon_2011_3.pdf",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132316-41.png",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132314-40.png",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132311-39.png",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132139-38.png",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132137-37.png",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132134-36.png",
+    "Attachments/Notes/Interests/AI/Models/FLAN paper.md/Exported image 20260209132131-35.png",
+    "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md/Exported image 20260209140451-1.png",
+    "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md/Exported image 20260209140450-0.png",
+    "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md/Λαμπάκια - Ink.svg",
+    "Attachments/Notes/Home/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ.md/ΣΧΕΔΙΑ-ΚΑΓΚΕΛΑ-ΑΛΟΥΜΙΝΙΟΥ_compressed.pdf",
+    "Attachments/Notes/Auth/RAISE/RAI PID NOTES/Handle.net.md/HN_Tech_Manual_9.pdf",
+    "Notes/Intelligen/CQRS/Effective Aggregate Design.md",
     "Current/Gmail.md",
     "Categories/Clippings.md",
     "Current/2026-02-14.md",
-    "Attachments/image.png",
     "Notes/Interests/Βότανα/Πλήρης Οδηγός Φαρμακευτικών Βοτάνων  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
     "Clippings/ChatGPT.md",
     "Templates/Issue Template.md",
-    "Tools/obsidian-web-clipper-settings.json",
     "Notes/Intelligen/Filters/C in a Nutshell - PredicateBuilder.md",
     "Notes/Intelligen/Filters/All search requests.md",
     "Notes/Intelligen/Filters/Notes.md",
     "Notes/Intelligen/Discussions/Recipe entities ordering.md",
     "Notes/Intelligen/Discussions/Dates handling.md",
-    "Notes/Intelligen/CQRS/Vernon_2011_3.pdf",
-    "Notes/Intelligen/CQRS/Effective Aggregate Design.md",
     "Notes/Intelligen/CQRS/CQRS Documents.md",
     "Notes/Intelligen/CQRS/Clarified CQRS.md",
     "Notes/Intelligen/CQRS/Applying CQRS and CQS approaches in a DDD microservice in eShopOnContainers  Microsoft Docs.md",
-    "Attachments/Notes/Intelligen/CQRS/CQRS Documents",
-    "Attachments/Notes/Intelligen/CQRS/CQRS Documents/cqrs_documents.pdf",
-    "Notes/Intelligen/CQRS/Unconfirmed 352346.crdownload",
     "Notes/Intelligen/CQRS/Vernon_2011_3.pdf.md",
-    "Notes/Intelligen/CQRS/Unconfirmed 630339.crdownload",
-    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design",
     "Notes/Intelligen/CQRS/Vernon_2011_2.pdf.md",
-    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design/Vernon_2011_2.pdf",
-    "Notes/Intelligen/CQRS/Unconfirmed 696393.crdownload",
-    "Attachments/Notes/Intelligen/CQRS/Effective Aggregate Design.pdf",
     "Notes/Intelligen/Completed issues/408-Eoc-filters-in-production.md",
     "Notes/Intelligen/Completed issues/405-Resource-ordering-and-visibility.md",
     "Notes/Intelligen/Completed issues/390-import-data-from-scp.md",
@@ -279,16 +289,6 @@
     "Notes/Intelligen/Completed issues/373-Improve-sync.md",
     "Notes/Intelligen/Completed issues/358-Implement-register-updates-in-WebProductionSpa.md",
     "Notes/Intelligen/Completed issues/349-Add-SignalR-messaging.md",
-    "Notes/Intelligen/Completed issues/345-Production-database-global-session.md",
-    "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md/Exported image 20260209140451-1.png",
-    "Attachments/Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md/Exported image 20260209140450-0.png",
-    "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md/Λαμπάκια - Ink.svg",
-    "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md/Exported image 20260211195857-0.png",
-    "Attachments/Notes/Home/Financial/Quant Knowledge.md/Exported image 20260211194024-1.png",
-    "Attachments/Notes/Home/Financial/Quant Knowledge.md/Exported image 20260211194023-0.png",
-    "Attachments/Notes/Home/Σπίτι/Ασφάλεια.md/Ασφάλεια - Ink.svg",
-    "Attachments/Notes/Home/Γυμναστική/BackExcercises2022.md/Exported image 20260211194507-13.jpeg",
-    "Attachments/Notes/Home/Γυμναστική/BackExcercises2022.md/Exported image 20260211194501-12.jpeg",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
