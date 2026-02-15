@@ -1,17 +1,1 @@
-{
-  "attachmentFolderPath": "Attachments",
-  "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true,
-  "trashOption": "system",
-  "propertiesInDocument": "visible",
-  "showLineNumber": false,
-  "readableLineLength": true,
-  "promptDelete": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Current",
-  "foldHeading": true,
-  "foldIndent": true,
-  "showIndentGuide": false,
-  "useTab": true,
-  "showInlineTitle": true
-}
+{}

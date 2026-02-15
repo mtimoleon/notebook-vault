@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "b62288a3b0b8bcc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b32991a93ed36d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4d834bbbb236657",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40bb35bd5e610fcf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cde99a73b5425626",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b9a1c8f23924d9d6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "788ce8b37defbffd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "32da01d12ef5113c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "0fb1c19c806b60b6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "d14633e0570a6c60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "615e37580f0ed580",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "fe787de613338540",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "35b61c604073a114",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "janitor:Janitor: scan vault": false
+    }
+  },
+  "active": "b4d834bbbb236657",
+  "lastOpenFiles": [
+    "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+    "Current/2026-02-11.md",
+    "Clippings/News Digest (2026-02-11 — 2026-02-12).md",
+    "Clippings/Git Subtree.md",
+    "Clippings/Επίσημα templates Obsidian.md",
+    "Clippings/Git Submodule.md",
+    "Clippings/Tailscale How it works.md",
+    "Clippings",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/Judges Requirements.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/Clerks Requirements.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/Reports.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/2025.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025/Special Court search Competition.md",
+    "Notes/CleverApps/Esdi/esdi-pages/Completed issues/2023-06-08.md",
+    "Notes/CleverApps/Esdi/esdi-pages/Completed issues/2025.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2023.md",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues/2025",
+    "Notes/Intelligen/Gantt/Documentation/Create library package/Obfuscator settings.md",
+    "Notes/Intelligen/Gantt/Documentation/Create library package/The Ultimate Guide to Getting Started with the Rollup.js JavaScript Bundler  by Craig Buckler  StackAnatomy  Medium.md",
+    "Notes/Intelligen/Gantt/Documentation/Create library package/File export as Module.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/492-Upgrade-Keycloak.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Theme.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/478 Get OperationEntries for reporting.md",
+    "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles/Instructions - Update ScpCloud realm for develop.md",
+    "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles/461-Keycloak-realm-scope-and-roles.md",
+    "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md",
+    "Notes/CleverApps/Esdi/esdi-pages/Completed issues",
+    "Notes/CleverApps/Esdi/esdi-clerks/Completed issues",
+    "Notes/Intelligen/Gantt/Documentation/Create library package",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting",
+    "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles",
+    "Notes/Intelligen/Keycloak/Documentation/Windows authentication",
+    "Notes/Interests/AI/Algorithms/Data science",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/Reports/Exported image 20260208221405-1.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/Reports/Exported image 20260208221404-0.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/Reports/Exported image 20260208221406-2.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/Special Court search Competition/Exported image 20260208221411-0.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/2025/Exported image 20260208221358-2.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/2025/Exported image 20260208221356-1.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-clerks/Completed issues/2025/2025/Exported image 20260208221355-0.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-pages/Completed issues/2023-06-08/Exported image 20260208221418-0.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-pages/Completed issues/2023-06-08/Exported image 20260208221420-2.png",
+    "Attachments/Notes/Cleverapps/Esdi/esdi-pages/Completed issues/2023-06-08/Exported image 20260208221419-1.png"
+  ]
+}

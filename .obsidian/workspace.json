@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bc8e4b4a05a505e4",
+        "id": "e7bd5d010f4d8bde",
         "type": "tabs",
         "children": [
           {
-            "id": "087dedc73a3bd01f",
+            "id": "6bd44ab797dd7c94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
             }
           }
         ]
@@ -91,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
             }
           },
           {
@@ -155,7 +170,8 @@
               "title": "File properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c159d314176b7de8",
@@ -168,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
             }
           },
           {
@@ -241,6 +258,12 @@
   },
   "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
+    "Current/2026-02-11.md",
+    "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+    "Attachments/Current/2026-02-11/image-3.png",
+    "Clippings/Tailscale How it works.md",
+    "Clippings/News Digest (2026-02-11 — 2026-02-12).md",
+    "Clippings/Επίσημα templates Obsidian.md",
     "Notes/Electric-engineer/Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου.md",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ",
@@ -273,9 +296,7 @@
     "Notes/Interests/AI/Models/FourthBrain LLM.md",
     "Notes/Interests/AI/Models/FLAN paper.md",
     "Attachments/Notes/Interests/AI/Models/FLAN paper/Exported image 20260209131920-19.png",
-    "Current/2026-02-11.md",
     "Attachments/Current/2026-02-11/image.png",
-    "Attachments/Current/2026-02-11/image-1.png",
     "Notes/Intelligen/Completed issues/525-Sync-after-planning-update.md",
     "Notes/Auth/AWS/Amazon DynamoDB.md",
     "Notes/Auth/AWS/data-modeling-on-amazon-dynamodb.md",
@@ -283,9 +304,6 @@
     "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md",
     "Attachments/Notes/Home/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ.md",
     "Attachments/Notes/Home/Σπίτι/Ασφάλεια.md",
-    "Attachments/Notes/Home/Quick notes/Κεντρικό Μητρώο Πιστώσεων της Τραπέζης της Ελλάδος.md",
-    "Attachments/Notes/Home/Quick notes/Γενικό.md",
-    "Attachments/Notes/Home/Quick notes/star-wars-galaxy-map.jpeg (4000×4000).md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
