@@ -1,13 +1,11 @@
 ---
-component: Keycloak
-created: 2025-05-08T10:04
-product:
-tags:
-  - keycloak
-  - issues/intelligen
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
+created: 2025-05-08T10:04
+product:
+component: Keycloak
+tags:
+  - documentation/keycloak
 ---
 **Keycloak documentation**  
 [https://www.keycloak.org/docs/latest/server_admin/index.html#_user-storage-federation](https://www.keycloak.org/docs/latest/server_admin/index.html#_user-storage-federation)  

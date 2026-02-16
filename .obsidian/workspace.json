@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8982b87f2ddea14d",
+        "id": "42559d121a3150f3",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fe6f33fd0ae6dc",
+            "id": "723a602a869e58f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-10-03 Changes by Dimitris Realm json and relative settings"
             }
           }
         ]
@@ -37,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#documentation/keycloak",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,12 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 311.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -84,7 +97,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 31.879844961240313,
+        "dimension": 52.90697674418605,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -92,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-10-03 Changes by Dimitris Realm json and relative settings"
             }
           },
           {
@@ -110,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-10-03 Changes by Dimitris Realm json and relative settings"
             }
           },
           {
@@ -125,7 +140,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -151,12 +166,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 2025-10-03 Changes by Dimitris Realm json and relative settings"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c159d314176b7de8",
@@ -169,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-10-03 Changes by Dimitris Realm json and relative settings"
             }
           },
           {
@@ -194,7 +213,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 48.740310077519375,
+        "dimension": 27.71317829457364,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -238,43 +257,45 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "d6f834d67aedd82d",
   "lastOpenFiles": [
-    "Current/2026-02-16.md",
-    "Notes/Interests/AI/Models/What is chain of thought prompt.md",
-    "Notes/Interests/AI/Models/SatCLIP paper.md",
-    "Notes/Resources/News/News Digest (2026-02-11 — 2026-02-12).md",
-    "Current/The Ultimate Guide to Getting Started with the Rollup.js.md",
-    "Notes/Intelligen/Gantt/Documentation/Create library package/Obfuscator settings.md",
-    "Notes/Intelligen/Gantt/Completed issues/Create library package.md",
-    "Notes/Resources/Code/File export as Module.md",
-    "Notes/Intelligen/Gantt/Documentation/Gantt z-Indexes.md",
+    "Attachments/Notes/Projects/enoll/Notes",
+    "Attachments/Notes/Projects/enoll/Client issues",
+    "Attachments/Notes/Projects/enoll",
+    "Attachments/Notes/Auth/Projects/e-Consent/Suggested new features",
+    "Attachments/Notes/Auth/Projects/e-Consent/Document sign",
+    "Attachments/Notes/Auth/Projects/e-Consent",
+    "Attachments/Notes/Auth/Projects/Vitalise/Sensors integration/Sensors integration",
+    "Attachments/Notes/Auth/Projects/Vitalise/Sensors integration",
+    "Attachments/Notes/Auth/Projects/Vitalise/Blockchain - No, you don't store data on the blockchain - here's why - JAXenter",
+    "Attachments/Notes/Auth/Projects/Vitalise",
+    "Attachments/Notes/Auth/Projects/Panel Management/Consents/e-Consent-Panel bridge",
+    "Notes/Intelligen/Keycloak/Completed issues/2025-10-02 Realm json and relative settings.md",
+    "Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md",
+    "Notes/Intelligen/Keycloak/Documentation/Setup Postman for OAuth2.0.md",
+    "Notes/Intelligen/Keycloak/Documentation/Red Hat build of Keycloak 26.2 Upgrading Guide.md",
+    "Notes/Intelligen/Keycloak/Documentation/Documentation - Update realm.md",
+    "Notes/Intelligen/Documentation/Registration flow.md",
+    "Notes/Intelligen/Keycloak/Documentation/Docs.md",
+    "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Keycloak ldap settings.md",
+    "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Final Keycloak Configuration for Kerberos SSO.md",
     "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Windows authentication.md",
-    "System/Categories/Resources.md",
-    "Notes/Resources/Code/Round-robin scheduling - Wikipedia.md",
-    "Current/Organize obsidian.md",
-    "Current/Drawing 2026-02-16 22.29.48.excalidraw.md",
-    "Current/2026-02-15.md",
-    "System/Categories/Documentation.md",
-    "Current/Drawing 2026-02-16 17.37.03.excalidraw.md",
-    "Notes/Resources/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
-    "Notes/Intelligen/Gantt/Backlog.md",
-    "Notes/Intelligen/Backlog.md",
-    "System/Templates/Bases/Documentation.base",
-    "System/Categories/Home.md",
-    "System/Templates/Bases/Intelligen Issues.base",
-    "System/Templates/Issue Template.md",
-    "System/Categories/Work.md",
-    "System/Categories/Interests.md",
-    "System/Templates/Home Template.md",
-    "System/Templates/Interest Template.md",
-    "System/Templates/Bases/Home.base",
-    "System/Tools/apply-work-template-properties.ps1",
-    "System/Templates/Bases/Work.base",
-    "System/Tools/obsidian-web-clipper-settings.json",
-    "System/Tools/goodreads-clipper.json",
-    "Notes/Resources/Software",
-    "Attachments/Notes/Resources/Code/UI/Frame0  Sketch your app ideas without hassle",
+    "Notes/Intelligen/Keycloak/Completed issues/508-Add-user-roles.md",
+    "Notes/Intelligen/Keycloak/Completed issues/493-Tenant-filtering.md",
+    "Notes/Intelligen/Keycloak/Completed issues/419-Add-user-from-token keycloak.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Theme.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/492-Upgrade-Keycloak.md",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/478 Get OperationEntries for reporting.md",
+    "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles/Instructions - Update ScpCloud realm for develop.md",
+    "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles/461-Keycloak-realm-scope-and-roles.md",
+    "Notes/Intelligen/Εργασία/https--www.euro2day.gr-news-economy-article-2254879-pos-ypologizetai-h-ethsia-adeia-kai-to-epidoma.html.md",
+    "Notes/Intelligen/Εργασία/Άδεια αναψυχής Πόση δικαιούστε, πώς μπορείτε να την υπολογίσετε.md",
+    "Notes/Intelligen/Εργασία/Άδειες.md",
+    "Notes/Intelligen/Εργασία/Αργίες 2025.md",
+    "Notes/Intelligen/Εργασία/Πώς υπολογίζεται η ετήσια άδεια και το επίδομα.md",
+    "Attachments/Notes/Intelligen/Notes/DDD_Reference_2015-03/Exported image 20260209140547-4.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215.png",
@@ -284,7 +305,6 @@
     "Attachments/Current/2026-02-15/image-1.png",
     "Attachments/Current/2026-02-15/image.png",
     "Attachments/image.png",
-    "Attachments/Notes/Home/Financial/Notes.md/Notes - Ink.svg",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

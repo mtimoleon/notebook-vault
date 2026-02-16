@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-10-07T10:07
-tags:
-  - issues/intelligen
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 Σύνοψη διαφορών του realm-export-with-roles σε σχέση με το προηγούμενο export:
 	1. Προσθήκη realm role

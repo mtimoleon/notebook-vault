@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-05-23T13:56
+product: Gantt
 component:
+status: completed
 tags:
   - issues/intelligen
-status: completed
-product: Gantt
 ---
 
 ![Exported image](Exported%20image%2020260209140126-0.png)  

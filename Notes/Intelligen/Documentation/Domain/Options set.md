@@ -1,12 +1,11 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2023-06-20T16:14
+product: ScpCloud
 component:
-product:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
 ---
 
 Contains

@@ -1,13 +1,14 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2025-10-30T12:39
-component:
 product:
+component: Keycloak
 tags:
-  - issues/intelligen
-  - keycloak
+  - documentation/keycloak
+  - topic/code
+  - tech/smtp4dev
+  - topic/how-to
 ---
 
 To use smtp4dev for keycloak email testing apply this configuration

@@ -2,9 +2,9 @@
 categories:
   - "[[Work]]"
 created: 2025-03-17T16:46
+product: Gantt
 component:
 status: completed
-product: Gantt
 tags:
   - issues/intelligen
 ---

@@ -1,12 +1,13 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2026-01-27T13:01
-component:
 product:
+component:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
+  - topic/authentication
+  - tech/tokens
 ---
 
 

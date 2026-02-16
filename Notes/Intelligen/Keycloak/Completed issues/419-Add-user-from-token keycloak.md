@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-08-25T16:28
-tags:
-  - issues/intelligen
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 - [x] Add claims into token  

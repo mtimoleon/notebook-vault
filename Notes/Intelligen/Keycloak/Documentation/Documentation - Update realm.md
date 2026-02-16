@@ -1,13 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2025-11-03T17:11
-tags:
-  - issues/intelligen
-  - keycloak
 product: ScpCloud
 component: Keycloak
+tags:
+  - documentation/keycloak
+  - documentation/intelligen
 ---
 ![[Attachments/Notes/Intelligen/Keycloak/Documentation/Documentation - Update realm/image.png]]
    

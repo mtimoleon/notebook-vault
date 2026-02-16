@@ -5,7 +5,6 @@ created: 2024-12-27T12:28
 component:
 product:
 tags:
-  - issues/intelligen
 ---
 
 [https://www.euro2day.gr/

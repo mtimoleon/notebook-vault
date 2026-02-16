@@ -2,12 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-11-11T15:30
-tags:
-  - issues/intelligen
-  - keycloak
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 **1. Preparations & Backup**

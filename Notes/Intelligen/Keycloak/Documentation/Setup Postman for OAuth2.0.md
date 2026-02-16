@@ -1,13 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2025-11-06T16:30
-component:
-product:
+product: ScpCloud
+component: Keycloak
 tags:
-  - issues/intelligen
-  - keycloak
+  - documentation/keycloak
+  - documentation/intelligen
 ---
 
 Goto collection authorization tab.

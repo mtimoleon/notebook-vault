@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2024-04-04T15:39
+product: Gantt
 component:
+status: backlog
 tags:
   - issues/intelligen
-status: backlog
-product: Gantt
 ---
 
 - [ ] Update fluidence example repo with latest package version 1.4.2  

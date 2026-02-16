@@ -5,8 +5,7 @@ created: 2025-05-05T11:20
 product:
 component: Keycloak
 tags:
-  - issues/intelligen
-  - documentation/intelligen
+  - documentation/keycloak
 ---
 
 Container for LDAP-Kerberos

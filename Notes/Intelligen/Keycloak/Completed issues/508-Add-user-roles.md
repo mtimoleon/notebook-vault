@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-12-15T12:56
-tags:
-  - issues/intelligen
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 - [x] ~~Aspnet core checks for role claim, see if it can check for {realm_access:roles}~~

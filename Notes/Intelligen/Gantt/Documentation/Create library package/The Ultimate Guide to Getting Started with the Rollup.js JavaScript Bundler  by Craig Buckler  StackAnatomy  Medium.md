@@ -1,12 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2026-02-13
-tags:
-  - issues/intelligen
 product: Gantt
 component: []
+tags:
+  - topic/code/packaging
+  - documentation/intelligen/gantt
 ---
 
 ## Summary

@@ -2,12 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-11-05T16:45
-tags:
-  - issues/intelligen
-  - keycloak
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 - Get into keycloak UI admin and select our realm

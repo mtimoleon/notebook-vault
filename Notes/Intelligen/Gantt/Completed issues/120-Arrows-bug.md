@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-12-01T14:04
+product: Gantt
 component:
+status: completed
 tags:
   - issues/intelligen
-status: completed
-product: Gantt
 ---
 
 rawArrowsData.findIndex(x=\>x.barOperationId == 3325)  

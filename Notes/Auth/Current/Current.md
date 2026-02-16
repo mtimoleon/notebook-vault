@@ -18,7 +18,7 @@ Show refresh button when frontend is updated
     - [ ] Add project consents  
     - [ ] Add a link to panel management public search in vitalise project website
     
-    - [Notes](Notes/Auth/enoll/Notes.md)
+    - [Notes](Notes/Projects/enoll/Notes.md)
     - Other ideas for the application  
 - [ ] Fix user for mysql @ raise2vm and raise service use  
 - [ ] Check panel management backup info and logs backups  

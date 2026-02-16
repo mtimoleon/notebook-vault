@@ -3,9 +3,9 @@ categories:
   - "[[Work]]"
 created: 2022-11-09T13:54
 component:
-product:
+product: ScpCloud
 tags:
-  - issues/intelligen
+  - topic/conversations/intelligen
 ---
 
 Σε σχέση με τα dates: Κάπως έτσι τα σκεφτόμουν κι εγώ ανεξάρτητα από τα διάφορα άρθρα. Συνοψίζω τις 2 λύσεις:

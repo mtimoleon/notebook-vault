@@ -2,11 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-11-12T09:39
-tags:
-  - issues/intelligen
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 - [x] Add tenantId to keycloak users during registration  

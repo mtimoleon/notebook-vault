@@ -3,10 +3,9 @@ categories:
   - "[[Work]]"
 created: 2023-05-03T11:30
 product:
-tags:
-  - issues/intelligen
-  - keycloak
 component: Keycloak
+tags:
+  - documentation/keycloak
 ---
 
 ==OIDC auth flows==

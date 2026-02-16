@@ -1,12 +1,11 @@
 ---
-product: ScpCloud
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2024-03-04T15:14
+product: ScpCloud
 component:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
 ---
 **Instances boundaries truncation**
 

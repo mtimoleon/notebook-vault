@@ -1,12 +1,11 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2021-11-19T21:36
-component:
 product:
+component:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
 ---
 
 **Schedule Pro**

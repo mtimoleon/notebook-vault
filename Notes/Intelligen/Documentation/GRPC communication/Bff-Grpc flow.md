@@ -1,12 +1,12 @@
 ---
-product: ScpCloud
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2023-12-06T11:20
 component:
+product: ScpCloud
 tags:
-  - issues/intelligen
+  - documentation/intelligen
+  - tech/grpc
 ---
 ![Exported image](Exported%20image%2020260209134046-0.png)   
 # Depict the flow from logs

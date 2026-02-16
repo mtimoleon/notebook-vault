@@ -1,12 +1,11 @@
 ---
-product: ScpCloud
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2022-11-08T16:15
+product: ScpCloud
 component:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
 ---
 \<Entity\>LookupDto  
 Contains:

@@ -1,11 +1,10 @@
 ---
 categories:
   - "[[Work]]"
+created: 2026-02-11
 product: Gantt
 component:
-ticket:
-status: current
-created: 2026-02-11
+status: open
 tags:
   - issues/intelligen
 ---

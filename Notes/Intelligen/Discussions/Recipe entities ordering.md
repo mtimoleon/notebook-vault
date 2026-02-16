@@ -3,9 +3,9 @@ categories:
   - "[[Work]]"
 created: 2022-11-09T14:00
 component:
-product:
+product: ScpCloud
 tags:
-  - issues/intelligen
+  - topic/conversations/intelligen
 ---
 
 Υλοποιήσαμε ordering στα entities του recipe. Αυτή η λύση μας χρειάζεται κάθε φορά που πρέπει να κάνουμε preserve τη σειρά με την οποία είναι καταχωρημένα κάποια entities. Συγκεκριμένα μας ενδιαφέρει η σειρά των Branches στο Recipe, των Sections στο Branch, των Procedures στο Section και των Operations στο Procedure.  

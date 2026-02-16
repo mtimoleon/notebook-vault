@@ -10,7 +10,7 @@ tags:
 ---
 
 - [[File export as Module]]
-- [The Ultimate Guide to Getting Started with the Rollup.js JavaScript Bundler | by Craig Buckler | StackAnatomy | Medium](The%20Ultimate%20Guide%20to%20Getting%20Started%20with%20the%20Rollup.js)
+- [[The Ultimate Guide to Getting Started with the Rollup.js JavaScript Bundler]]
 - [Obfuscator settings](Obfuscator%20settings.md)
 
 

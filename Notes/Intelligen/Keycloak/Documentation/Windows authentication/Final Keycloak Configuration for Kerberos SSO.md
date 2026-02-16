@@ -1,14 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2025-05-07T16:37
 product:
-tags:
-  - issues/intelligen
-  - keycloak
 component:
   - Keycloak
+tags:
+  - documentation/keycloak
 ---
 
 ### In Active directory server

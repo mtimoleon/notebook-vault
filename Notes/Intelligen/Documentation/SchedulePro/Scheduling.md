@@ -1,12 +1,11 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2021-11-19T21:50
-component:
 product:
+component:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
 ---
 
 While a recipe describes a process in general, a _schedule_ is a specific plan that specifies which recipes are executed when and with what resources.   

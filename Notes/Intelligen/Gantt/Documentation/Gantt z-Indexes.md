@@ -1,11 +1,11 @@
 ---
 categories:
   - "[[Work]]"
+created: 2025-12-08T15:32
 product: Gantt
 component: []
-created: 2025-12-08T15:32
 tags:
-  - documentation/intelligen
+  - documentation/intelligen/gantt
 ---
 
 ## Summary

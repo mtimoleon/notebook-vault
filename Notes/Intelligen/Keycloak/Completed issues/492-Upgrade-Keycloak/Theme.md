@@ -2,12 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-11-10T09:39
-tags:
-  - issues/intelligen
-  - keycloak
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 ![Exported image](Exported%20image%2020260209140333-0.png)  

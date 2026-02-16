@@ -1,12 +1,11 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2022-11-10T12:57
+product: ScpCloud
 component:
-product:
 tags:
-  - issues/intelligen
+  - documentation/intelligen
 ---
 
 - Hard Validation

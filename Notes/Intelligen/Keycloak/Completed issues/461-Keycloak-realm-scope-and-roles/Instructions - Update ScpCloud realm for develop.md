@@ -2,12 +2,11 @@
 categories:
   - "[[Work]]"
 created: 2025-11-06T15:27
-tags:
-  - issues/intelligen
-  - keycloak
-status: completed
 product: ScpCloud
 component: Keycloak
+status: completed
+tags:
+  - issues/intelligen
 ---
 
 1. Connect to keycloak UI at [https://localhost:28443](https://localhost:28443) as admin
