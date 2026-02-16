@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-04-13
+product:
+component:
+tags: []
 ---
 
 Plugins dashboard

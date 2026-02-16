@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-04-05
+product:
+component:
+tags: []
 ---
 
 Another plugin type (reader)

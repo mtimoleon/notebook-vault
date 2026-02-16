@@ -1,10 +1,9 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2025-06-10T10:35
 tags:
-  - intelligen
+  - issues/intelligen
 status: completed
 product: ScpCloud
 component:

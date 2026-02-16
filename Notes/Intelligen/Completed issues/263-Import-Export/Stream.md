@@ -1,11 +1,10 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2025-02-07T14:23
 tags:
   - stream
-  - intelligen
+  - issues/intelligen
 status: completed
 product: ScpCloud
 component:

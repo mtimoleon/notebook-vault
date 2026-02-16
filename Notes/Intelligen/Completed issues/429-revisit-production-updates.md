@@ -1,10 +1,9 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2025-09-08T10:44
 tags:
-  - intelligen
+  - issues/intelligen
 status: completed
 product: ScpCloud
 component:
@@ -26,7 +25,7 @@ As part of our ongoing efforts to enhance the user experience within the product
 
 - To clearly indicate which update is currently applied to an operation.
 - To enable the ability to revert updates (applicable only to production updates).
-- To refine the behavior and handling of theΒ StatusΒ field.
+- To refine the behavior and handling of the Status field.
  
 To support these changes, please note the following implementation steps:
  

@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-08-25
+product:
+component:
+tags: []
 ---
 
 ![Exported image](Exported%20image%2020260211203914-0.png) ![Exported image](Exported%20image%2020260211203915-1.png)

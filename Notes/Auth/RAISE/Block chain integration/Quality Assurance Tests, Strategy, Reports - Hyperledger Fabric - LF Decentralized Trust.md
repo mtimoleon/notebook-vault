@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-02-11
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://lf-hyperledger.atlassian.net/wiki/spaces/fabric/pages/22839728/Quality+Assurance+Tests+Strategy+Reports](https://lf-hyperledger.atlassian.net/wiki/spaces/fabric/pages/22839728/Quality+Assurance+Tests+Strategy+Reports)

@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-02-12
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://hyperledger-fabric.readthedocs.io/en/release-2.2/ledger/ledger.html](https://hyperledger-fabric.readthedocs.io/en/release-2.2/ledger/ledger.html)

@@ -7,7 +7,7 @@ published:
 created: 2025-04-13
 description: Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
 tags:
-  - ai
+  - topic/ai
 categories:
   - "[[Resources]]"
   - "[[Interests]]"

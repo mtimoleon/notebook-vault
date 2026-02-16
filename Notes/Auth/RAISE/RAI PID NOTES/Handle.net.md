@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-01-16
+product:
+component:
+tags: []
 ---
 
 Let’s delve into the fascinating world of **persistent identifiers (PIDs)** and explore how **handle.net** plays a crucial role.

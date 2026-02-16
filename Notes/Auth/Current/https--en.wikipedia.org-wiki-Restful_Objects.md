@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-10-05
+product:
+component:
+tags: []
 ---
 
 ![Configuration as code This plugin supports configu...](Exported%20image%2020260211203830-0.png)   

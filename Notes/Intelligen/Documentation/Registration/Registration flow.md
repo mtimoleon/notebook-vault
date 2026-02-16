@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2023-12-15T12:04
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 [file:///G:/My%20Drive/_developer-tasks/Projects/scpCloud/Architecture/User%20registration%20process.drawio.html](file:///G:/My%20Drive/_developer-tasks/Projects/scpCloud/Architecture/User%20registration%20process.drawio.html)

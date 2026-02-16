@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2025-09-22T11:12
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 **OPERATION ENTRY**

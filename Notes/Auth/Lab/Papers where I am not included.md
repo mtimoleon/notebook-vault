@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-10-27
+product:
+component:
+tags: []
 ---
 
 October-2020 ==Virtual Coaching for Older Adults at Home using SMART Goal Supported Behavior Chang==

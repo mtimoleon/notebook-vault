@@ -2,8 +2,10 @@
 categories:
   - "[[Work]]"
 created: 2022-05-02T19:20
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 2 types of information  

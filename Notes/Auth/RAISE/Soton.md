@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-02-12
+product:
+component:
+tags: []
 ---
 
 Development:  [https://develop.contracts.raise-science.eu/docs](https://develop.contracts.raise-science.eu/docs)  

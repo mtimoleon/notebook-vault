@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-02-11
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://datacite.org/fee-model/#Service-Fees](https://datacite.org/fee-model/#Service-Fees)

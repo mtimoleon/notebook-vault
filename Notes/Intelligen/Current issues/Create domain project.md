@@ -1,14 +1,13 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 product: ScpCloud
 component:
 ticket:
-status: current
+status: open
 created: 2026-02-16
 tags:
-  - intelligen
+  - issues/intelligen
   - developer
 ---
 ## Context

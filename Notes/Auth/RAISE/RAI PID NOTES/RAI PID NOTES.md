@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-01-27
+product:
+component:
+tags: []
 ---
 
 **Signposting**

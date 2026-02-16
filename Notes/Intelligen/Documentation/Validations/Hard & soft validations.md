@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2022-11-10T12:57
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 - Hard Validation

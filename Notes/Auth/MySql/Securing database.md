@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-01-31
+product:
+component:
+tags: []
 ---
 
 [https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps](https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps)

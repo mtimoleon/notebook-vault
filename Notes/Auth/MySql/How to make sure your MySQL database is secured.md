@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-01-26
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://www.freecodecamp.org/news/cjn-is-your-mysql-secured-7793e5444cf5/](https://www.freecodecamp.org/news/cjn-is-your-mysql-secured-7793e5444cf5/)

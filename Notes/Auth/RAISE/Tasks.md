@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-04-08
+product:
+component:
+tags: []
 ---
 
 public class DataciteMetadata  

@@ -1,0 +1,37 @@
+filters:
+  and:
+    - categories == ["[[Work]]"]
+    - file.tags.contains("issues/intelligen")
+views:
+  - type: table
+    name: Issues
+    order:
+      - file.name
+      - product
+      - component
+      - status
+      - created
+      - tags
+      - file.path
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      note.component: 92
+      note.created: 129
+      note.tags: 245
+      file.path: 135
+  - type: table
+    name: Completed issues
+    filters:
+      or:
+        - status == "completed"
+        - status == "abandoned"
+    order:
+      - file.name
+      - product
+      - component
+      - created
+      - file.path
+    columnSize:
+      note.created: 129

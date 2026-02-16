@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-01-08
+product:
+component:
+tags: []
 ---
 
 - [x] Create ssh keys and add to jenkins and server  

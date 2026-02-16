@@ -1,14 +1,13 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 product: Gantt
 component:
 ticket:
 status: current
 created: 2026-02-11
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 ## Requirements

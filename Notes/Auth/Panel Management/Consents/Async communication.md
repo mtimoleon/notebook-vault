@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-07-27
+product:
+component:
+tags: []
 ---
 
 **Polling**  

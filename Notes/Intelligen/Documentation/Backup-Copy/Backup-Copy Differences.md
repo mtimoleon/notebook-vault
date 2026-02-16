@@ -1,10 +1,11 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2024-01-25T10:05
+component:
 tags:
-  - intelligen
+  - issues/intelligen
 product: ScpCloud
 ---
 

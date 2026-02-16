@@ -1,0 +1,15 @@
+filters:
+  and:
+    - categories == ["[[Work]]"]
+    - file.tags.contains("documentation")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - product
+      - component
+      - tags
+    sort:
+      - property: tags
+        direction: DESC

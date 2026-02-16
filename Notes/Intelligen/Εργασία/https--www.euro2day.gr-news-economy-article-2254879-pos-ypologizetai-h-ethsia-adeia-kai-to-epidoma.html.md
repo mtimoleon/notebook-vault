@@ -1,9 +1,11 @@
-﻿---
+---
 categories:
   - "[[Work]]"
 created: 2024-12-27T12:28
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 [https://www.euro2day.gr/

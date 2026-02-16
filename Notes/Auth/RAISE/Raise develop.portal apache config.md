@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-08-26
+product:
+component:
+tags: []
 ---
 
 |   |

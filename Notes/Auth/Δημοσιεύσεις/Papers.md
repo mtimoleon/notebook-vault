@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2023-12-19
+product:
+component:
+tags: []
 ---
 
 [https://www.researchgate.net/scientific-contributions/Michalis-Timoleon-2157777254](https://www.researchgate.net/scientific-contributions/Michalis-Timoleon-2157777254)

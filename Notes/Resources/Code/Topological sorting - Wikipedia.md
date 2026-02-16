@@ -1,16 +1,15 @@
 ---
 categories:
-  - "[[Documentation]]"
-  - "[[Work]]"
 title: Topological sorting - Wikipedia
 source: https://en.wikipedia.org/wiki/Topological_sorting
 author:
   - "[[Wikipedia]]"
 created: 2026-02-12
+component:
+product:
 description:
 tags:
-  - wikipedia
-  - intelligen
+  - topic/wikipedia
 ---
 "Dependency resolution" redirects here. For other uses, see [Dependency (disambiguation)](https://en.wikipedia.org/wiki/Dependency_\(disambiguation\) "Dependency (disambiguation)").
 

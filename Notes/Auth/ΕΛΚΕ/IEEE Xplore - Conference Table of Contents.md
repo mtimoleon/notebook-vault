@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-02-14
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://ieeexplore.ieee.org/xpl/conhome/9926747/proceeding?isnumber=9926739&sortType=vol-only-seq&searchWithin=timoleon](https://ieeexplore.ieee.org/xpl/conhome/9926747/proceeding?isnumber=9926739&sortType=vol-only-seq&searchWithin=timoleon)

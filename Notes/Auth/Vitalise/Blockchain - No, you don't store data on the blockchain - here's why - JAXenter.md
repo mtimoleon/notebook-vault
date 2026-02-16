@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-10-20
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://jaxenter.com/blockchain-data-164727.html](https://jaxenter.com/blockchain-data-164727.html)

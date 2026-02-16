@@ -1,10 +1,9 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2025-11-05T16:45
 tags:
-  - intelligen
+  - issues/intelligen
   - keycloak
 status: completed
 product: ScpCloud

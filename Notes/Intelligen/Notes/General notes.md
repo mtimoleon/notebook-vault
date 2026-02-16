@@ -1,9 +1,11 @@
-﻿---
+---
 categories:
   - "[[Work]]"
 created: 2021-10-05T21:33
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 1. How to deploy an update to a microservice when it is included in a container deployed on the cloud

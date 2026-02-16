@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-02-06
+product:
+component:
+tags: []
 ---
 
 I believe we can focus today's discussion on:

@@ -9,9 +9,9 @@ published: 2020-03-20
 source: https://tailscale.com/blog/how-tailscale-works
 description: Efficient task management platform with intuitive design, customizable workflows, and real-time collaboration. Boost your productivity and streamline projects with ease.
 tags:
-  - productivity
-  - collaboration
-  - networks
+  - topic/productivity
+  - topic/collaboration
+  - tech/networks
 ---
 [Blog](https://tailscale.com/blog) | March 20, 2020
 

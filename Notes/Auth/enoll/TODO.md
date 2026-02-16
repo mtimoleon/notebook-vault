@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-06-02
+product:
+component:
+tags: []
 ---
 
 - [ ] Να βάλουμε στατιστικά για τα projects, δλδ πόσες φορές ένας user είδε ένα project πόσα bids έκανε κλπ, έχουμε και το elastic γι'αυτό.

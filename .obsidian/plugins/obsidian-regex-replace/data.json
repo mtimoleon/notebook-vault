@@ -1,5 +1,5 @@
 {
-  "findText": "￼",
+  "findText": "<br>",
   "replaceText": "\n",
   "useRegEx": false,
   "selOnly": false,

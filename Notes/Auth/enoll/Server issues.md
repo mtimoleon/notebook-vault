@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-04-12
+product:
+component:
+tags: []
 ---
 
 - [ ] Change server and client urls in the email messages according to deployment  

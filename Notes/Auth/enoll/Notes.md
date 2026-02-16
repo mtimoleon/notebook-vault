@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2023-06-16
+product:
+component:
+tags: []
 ---
 
 Advanced user:

@@ -6,7 +6,7 @@ product: Gantt
 component: []
 created: 2026-02-13
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 ## Summary
 

@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2025-10-30T12:39
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
   - keycloak
 ---
 
@@ -30,7 +32,7 @@ Initial setup
 ```
  },  
 
-Β 
+ 
 
 ![Exported image](Exported%20image%2020260209140450-0.png)  
 

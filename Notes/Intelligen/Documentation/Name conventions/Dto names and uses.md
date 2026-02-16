@@ -4,8 +4,9 @@ categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2022-11-08T16:15
+component:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 \<Entity\>LookupDto  
 Contains:

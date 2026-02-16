@@ -2,9 +2,10 @@
 categories:
   - "[[Work]]"
 created: 2025-10-07T10:47
+product: ScpCloud
+component: Keycloak
 tags:
-  - intelligen
-  - keycloak
+  - issues/intelligen
 ---
 
 ```

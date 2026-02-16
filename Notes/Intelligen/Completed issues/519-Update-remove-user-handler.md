@@ -1,14 +1,12 @@
 ---
 created: 2026-01-19T17:26
 tags:
-  - keycloak
-  - intelligen
+  - issues/intelligen
 categories:
-  - "[[Work]]"
   - "[[Work]]"
 status: completed
 product: ScpCloud
-component:
+component: Keycloak
 ticket:
 ---
 

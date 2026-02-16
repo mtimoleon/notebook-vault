@@ -4,7 +4,7 @@ categories:
   - "[[Documentation]]"
 created: 2026-02-14
 tags:
-  - intelligen
+  - issues/intelligen
 product:
 component: []
 ---

@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-04-12
+product:
+component:
+tags: []
 ---
 
 - [ ] Registration not sending country id @ first attempt

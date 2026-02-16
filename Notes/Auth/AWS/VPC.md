@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-10-13
+product:
+component:
+tags: []
 ---
 
 ![Layered network defense for VPCs os 1 VPC route ta...](Exported%20image%2020260211203458-0.png)  

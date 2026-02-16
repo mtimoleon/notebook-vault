@@ -1,14 +1,13 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2024-01-25T10:15
-tags:
-  - intelligen
 status: completed
 product: ScpCloud
 component:
 ticket:
+tags:
+  - issues/intelligen
 ---
 
 Admin registrations handling

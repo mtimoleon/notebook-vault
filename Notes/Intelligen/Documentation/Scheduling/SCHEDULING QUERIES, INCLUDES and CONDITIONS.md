@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2023-11-30T12:09
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 **SCHEDULING QUERIES, INCLUDES and CONDITIONS**

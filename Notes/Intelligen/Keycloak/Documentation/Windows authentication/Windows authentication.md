@@ -1,12 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 created: 2025-05-05T11:20
-tags:
-  - intelligen
-  - keycloak
+product:
 component: Keycloak
+tags:
+  - issues/intelligen
+  - documentation/intelligen
 ---
 
 Container for LDAP-Kerberos

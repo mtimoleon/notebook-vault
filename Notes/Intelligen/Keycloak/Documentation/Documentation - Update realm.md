@@ -4,7 +4,7 @@ categories:
   - "[[Documentation]]"
 created: 2025-11-03T17:11
 tags:
-  - intelligen
+  - issues/intelligen
   - keycloak
 product: ScpCloud
 component: Keycloak

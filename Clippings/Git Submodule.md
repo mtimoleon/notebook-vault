@@ -9,8 +9,7 @@ published: 2024-09-10
 created: 2026-02-13
 description: "Git Submodule: How to setup"
 tags:
-  - git
-  - developer
+  - tech/git
 ---
 Last Updated: 23 Jul, 2025
 

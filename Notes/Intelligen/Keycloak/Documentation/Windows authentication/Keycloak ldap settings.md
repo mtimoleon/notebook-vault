@@ -1,9 +1,10 @@
 ---
 component: Keycloak
 created: 2025-05-08T10:04
+product:
 tags:
   - keycloak
-  - intelligen
+  - issues/intelligen
 categories:
   - "[[Work]]"
   - "[[Documentation]]"

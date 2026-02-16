@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2025-11-06T16:30
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
   - keycloak
 ---
 

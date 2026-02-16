@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-09-29
+product:
+component:
+tags: []
 ---
 
 ![Provisioned Capacity RCU WCU level Set consumption...](Exported%20image%2020260211201408-0.png)

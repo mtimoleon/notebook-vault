@@ -1,10 +1,10 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2022-10-19T11:28
+component:
 tags:
-  - intelligen
+  - issues/intelligen
 status: completed
 product: Gantt
 ---

@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-05-30
+product:
+component:
+tags: []
 ---
 
 ![liid NC type NC value associationld associatio n O...](Exported%20image%2020260211204104-0.png)

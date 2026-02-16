@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-10-01
+product:
+component:
+tags: []
 ---
 
 Table me ids  

@@ -1,10 +1,10 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2025-05-08T10:20
+component:
 tags:
-  - intelligen
+  - issues/intelligen
 status: backlog
 product: ScpCloud
 ---

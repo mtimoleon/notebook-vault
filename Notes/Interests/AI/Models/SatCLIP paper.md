@@ -4,7 +4,8 @@ categories:
   - "[[Resources]]"
   - "[[Interests]]"
 tags:
-  - ai
+  - topic/ai
+  - topic/papers
 ---
 
 ![[Attachments/Notes/Interests/AI/Models/SatCLIP paper/2311.17179v3.pdf]]

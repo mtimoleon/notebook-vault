@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-04-27
+product:
+component:
+tags: []
 ---
 
 ![Exported image](Exported%20image%2020260211204707-0.png) ![Exported image](Exported%20image%2020260211204712-1.png) ![Exported image](Exported%20image%2020260211204714-2.png) ![Exported image](Exported%20image%2020260211204716-3.png) ![Exported image](Exported%20image%2020260211204719-4.png) ![Exported image](Exported%20image%2020260211204721-5.png) ![Exported image](Exported%20image%2020260211204723-6.png) ![Exported image](Exported%20image%2020260211204725-7.png) ![Exported image](Exported%20image%2020260211204730-8.png) ![Exported image](Exported%20image%2020260211204732-9.png) ![Exported image](Exported%20image%2020260211204734-10.png) ![Exported image](Exported%20image%2020260211204737-11.png) ![Exported image](Exported%20image%2020260211204741-12.png)

@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2023-04-25
+product:
+component:
+tags: []
 ---
 
 [Προεπισκόπηση](https://mail.google.com/mail/u/0?ui=2&ik=a19c85291a&attid=0.1&permmsgid=msg-f:1763688216753158053&th=1879e116b61d37a5&view=att&disp=safe&realattid=f_lgoxxggs0) συνημμένου VITALISE-template-for-describing-living-labs_v1.docx

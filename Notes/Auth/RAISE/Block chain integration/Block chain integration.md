@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-10-04
+product:
+component:
+tags: []
 ---
 
 **Blockchain Registration flow:** [https://swimlanes.io/u/DBfoGFqkYz](https://swimlanes.io/u/DBfoGFqkYz)

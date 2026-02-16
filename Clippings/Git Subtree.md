@@ -9,8 +9,7 @@ published: 2022-02-27
 created: 2026-02-13
 description: "GitSubtree: Including one Git repository as a subdirectory within another repository."
 tags:
-  - git
-  - developer
+  - tech/git
 ---
 Last Updated: 10 Oct, 2025
 

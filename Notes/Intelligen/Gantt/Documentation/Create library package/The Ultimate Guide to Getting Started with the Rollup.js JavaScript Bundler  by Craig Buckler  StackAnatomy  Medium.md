@@ -4,7 +4,7 @@ categories:
   - "[[Documentation]]"
 created: 2026-02-13
 tags:
-  - intelligen
+  - issues/intelligen
 product: Gantt
 component: []
 ---

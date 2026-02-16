@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2026-02-11
+product:
+component:
+tags: []
 ---
 
 To become **eIDAS compliant**, you need to ensure that your service meets the requirements for electronic identification, authentication, and trust services as outlined by the eIDAS Regulation. Here are the key steps you should take:

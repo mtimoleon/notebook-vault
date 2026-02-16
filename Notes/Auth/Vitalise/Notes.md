@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-09-18
+product:
+component:
+tags: []
 ---
 
 - SPARQL

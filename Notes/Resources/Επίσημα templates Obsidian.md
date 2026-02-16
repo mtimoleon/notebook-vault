@@ -8,8 +8,8 @@ created: 2026-02-11
 description: Where to find some templates for obsidian web clipper
 tags:
   - topic/conversations/gpt
-  - obsidian
-  - obsidian/web-clipper
+  - tech/obsidian
+  - tech/obsidian/web-clipper
 categories:
   - "[[Resources]]"
 type:

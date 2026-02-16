@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-08-21
+product:
+component:
+tags: []
 ---
 
 - [ ] Technical requirements and description of the RAI finder service, Popular dataset preservation and multi-tenant RAI node and the Fair publishing of RAIs and results repository, and description of the RAI validates authenticity of results and popular dataset preservation workflows.

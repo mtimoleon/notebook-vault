@@ -2,8 +2,8 @@
 categories:
   - "[[Documentation]]"
 created: {{date}}
-product: []
-component: []
+product: 
+component: 
 tags: []
 ---
 

@@ -1,16 +1,16 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Documentation]]"
 title: Round-robin scheduling - Wikipedia
 source: https://en.wikipedia.org/wiki/Round-robin_scheduling
 author:
   - "[[Wikipedia]]"
 created: 2026-02-12
+component:
+product:
 description:
 tags:
-  - wikipedia
-  - intelligen
+  - topic/wikipedia
 ---
 This article is about scheduling in computing. For other uses, see [Round-robin (disambiguation)](https://en.wikipedia.org/wiki/Round-robin_\(disambiguation\) "Round-robin (disambiguation)").
 

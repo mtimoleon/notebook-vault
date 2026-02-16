@@ -1,6 +1,11 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-03-25
+product:
+  - PID
 component:
+tags:
   - PID
 ---
 

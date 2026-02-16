@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-07-21
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://blog.oceanprotocol.com/ocean-nodes-oasis-sapphire-integration-a-new-era-of-decentralized-encryption-0ce9b3b0c843](https://blog.oceanprotocol.com/ocean-nodes-oasis-sapphire-integration-a-new-era-of-decentralized-encryption-0ce9b3b0c843)

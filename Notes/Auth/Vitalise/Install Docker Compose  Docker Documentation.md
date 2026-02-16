@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-11-11
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)

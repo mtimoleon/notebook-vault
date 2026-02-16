@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-10-31
+product:
+component:
+tags: []
 ---
 
 [https://assos-auth.atlassian.net/browse/RAI-199](https://assos-auth.atlassian.net/browse/RAI-199)  

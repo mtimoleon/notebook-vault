@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-01-16
+product:
+component:
+tags: []
 ---
 
 ![Exported image](Exported%20image%2020260211204453-0.png) ![Exported image](Exported%20image%2020260211204455-1.png) ![Exported image](Exported%20image%2020260211204456-2.png) ![Exported image](Exported%20image%2020260211204458-3.png) ![Exported image](Exported%20image%2020260211204501-4.png) ![Exported image](Exported%20image%2020260211204502-5.png) ![Exported image](Exported%20image%2020260211204507-6.png) ![Exported image](Exported%20image%2020260211204509-7.png) ![Exported image](Exported%20image%2020260211204512-8.png) ![Exported image](Exported%20image%2020260211204513-9.png) ![Exported image](Exported%20image%2020260211204516-10.png) ![Exported image](Exported%20image%2020260211204518-11.png) ![Exported image](Exported%20image%2020260211204520-12.png) ![Exported image](Exported%20image%2020260211204526-13.png) ![Exported image](Exported%20image%2020260211204528-14.png) ![Exported image](Exported%20image%2020260211204530-15.png) ![Exported image](Exported%20image%2020260211204531-16.png) ![Exported image](Exported%20image%2020260211204533-17.png) ![Exported image](Exported%20image%2020260211204536-18.png) ![Exported image](Exported%20image%2020260211204537-19.png) ![Exported image](Exported%20image%2020260211204542-20.png) ![Exported image](Exported%20image%2020260211204545-21.png) ![Exported image](Exported%20image%2020260211204549-22.png) ![Exported image](Exported%20image%2020260211204550-23.png) ![Exported image](Exported%20image%2020260211204552-24.png) ![Exported image](Exported%20image%2020260211204554-25.png) ![Exported image](Exported%20image%2020260211204556-26.png) ![Exported image](Exported%20image%2020260211204601-27.png)

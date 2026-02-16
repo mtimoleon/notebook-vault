@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2021-12-01
+product:
+component:
+tags: []
 ---
 
 ![association Id projectld schedule O created_at upd...](Exported%20image%2020260211204038-0.png)

@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-02-11
+product:
+component:
+tags: []
 ---
 
 [https://hyperledger-fabric.readthedocs.io/en/release-2.2/developapps/wallet.html](https://hyperledger-fabric.readthedocs.io/en/release-2.2/developapps/wallet.html)  

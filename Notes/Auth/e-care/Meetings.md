@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2022-03-15
+product:
+component:
+tags: []
 ---
 
 Meeting 15-3-2022

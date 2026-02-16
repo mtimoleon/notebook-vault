@@ -1,9 +1,11 @@
-﻿---
+---
 categories:
   - "[[Work]]"
 created: 2021-10-05T21:24
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 ![CloudNative Design](Exported%20image%2020260209140512-0.png)   

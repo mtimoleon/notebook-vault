@@ -2,8 +2,10 @@
 categories:
   - "[[Work]]"
 created: 2024-01-03T01:08
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 Clipped from: [https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6](https://medium.com/swlh/creating-a-simple-real-time-chat-with-net-core-reactjs-and-signalr-6367dcadd2c6)

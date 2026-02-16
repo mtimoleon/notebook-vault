@@ -2,8 +2,10 @@
 categories:
   - "[[Work]]"
 created: 2021-10-10T17:03
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 Clipped from: [https://scientificprogrammer.net/2020/07/18/signalr-vs-grpc-on-asp-net-core-which-one-to-choose/](https://scientificprogrammer.net/2020/07/18/signalr-vs-grpc-on-asp-net-core-which-one-to-choose/)

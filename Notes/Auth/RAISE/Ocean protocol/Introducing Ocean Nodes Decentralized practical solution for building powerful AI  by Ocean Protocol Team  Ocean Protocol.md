@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-07-21
+product:
+component:
+tags: []
 ---
 
 Clipped from: [https://blog.oceanprotocol.com/introducing-ocean-nodes-decentralized-practical-solution-for-building-powerful-ai-c72fc6747165](https://blog.oceanprotocol.com/introducing-ocean-nodes-decentralized-practical-solution-for-building-powerful-ai-c72fc6747165)

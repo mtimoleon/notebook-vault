@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2025-10-15
+product:
+component:
+tags: []
 ---
 
 - **RAISE Notes**

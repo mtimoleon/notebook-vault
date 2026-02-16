@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2021-11-19T22:06
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 |                                 |               |               |              |              |             |                  |                  |                |              |               |                                      |                 |

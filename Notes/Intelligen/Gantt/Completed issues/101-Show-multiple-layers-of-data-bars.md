@@ -1,12 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-  - "[[Work]]"
 created: 2025-03-17T16:46
-tags:
-  - intelligen
+component:
 status: completed
 product: Gantt
+tags:
+  - issues/intelligen
 ---
 
 - [x] The bars array should be an array of arrays:  

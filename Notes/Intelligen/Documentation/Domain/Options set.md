@@ -1,10 +1,12 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
 created: 2023-06-20T16:14
+component:
+product:
 tags:
-  - intelligen
+  - issues/intelligen
 ---
 
 Contains

@@ -11,7 +11,6 @@ tags:
   - topic/conversations/gpt
   - mongo
   - containers
-  - intelligen
 ---
  To initiate a **MongoDB replica set** in a containerized environment (e.g., using Docker), you need to:
 

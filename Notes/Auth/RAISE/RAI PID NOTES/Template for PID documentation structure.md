@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Work]]"
 created: 2024-03-19
+product:
+component:
+tags: []
 ---
 
 **Persistent Identifier Handbook**  
