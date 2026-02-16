@@ -1,7 +1,7 @@
 ---
 title: Git Submodule
 categories:
-  - "[[Clippings]]"
+  - "[[Resources]]"
 source: https://www.geeksforgeeks.org/git/git-submodule/
 author:
   - "[[GeeksforGeeks]]"

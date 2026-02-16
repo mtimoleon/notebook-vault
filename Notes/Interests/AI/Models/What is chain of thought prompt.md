@@ -9,7 +9,7 @@ description: Perplexity is a free AI-powered answer engine that provides accurat
 tags:
   - ai
 categories:
-  - "[[Clippings]]"
+  - "[[Resources]]"
   - "[[Interests]]"
 ---
 

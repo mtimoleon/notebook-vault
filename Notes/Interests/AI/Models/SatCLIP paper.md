@@ -1,7 +1,7 @@
 ---
 created: 2025-05-31
 categories:
-  - "[[Clippings]]"
+  - "[[Resources]]"
   - "[[Interests]]"
 tags:
   - ai

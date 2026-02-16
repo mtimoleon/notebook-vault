@@ -1,6 +1,6 @@
 ---
 categories:
-  - "[[Issues]]"
+  - "[[Work]]"
   - "[[Work]]"
 product: ScpCloud
 component:

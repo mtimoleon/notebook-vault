@@ -5,7 +5,7 @@ tags:
   - intelligen
 categories:
   - "[[Work]]"
-  - "[[Issues]]"
+  - "[[Work]]"
 status: completed
 product: ScpCloud
 component:

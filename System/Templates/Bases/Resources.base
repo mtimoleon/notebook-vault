@@ -1,0 +1,41 @@
+filters:
+  and:
+    - or:
+        - categories.contains(link("Resources"))
+        - file.path.contains("Notes/Resources/")
+        - file.path.contains("Clippings/")
+    - '!file.name.contains("Template")'
+    - '!file.path.contains("Attachments/")'
+properties:
+  file.name:
+    displayName: Note
+  file.path:
+    displayName: Path
+  note.url:
+    displayName: URL
+  note.created:
+    displayName: Created
+  note.tags:
+    displayName: Tags
+  note.categories:
+    displayName: Categories
+views:
+  - type: table
+    name: Resources
+    order:
+      - file.name
+      - categories
+      - tags
+      - source
+      - created
+      - file.path
+    sort:
+      - property: created
+        direction: DESC
+    limit: 200
+    columnSize:
+      file.name: 282
+      note.categories: 130
+      note.tags: 150
+      note.source: 203
+      file.ctime: 128

@@ -9,7 +9,6 @@ author:
 created: 2026-02-12
 description:
 tags:
-  - clippings
   - wikipedia
   - intelligen
 ---

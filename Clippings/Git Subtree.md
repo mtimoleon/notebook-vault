@@ -1,7 +1,7 @@
 ---
 title: Git Subtree
 categories:
-  - "[[Clippings]]"
+  - "[[Resources]]"
 source: https://www.geeksforgeeks.org/git/git-subtree/
 author:
   - "[[GeeksforGeeks]]"
@@ -105,4 +105,3 @@ This will duplicate https://github.com/microsoft/hermes-windows into the directo
 | Easier to understand and manage. | More complex to maintain and sync. |
 | Team members don’t need special setup. | Every collaborator must initialize submodules manually. |
 | Best when simplicity and integration are priorities. | Best when keeping repositories strictly separate is important |
-

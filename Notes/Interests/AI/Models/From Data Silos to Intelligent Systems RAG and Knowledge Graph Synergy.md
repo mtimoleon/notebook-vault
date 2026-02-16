@@ -1,17 +1,15 @@
 ---
-
 title: "From Data Silos to Intelligent Systems: RAG and Knowledge Graph Synergy | HackerNoon"
 categories:
-  - "[[Clippings]]"
+  - "[[Resources]]"
   - "[[Interests]]"
 created: 2025-01-05
 source: https://hackernoon.com/from-data-silos-to-intelligent-systems-rag-and-knowledge-graph-synergy
 author:
   - "[[Shaik Abdul Kareem]]"
 published: 2024-12-30
-description: "Explore how RAG and Knowledge Graphs enhance AI with context-aware, semantic insights for smarter, accurate recommendations in real-world applications."
+description: Explore how RAG and Knowledge Graphs enhance AI with context-aware, semantic insights for smarter, accurate recommendations in real-world applications.
 tags:
-  - "clippings"
 ---
 
 

@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d871f76bb02379ff",
+        "id": "5ca807174e6d8970",
         "type": "tabs",
         "children": [
           {
-            "id": "e7af74d9964f982e",
+            "id": "ae8d80169e15c701",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Current/Drawing 2026-02-16 17.37.03.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-16 17.37.03.excalidraw"
+            }
+          },
+          {
+            "id": "e6792eb45559eef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current/2026-02-15.md",
+                "file": "System/Templates/Work Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +42,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-15"
+              "title": "Work Template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#issue/support",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 313.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -97,7 +112,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 26.524685382381413,
+        "dimension": 43.604651162790695,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -105,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current/2026-02-15.md",
+                "file": "System/Templates/Work Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-15"
+              "title": "Backlinks for Work Template"
             }
           },
           {
@@ -138,7 +153,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -165,18 +180,20 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "System/Templates/Resource Template.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Resource Template"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 19.36108422071636,
+        "dimension": 19.379844961240313,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -184,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current/2026-02-15.md",
+                "file": "System/Templates/Work Template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-15"
+              "title": "Outline of Work Template"
             }
           },
           {
@@ -210,7 +227,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 54.11423039690223,
+        "dimension": 37.01550387596899,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -225,11 +242,9 @@
           {
             "id": "6cca100229a19d30",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -254,51 +269,52 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "e7af74d9964f982e",
+  "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
+    "System/Templates/Issue Template.md",
+    "System/Templates/Work Template.md",
+    "System/Categories/Companies.md",
+    "Current/Drawing 2026-02-16 17.37.03.excalidraw.md",
+    "Current/Untitled.md",
+    "System/Templates/Bases/Documentation.base",
+    "System/Templates/Documentation Template.md",
+    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
+    "System/Categories/Work.md",
+    "System/Templates/Bases/Work.base",
+    "Clippings/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
+    "System/Templates/Home Template.md",
+    "System/Templates/Interest Template.md",
+    "System/Templates/Resource Template.md",
+    "System/Templates/Software Template.md",
+    "System/Tools/obsidian-web-clipper-settings.json",
+    "System/Tools/goodreads-clipper.json",
+    "System/Categories/Resources.md",
+    "Notes/Resources/Software",
+    "Attachments/Notes/Resources/Code/UI/Frame0  Sketch your app ideas without hassle",
+    "Attachments/Notes/Resources/Code/UI",
+    "Attachments/Notes/Resources/Code/sj-project/Diagrams",
+    "Attachments/Notes/Resources/Code/sj-project/Amaze_Services_Prices",
+    "Attachments/Notes/Resources/Code/sj-project",
+    "Notes/Resources/Code/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 5 (Special Cases).md",
+    "Notes/Resources/Code/Error Responses/REST API error handling - IBM Documentation.md",
+    "Notes/Intelligen/Algorithms/Round-robin scheduling - Wikipedia.md",
+    "Notes/Resources/Code/General/The HTTP2 protocol.md",
+    "Notes/Resources/Code/Linux/The UNIX Filesystem Commands.md",
+    "Notes/Resources/Engineering/TiSoft - Πίνακας πυκνωτών διόρθωσης συνφ.md",
+    "Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md",
+    "Notes/Resources/Engineering/Βαθμός προστασίας IP κώδικας » GeoV Solutions.md",
+    "Notes/Resources/Code/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 4 (Queueing requesting delivery in background).md",
+    "Notes/Resources/Code/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 3 (Replacing Messages & Urgency).md",
+    "Notes/Resources/Code/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 2 (Requesting Delivery).md",
+    "Notes/Resources/Code/General/Push Notifications and ASP.NET Core - Part 1 (Push API)/Push Notifications and ASP.NET Core - Part 1 (Push API).md",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 1.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 2.png",
-    "Current/2026-02-15.md",
-    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
-    "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
-    "Notes/Intelligen/Notes/C 9.0 on the record - .NET Blog.md",
-    "Notes/Intelligen/Notes/DDD_Reference_2015-03.md",
-    "Notes/Intelligen/Notes/Introduction to cloud-native applications  Microsoft Docs.md",
-    "Notes/Intelligen/Notes/General notes.md",
-    "Notes/Intelligen/Filters/Notes.md",
-    "Notes/Intelligen/Filters/C in a Nutshell - PredicateBuilder.md",
-    "Notes/Intelligen/Filters/All search requests.md",
-    "Notes/Intelligen/Current issues/Undo-history.md",
-    "Categories/Issues.md",
-    "Notes/Intelligen/Gantt/Completed issues/108-Add-timeline.md",
-    "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md",
-    "Clippings/Git Subtree.md",
-    "Notes/Intelligen/Current issues/Create domain project.md",
-    "Notes/Intelligen/CQRS/Effective Aggregate Design.md",
-    "Notes/Intelligen/CQRS/CQRS Documents.md",
-    "Notes/Intelligen/CQRS/Clarified CQRS.md",
-    "Notes/Intelligen/CQRS/Applying CQRS and CQS approaches in a DDD microservice in eShopOnContainers  Microsoft Docs.md",
-    "Notes/Intelligen/Algorithms/Calculate operation timing.md",
-    "Notes/Intelligen/Algorithms/Scheduling service.md",
-    "Notes/Intelligen/Algorithms/Round-robin scheduling - Wikipedia.md",
-    "Clippings/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
     "Attachments/Current/2026-02-15/image-2.png",
     "Attachments/Current/2026-02-15/image-1.png",
     "Attachments/Current/2026-02-15/image.png",
-    "Untitled.md",
-    "Attachments/Current/2026-02-15",
-    "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου",
-    "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ",
-    "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα",
-    "Attachments/Notes/Electric-engineer/Καζαλτζής",
-    "Attachments/Notes/Electric-engineer",
-    "Attachments/Notes/Interests/Βιβλία/OS internals/The Linux Kernel Module Programming Guide",
-    "Attachments/Notes/Interests/Βιβλία/OS internals",
-    "Attachments/Notes/Interests/Βιβλία",
-    "Attachments/Notes/Interests/Βιβλία/OS internals/The Linux Kernel Module Programming Guide/The Linux Kernel Module Programming Guide.pdf",
     "Attachments/image.png",
     "Attachments/Notes/Home/Financial/Notes.md/Notes - Ink.svg",
     "Test/Untitled 1.canvas",

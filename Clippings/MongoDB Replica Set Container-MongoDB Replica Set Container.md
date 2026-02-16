@@ -8,7 +8,7 @@ author:
 published:
 created: 2026-02-16
 tags:
-  - chatgpt/conversation
+  - topic/conversations/gpt
   - mongo
   - containers
   - intelligen

@@ -1,7 +1,6 @@
 ---
 categories:
  - "[[Work]]"
- - "[[Issues]]"
 created: 2025-02-03T09:36
 tags:
   - intelligen

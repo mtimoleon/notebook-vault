@@ -2,7 +2,7 @@
 created: 2024-12-27
 source: https://arxiv.org/pdf/2001.08361
 categories:
-  - "[[Clippings]]"
+  - "[[Resources]]"
   - "[[Interests]]"
 ---
 
