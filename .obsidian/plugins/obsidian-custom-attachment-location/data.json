@@ -1,10 +1,10 @@
 {
-  "attachmentFolderPath": "${noteFolderName:{pick:{from:'start',index:1}}}/Attachments/${noteFolderPath}/${noteFileName}",
+  "attachmentFolderPath": "Notes/${noteFolderName:{pick:{from:'start',index:1}}}/Attachments/${noteFolderPath}/${noteFileName}",
   "attachmentRenameMode": "Only pasted images",
   "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
-  "customTokensStr": "",
+  "customTokensStr": "registerCustomToken('baseFolder', (ctx)=>{\nif (ctx.noteFolderName.includes('Home')){\nreturn 'Notes/Home/Attachments'\n",
   "defaultImageSize": "",
   "defaultImageSizeDimension": "width",
   "duplicateNameSeparator": " ",

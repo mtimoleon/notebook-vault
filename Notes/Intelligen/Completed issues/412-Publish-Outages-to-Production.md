@@ -16,7 +16,7 @@ ticket:
 - Equipment outage does not change
     - Then whatever batch/procedure/operation change we have, it should not affect outages (they should be the same as previous sync, if equipment exists in current sync)
 
-![[Attachments/Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production/image-1.png]]]
+![[Notes/Intelligen/Attachments/Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production/image-1.png]]]
 - 
 
 ![Exported image](Exported%20image%2020260209135743-1.png)             

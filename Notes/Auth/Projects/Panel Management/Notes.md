@@ -25,4 +25,4 @@ Will give information about available subjects to perform research on
 Services  
 Members with deseases
 
-![[Notes-20260217.svg]]
+![[Notes-20260217.svg|382x196]]

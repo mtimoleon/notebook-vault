@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "42559d121a3150f3",
+        "id": "14654d51c8f38295",
         "type": "tabs",
         "children": [
           {
-            "id": "723a602a869e58f1",
+            "id": "5caa1586290d0a3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-10-03 Changes by Dimitris Realm json and relative settings"
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +83,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 52.90697674418605,
+        "dimension": 42.054263565891475,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-03 Changes by Dimitris Realm json and relative settings"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-03 Changes by Dimitris Realm json and relative settings"
+              "title": "Outgoing links"
             }
           },
           {
@@ -166,20 +150,17 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2025-10-03 Changes by Dimitris Realm json and relative settings"
+              "title": "File properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 19.379844961240313,
+        "dimension": 23.449612403100776,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -187,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-03 Changes by Dimitris Realm json and relative settings"
+              "title": "Outline"
             }
           },
           {
@@ -213,7 +193,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 27.71317829457364,
+        "dimension": 34.49612403100775,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -259,17 +239,22 @@
   },
   "active": "d6f834d67aedd82d",
   "lastOpenFiles": [
-    "Attachments/Notes/Projects/enoll/Notes",
-    "Attachments/Notes/Projects/enoll/Client issues",
-    "Attachments/Notes/Projects/enoll",
-    "Attachments/Notes/Auth/Projects/e-Consent/Suggested new features",
-    "Attachments/Notes/Auth/Projects/e-Consent/Document sign",
-    "Attachments/Notes/Auth/Projects/e-Consent",
-    "Attachments/Notes/Auth/Projects/Vitalise/Sensors integration/Sensors integration",
-    "Attachments/Notes/Auth/Projects/Vitalise/Sensors integration",
-    "Attachments/Notes/Auth/Projects/Vitalise/Blockchain - No, you don't store data on the blockchain - here's why - JAXenter",
-    "Attachments/Notes/Auth/Projects/Vitalise",
-    "Attachments/Notes/Auth/Projects/Panel Management/Consents/e-Consent-Panel bridge",
+    "Notes/Auth/Attachments/Notes/Auth/Projects/Panel Management/Notes",
+    "Notes/Home/Financial/Notes.md",
+    "Notes/Auth/Attachments/Notes/Auth/Projects/Panel Management/Notes/Notes-20260217.svg",
+    "Notes/Auth/Projects/Panel Management/Notes.md",
+    "Notes/Home/Attachments/Notes/Home/Financial/Financial predictions/benner.pdf.pdf",
+    "Notes/Attachments/Current/Organize obsidian",
+    "Notes/Attachments/Current/2026-02-15",
+    "Notes/Attachments/Current",
+    "Notes/Attachments",
+    "Notes/Resources/Attachments/Notes/Resources/Code/UI/Frame0  Sketch your app ideas without hassle",
+    "Notes/Resources/Attachments/Notes/Resources/Code/UI",
+    "Notes/Resources/Attachments/Notes/Resources/Code/sj-project/Diagrams",
+    "Notes/Resources/Attachments/Notes/Resources/Code/sj-project/Amaze_Services_Prices",
+    "Notes/Resources/Attachments/Notes/Resources/Code/sj-project",
+    "System/Tools/CategoryAdd.prompt.md",
+    "Notes/Intelligen/Keycloak/Completed issues/2025-10-03 Changes by Dimitris Realm json and relative settings.md",
     "Notes/Intelligen/Keycloak/Completed issues/2025-10-02 Realm json and relative settings.md",
     "Notes/Intelligen/Keycloak/Documentation/Smtp4dev with keycloak.md",
     "Notes/Intelligen/Keycloak/Documentation/Setup Postman for OAuth2.0.md",
@@ -291,20 +276,15 @@
     "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles/Instructions - Update ScpCloud realm for develop.md",
     "Notes/Intelligen/Keycloak/Completed issues/461-Keycloak-realm-scope-and-roles/461-Keycloak-realm-scope-and-roles.md",
     "Notes/Intelligen/Εργασία/https--www.euro2day.gr-news-economy-article-2254879-pos-ypologizetai-h-ethsia-adeia-kai-to-epidoma.html.md",
-    "Notes/Intelligen/Εργασία/Άδεια αναψυχής Πόση δικαιούστε, πώς μπορείτε να την υπολογίσετε.md",
-    "Notes/Intelligen/Εργασία/Άδειες.md",
-    "Notes/Intelligen/Εργασία/Αργίες 2025.md",
-    "Notes/Intelligen/Εργασία/Πώς υπολογίζεται η ετήσια άδεια και το επίδομα.md",
     "Attachments/Notes/Intelligen/Notes/DDD_Reference_2015-03/Exported image 20260209140547-4.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 1.png",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215 2.png",
-    "Attachments/Current/2026-02-15/image-2.png",
-    "Attachments/Current/2026-02-15/image-1.png",
-    "Attachments/Current/2026-02-15/image.png",
-    "Attachments/image.png",
+    "Notes/Attachments/Current/2026-02-15/2026-02-15-20260215 2.png",
+    "Notes/Attachments/Current/2026-02-15/image-2.png",
+    "Notes/Attachments/Current/2026-02-15/image-1.png",
+    "Notes/Attachments/Current/2026-02-15/image.png",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
