@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "Attachments/${noteFolderPath}/${noteFileName}",
+  "attachmentFolderPath": "${noteFolderName:{pick:{from:'start',index:1}}}/Attachments/${noteFolderPath}/${noteFileName}",
   "attachmentRenameMode": "Only pasted images",
   "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "collectedAttachmentFileName": "",
@@ -10,11 +10,13 @@
   "duplicateNameSeparator": " ",
   "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [
+    "/System/*.*",
     "/Categories/*.*",
     "/Templates/*.*",
     "/Tools/*.*"
   ],
   "excludePathsFromAttachmentCollecting": [
+    "/System/*.*",
     "/Categories/*.*",
     "/Templates/*.*",
     "/Tools/*.*"
