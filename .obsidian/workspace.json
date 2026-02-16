@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba9867ff62211c88",
+            "id": "e7af74d9964f982e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
-                "mode": "preview",
+                "file": "Current/2026-02-15.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium"
+              "title": "2026-02-15"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
+                "file": "Current/2026-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium"
+              "title": "Backlinks for 2026-02-15"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
+                "file": "Current/2026-02-15.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium"
+              "title": "Outline of 2026-02-15"
             }
           },
           {
@@ -254,10 +254,17 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "e7af74d9964f982e",
   "lastOpenFiles": [
-    "Notes/Intelligen/Notes/C 9.0 on the record - .NET Blog.md",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 1.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 2.png",
+    "Current/2026-02-15.md",
+    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
     "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
+    "Notes/Intelligen/Notes/C 9.0 on the record - .NET Blog.md",
     "Notes/Intelligen/Notes/DDD_Reference_2015-03.md",
     "Notes/Intelligen/Notes/Introduction to cloud-native applications  Microsoft Docs.md",
     "Notes/Intelligen/Notes/General notes.md",
@@ -268,7 +275,6 @@
     "Categories/Issues.md",
     "Notes/Intelligen/Gantt/Completed issues/108-Add-timeline.md",
     "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md",
-    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
     "Clippings/Git Subtree.md",
     "Notes/Intelligen/Current issues/Create domain project.md",
     "Notes/Intelligen/CQRS/Effective Aggregate Design.md",
@@ -279,18 +285,11 @@
     "Notes/Intelligen/Algorithms/Scheduling service.md",
     "Notes/Intelligen/Algorithms/Round-robin scheduling - Wikipedia.md",
     "Clippings/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
-    "Current/2026-02-15.md",
     "Attachments/Current/2026-02-15/image-2.png",
     "Attachments/Current/2026-02-15/image-1.png",
     "Attachments/Current/2026-02-15/image.png",
     "Untitled.md",
-    "Notes/Intelligen/Backlog.md",
     "Attachments/Current/2026-02-15",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215 1.png",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215.png",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215 2.png",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα",

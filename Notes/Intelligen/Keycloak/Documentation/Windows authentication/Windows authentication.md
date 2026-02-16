@@ -171,7 +171,7 @@ If this succeeds without errors, Kerberos is working correctly.
  
 #### **Step 6: Additional Notes**
 
-- **Automating Initialization**: The setup.sh script ensures that the Kerberos database and admin principal are created automatically every time the container starts. This way, you donβ€™t have to manually set up Kerberos each time.
+- **Automating Initialization**: The setup.sh script ensures that the Kerberos database and admin principal are created automatically every time the container starts. This way, you don’t have to manually set up Kerberos each time.
 - **Container Restart**: If you stop the container, simply run docker-compose up -d again to restart the container with the configuration.
  
 #### **Step 7: Troubleshooting**

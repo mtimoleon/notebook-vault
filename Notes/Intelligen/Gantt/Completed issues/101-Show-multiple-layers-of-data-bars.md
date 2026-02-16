@@ -10,9 +10,9 @@ product: Gantt
 ---
 
 - [x] The bars array should be an array of arrays:  
-bars: [ [ {bar1}, {bar2}, {bar3} ], [ {bar1}, {bar2}, {bar3} ] , β€¦ ]  
+bars: [ [ {bar1}, {bar2}, {bar3} ], [ {bar1}, {bar2}, {bar3} ] , … ]  
 |____actual________| |_____baseLine(n)___|, |___bL(n-1)___|  
-Index 0 is the actual and all the othes are baseline (n, n-1, n-2, β€¦ 1)  
+Index 0 is the actual and all the othes are baseline (n, n-1, n-2, … 1)  
 The actual is on top of all  
 For our eoc data the bar is the operation task and the actual is the start/end  
 The tracked start/end will be the baseline  
@@ -34,7 +34,7 @@ So for eoc chart data we will have only one baseline and the actual
 dragElementRef = 10 -\> 1000
  
 rowIndex  
-barLayerIndex (actual = 0, baseline(n) = 1, β€¦)  
+barLayerIndex (actual = 0, baseline(n) = 1, …)  
 barIndex  
 globalBarIndex
  
@@ -47,7 +47,7 @@ Cn+1 = 0.8 (0.8* Cn-1 + 0.2* B) + 0.2 * B
  
 Co = 1  
 C1 = 0.8 * 1 + 0.2*B  
-C2 = 0.8*(0.8 * 1 + 0.2*B) + 0.2*B = β€¦
+C2 = 0.8*(0.8 * 1 + 0.2*B) + 0.2*B = …
  
 - [x] Fix server planned/tracked start date  
 - [x] Create cache in gantt.jsx and pass as argument to helper method getBlendedColors  

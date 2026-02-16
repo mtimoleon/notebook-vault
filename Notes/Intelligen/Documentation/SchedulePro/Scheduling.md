@@ -1,4 +1,4 @@
-﻿---
+---
 categories:
   - "[[Work]]"
   - "[[Documentation]]"
@@ -22,7 +22,7 @@ A _batch_ represents the execution of a single recipe at specific time and with 
 **Scheduler**Β   
 Most users begin a scheduling exercise by defining the recipes, planning the campaigns, and allowing SchedulePro to generate a preliminary schedule. When generating a schedule, SchedulePro handles each campaign in the order listed. It then proceeds batch-by-batch calculating timing, assigning resources on a first-available basis and resolving conflicts.Β   
 There are _modes_ that control the behavior of the scheduler in all its actions. These modes are presented in section 2.2.1.Β   
-After the initial schedule is laid out, the user may edit the schedule by adjusting durations, shifts or start times for particular batches. These adjustments may be made by β€dragging and droppingβ€ in the interactive occupancy charts or by precisely specifying a start time. After a manual edit, SchedulePro readjusts the batch to conform to the master recipe (e.g. resets the start time of operations whose start time depends on the edited one) and recalculates conflicts. SchedulePro will not attempt to resolve any resulting conflicts unless invoked by the user.Β   
+After the initial schedule is laid out, the user may edit the schedule by adjusting durations, shifts or start times for particular batches. These adjustments may be made by “dragging and dropping” in the interactive occupancy charts or by precisely specifying a start time. After a manual edit, SchedulePro readjusts the batch to conform to the master recipe (e.g. resets the start time of operations whose start time depends on the edited one) and recalculates conflicts. SchedulePro will not attempt to resolve any resulting conflicts unless invoked by the user.Β   
 SchedulePro offers options to reschedule unschedule or resolve conflicts on a batch, a campaign or a portion of the entire schedule starting or ending at a specific batch or campaign. With these options the user has full control on the pace at which the entire schedule is generated and corrected.Β   
 **Note:** Because campaigns are handled in order, their order determines their priority for getting resources. Campaigns that appear later in the list are more likely to have to wait for resources.Β   
 **Schedule Start**Β   
