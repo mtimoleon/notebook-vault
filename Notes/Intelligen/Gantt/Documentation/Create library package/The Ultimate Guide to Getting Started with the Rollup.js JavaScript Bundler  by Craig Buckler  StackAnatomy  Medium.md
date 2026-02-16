@@ -5,8 +5,7 @@ categories:
 created: 2026-02-13
 tags:
   - intelligen
-product:
-  - Gantt
+product: Gantt
 component: []
 ---
 

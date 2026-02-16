@@ -35,10 +35,10 @@ views:
       - file.ctime
       - file.path
     sort:
-      - property: product
-        direction: ASC
       - property: file.ctime
         direction: DESC
+      - property: product
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.mtime
@@ -57,13 +57,19 @@ views:
       - status
       - product
       - component
+      - created
       - file.path
     sort:
       - property: file.name
         direction: ASC
+      - property: created
+        direction: DESC
       - property: file.mtime
         direction: DESC
     limit: 200
+    columnSize:
+      file.name: 234
+      note.created: 120
   - type: table
     name: Backlog
     filters:
@@ -95,6 +101,8 @@ views:
       - component
       - file.path
     sort:
+      - property: product
+        direction: DESC
       - property: file.name
         direction: ASC
       - property: file.mtime
@@ -113,8 +121,6 @@ views:
       - component
       - file.folder
     sort:
-      - property: status
-        direction: ASC
       - property: file.name
         direction: ASC
       - property: file.mtime

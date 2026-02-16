@@ -2,8 +2,7 @@
 categories:
   - "[[Work]]"
   - "[[Issues]]"
-product:
-  - Gantt
+product: Gantt
 component:
 ticket:
 status: current

@@ -1,6 +1,5 @@
 ---
-product:
-  - Gantt
+product: Gantt
 categories:
   - "[[Documentation]]"
   - "[[Work]]"

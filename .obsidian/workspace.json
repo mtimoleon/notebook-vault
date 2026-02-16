@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7bd5d010f4d8bde",
+        "id": "d871f76bb02379ff",
         "type": "tabs",
         "children": [
           {
-            "id": "6bd44ab797dd7c94",
+            "id": "ba9867ff62211c88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
-                "mode": "source",
+                "file": "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
+              "title": "Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 396.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+                "file": "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
+              "title": "Backlinks for Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+                "file": "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
+              "title": "Outline of Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium"
             }
           },
           {
@@ -201,8 +201,8 @@
               "state": {
                 "file": "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md"
               },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "icon": "lucide-ghost",
+              "title": "footnotes"
             }
           }
         ]
@@ -243,7 +243,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
-      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -252,58 +251,57 @@
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "workspaces:Manage workspace layouts": false,
       "janitor:Janitor: scan vault": false
     }
   },
   "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
-    "Current/2026-02-11.md",
-    "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
-    "Attachments/Current/2026-02-11/image-3.png",
-    "Clippings/Tailscale How it works.md",
-    "Clippings/News Digest (2026-02-11 — 2026-02-12).md",
-    "Clippings/Επίσημα templates Obsidian.md",
-    "Notes/Electric-engineer/Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου.md",
+    "Notes/Intelligen/Notes/C 9.0 on the record - .NET Blog.md",
+    "Notes/Intelligen/Notes/Creating a simple real-time chat with .NET Core, ReactJS and SignalR  by Andre Lopes  The Startup  Medium.md",
+    "Notes/Intelligen/Notes/DDD_Reference_2015-03.md",
+    "Notes/Intelligen/Notes/Introduction to cloud-native applications  Microsoft Docs.md",
+    "Notes/Intelligen/Notes/General notes.md",
+    "Notes/Intelligen/Filters/Notes.md",
+    "Notes/Intelligen/Filters/C in a Nutshell - PredicateBuilder.md",
+    "Notes/Intelligen/Filters/All search requests.md",
+    "Notes/Intelligen/Current issues/Undo-history.md",
+    "Categories/Issues.md",
+    "Notes/Intelligen/Gantt/Completed issues/108-Add-timeline.md",
+    "Notes/Intelligen/Completed issues/263-Import-Export/Πίνακες.md",
+    "Notes/Intelligen/Gantt/Completed issues/101-Show-multiple-layers-of-data-bars.md",
+    "Clippings/Git Subtree.md",
+    "Notes/Intelligen/Current issues/Create domain project.md",
+    "Notes/Intelligen/CQRS/Effective Aggregate Design.md",
+    "Notes/Intelligen/CQRS/CQRS Documents.md",
+    "Notes/Intelligen/CQRS/Clarified CQRS.md",
+    "Notes/Intelligen/CQRS/Applying CQRS and CQS approaches in a DDD microservice in eShopOnContainers  Microsoft Docs.md",
+    "Notes/Intelligen/Algorithms/Calculate operation timing.md",
+    "Notes/Intelligen/Algorithms/Scheduling service.md",
+    "Notes/Intelligen/Algorithms/Round-robin scheduling - Wikipedia.md",
+    "Clippings/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
+    "Current/2026-02-15.md",
+    "Attachments/Current/2026-02-15/image-2.png",
+    "Attachments/Current/2026-02-15/image-1.png",
+    "Attachments/Current/2026-02-15/image.png",
+    "Untitled.md",
+    "Notes/Intelligen/Backlog.md",
+    "Attachments/Current/2026-02-15",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 1.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215.png",
+    "Attachments/Current/2026-02-15/2026-02-15-20260215 2.png",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211127_ΔΕΥΑΕΛ_τκ_Λιβαδίου",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ",
     "Attachments/Notes/Electric-engineer/Καζαλτζής/Έργα",
     "Attachments/Notes/Electric-engineer/Καζαλτζής",
     "Attachments/Notes/Electric-engineer",
-    "Notes/Electric-engineer/Καζαλτζής/Έργα/20211116_ΑΓ_ΑΚΑΚΙΟΣ.md",
     "Attachments/Notes/Interests/Βιβλία/OS internals/The Linux Kernel Module Programming Guide",
     "Attachments/Notes/Interests/Βιβλία/OS internals",
     "Attachments/Notes/Interests/Βιβλία",
-    "Notes/Interests/Βιβλία/OS internals/The Linux Kernel Module Programming Guide.md",
     "Attachments/Notes/Interests/Βιβλία/OS internals/The Linux Kernel Module Programming Guide/The Linux Kernel Module Programming Guide.pdf",
-    "Notes/Interests/Βιβλία/OS internals/Reverse Engineering For Everyone!.md",
-    "Attachments/Notes/Interests/Ιστορία/Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973)",
-    "Notes/Interests/Ιστορία/Χρονοδιάγραμμα Βασιλείας & Πρωθυπουργών (1832–1973).md",
     "Attachments/image.png",
     "Attachments/Notes/Home/Financial/Notes.md/Notes - Ink.svg",
-    "Attachments/Notes/Home/Quick notes/Mεταβίβαση μοτοποδηλάτου/Mεταβίβαση μοτοποδηλάτου ΚΕΠ.md/image.png",
-    "Attachments/Notes/Home/Quick notes/Mεταβίβαση μοτοποδηλάτου/Mεταβίβαση μοτοποδηλάτου ΚΕΠ/file-2026-02-11.png",
-    "Attachments/Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md/Exported image 20260209134127-2.jpeg",
-    "Attachments/Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md/Exported image 20260209134126-1.jpeg",
-    "Attachments/Notes/Intelligen/Algorithms/Topological sorting - Wikipedia.md/Exported image 20260209134125-0.png",
-    "Notes/Intelligen/CQRS/Clarified CQRS.md",
-    "Notes/Interests/AI/Models/Looking Artificial Analysis and LMArena leaderboards.md",
-    "Notes/Interests/AI/Models/Synthetic Intelligence Beyond A.I. and Robotics.md",
-    "Notes/Interests/Βότανα/Πλήρης Οδηγός Φαρμακευτικών Βοτάνων  Αλεκάτη βότανα, μανιτάρια, τροφή, θεραπείες, συνταγές, καλλιέργεια.md",
-    "Notes/Interests/AI/Models/How to choose the right AI model.md",
-    "Notes/Interests/AI/Models/Generative AI for discovering porous oxide materials.md",
-    "Notes/Interests/AI/Models/From Data Silos to Intelligent Systems RAG and Knowledge Graph Synergy.md",
-    "Notes/Interests/AI/Models/FourthBrain LLM.md",
-    "Notes/Interests/AI/Models/FLAN paper.md",
-    "Attachments/Notes/Interests/AI/Models/FLAN paper/Exported image 20260209131920-19.png",
-    "Attachments/Current/2026-02-11/image.png",
-    "Notes/Intelligen/Completed issues/525-Sync-after-planning-update.md",
-    "Notes/Auth/AWS/Amazon DynamoDB.md",
-    "Notes/Auth/AWS/data-modeling-on-amazon-dynamodb.md",
-    "Notes/Auth/AWS/Untitled-20260211203705.md",
-    "Attachments/Notes/Home/Σπίτι/Λαμπάκια.md",
-    "Attachments/Notes/Home/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ.md",
-    "Attachments/Notes/Home/Σπίτι/Ασφάλεια.md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

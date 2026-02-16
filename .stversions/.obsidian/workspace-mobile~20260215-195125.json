@@ -1,20 +1,34 @@
 {
   "main": {
-    "id": "4a3e38b65d9a78e3",
+    "id": "b62288a3b0b8bcc6",
     "type": "split",
     "children": [
       {
-        "id": "ad26276521cda354",
+        "id": "52b32991a93ed36d",
         "type": "tabs",
         "children": [
           {
-            "id": "4b98568d004ba11f",
+            "id": "b4d834bbbb236657",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)"
             }
           }
         ]
@@ -23,11 +37,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "88d72720329a047d",
+    "id": "40bb35bd5e610fcf",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7df17d5473cce9ce",
+        "id": "cde99a73b5425626",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +54,7 @@
         }
       },
       {
-        "id": "ae23eaf9029ae2e5",
+        "id": "b9a1c8f23924d9d6",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +71,7 @@
         }
       },
       {
-        "id": "f5590ade8bec6ed5",
+        "id": "788ce8b37defbffd",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +86,7 @@
         }
       },
       {
-        "id": "ac284b558868cdd6",
+        "id": "32da01d12ef5113c",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +100,7 @@
         }
       },
       {
-        "id": "4aae638c3aca33e5",
+        "id": "0fb1c19c806b60b6",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -96,19 +110,19 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "c80fc4e6235a475a",
+    "id": "d14633e0570a6c60",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9d2a63b5ded547da",
+        "id": "615e37580f0ed580",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
         }
       },
       {
-        "id": "44804cee9e245277",
+        "id": "fe787de613338540",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -135,7 +149,7 @@
         }
       },
       {
-        "id": "05e4850c21b45e21",
+        "id": "35b61c604073a114",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -153,24 +167,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "janitor:Janitor: scan vault": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4b98568d004ba11f",
+  "active": "b4d834bbbb236657",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
+    "Current/2026-02-11.md",
     "Clippings/News Digest (2026-02-11 — 2026-02-12).md",
     "Clippings/Git Subtree.md",
-    "Clippings/Paul Dickson – The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS).md",
     "Clippings/Επίσημα templates Obsidian.md",
     "Clippings/Git Submodule.md",
     "Clippings/Tailscale How it works.md",

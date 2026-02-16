@@ -2,8 +2,7 @@
 categories:
   - "[[Documentation]]"
   - "[[Work]]"
-product:
-  - Gantt
+product: Gantt
 component: []
 created: 2026-02-13
 tags:
