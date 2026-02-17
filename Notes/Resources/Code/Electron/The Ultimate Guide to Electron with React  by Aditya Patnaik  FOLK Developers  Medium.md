@@ -1,10 +1,16 @@
 ---
+categories:
+  - "[[Resources]]"
 created: 2022-03-10
+tags:
+  - topic/code
+  - tech/react
+  - tech/electron
 ---
 
 Clipped from: [https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97](https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97)
 
-![F DELECTRON React](The%20Ultimate%20Guide%20to%20Electron%20with%20React%20%20by%20Aditya%20Patnaik%20%20FOLK%20Developers%20%20Medium-20260216%201.png)
+![F DELECTRON React|385x341](The%20Ultimate%20Guide%20to%20Electron%20with%20React%20%20by%20Aditya%20Patnaik%20%20FOLK%20Developers%20%20Medium-20260216%201.png)
 
 Welcome to the Most Comprehensive Cross-Platform Desktop App Development journey.  
 In this article, we’ll learn how to implement powerful features of Electron with React. By the end of the article, you will be a maestro on the following implementations:
@@ -17,13 +23,9 @@ In this article, we’ll learn how to implement powerful features of Electron wi
 
 Towards the end of the article, we have a surprise for you!
 
-![Exported image](The%20Ultimate%20Guide%20to%20Electron%20with%20React%20%20by%20Aditya%20Patnaik%20%20FOLK%20Developers%20%20Medium-20260216%209.gif)
-
-gif: excited Pikachu
-
 # Prominent Apps built using Electron
 
-![Exported image](The%20Ultimate%20Guide%20to%20Electron%20with%20React%20%20by%20Aditya%20Patnaik%20%20FOLK%20Developers%20%20Medium-20260216%2010.gif)
+![Exported image|441x370](The%20Ultimate%20Guide%20to%20Electron%20with%20React%20%20by%20Aditya%20Patnaik%20%20FOLK%20Developers%20%20Medium-20260216%2010.gif)
 
 Products that are built using Electron
 

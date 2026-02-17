@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Resources]]"
 created: 2024-12-27
+tags:
+  - topic/code
+  - topic/databases
 ---
 
 Clipped from: [https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)

@@ -25,7 +25,7 @@ Show refresh button when frontend is updated
 - [ ] RCN zombi processes ==@Nikos==
 [https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld)  
 - [ ] e-consent  
-- [ ] **Blockchain**
+- [x] **Blockchain**
 ==Database choose==
 Generic schema
  

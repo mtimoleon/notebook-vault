@@ -1,5 +1,11 @@
 ---
+categories:
+  - "[[Resources]]"
 created: 2024-12-27
+tags:
+  - topic/code
+  - topic/authentication
+  - topic/cookies
 ---
 
 ![Exported image](A%20Guide%20to%20Cookie-Based%20and%20Session-Based%20Authentication-20260216.png)

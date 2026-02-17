@@ -1,5 +1,11 @@
 ---
+categories:
+  - "[[Resources]]"
 created: 2023-06-12
+tags:
+  - topic/code
+  - topic/databases
+  - topic/dbeaver
 ---
 
 [https://dbeaver.com/docs/wiki/Database-Structure-Diagrams/](https://dbeaver.com/docs/wiki/Database-Structure-Diagrams/)

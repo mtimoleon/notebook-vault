@@ -1,5 +1,11 @@
 ---
+categories:
+  - "[[Resources]]"
 created: 2022-03-31
+tags:
+  - topic/authentication
+  - tech/tokens
+  - topic/code
 ---
 
 ```

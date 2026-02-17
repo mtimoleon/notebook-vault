@@ -3,5 +3,6 @@
     "no-strike-through-on-todo-check"
   ],
   "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone"
 }

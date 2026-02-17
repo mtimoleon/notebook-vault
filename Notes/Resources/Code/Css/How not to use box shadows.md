@@ -1,5 +1,10 @@
 ---
+categories:
+  - "[[Resources]]"
 created: 2024-12-27
+tags:
+  - topic/code
+  - topic/css
 ---
 
 Clipped from: [https://dgerrells.com/blog/how-not-to-use-box-shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)

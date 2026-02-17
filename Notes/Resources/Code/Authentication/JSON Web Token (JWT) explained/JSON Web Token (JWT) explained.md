@@ -1,11 +1,16 @@
 ---
+categories:
+  - "[[Resources]]"
 title: "Web Security: JSON Web Token (JWT) explained"
-source: https://thevalleyofcode.com/lesson/security/jwt/
-author:
-published:
 created: 2026-02-09
+published:
+author:
+source: https://thevalleyofcode.com/lesson/security/jwt/
 description: JSON Web Token (JWT) explained - Understand common web security vulnerabilities and how to prevent them.
 tags:
+  - topic/code
+  - topic/authentication
+  - tech/tokens
 ---
 Clipped from: [https://flaviocopes.com/jwt/](https://flaviocopes.com/jwt/)
 
