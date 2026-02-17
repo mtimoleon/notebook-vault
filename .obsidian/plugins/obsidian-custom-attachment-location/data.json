@@ -1,10 +1,10 @@
 {
-  "attachmentFolderPath": "${baseFolder}",
+  "attachmentFolderPath": "${customPath}",
   "attachmentRenameMode": "Only pasted images",
   "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
-  "customTokensStr": "registerCustomToken(\"baseFolder\", (ctx) => {\n  const parts = ctx.noteFolderPath.split(\"/\");\n  const root = parts[0];\n  if (root === \"Notes\") {\n    const name = parts[1]; \n    const subTree = parts.slice(2).join(\"/\");  \n    const fileName = ctx.noteFileName;\n    return subTree\n      ? `Notes/${name}/assets/${subTree}/${fileName}`\n      : `Notes/${name}/assets/${fileName}`;\n  }\n  if (root) {\n    const subTree = parts.slice(1).join(\"/\");\n    const fileName = ctx.noteFileName;\n    return subTree\n      ? `${root}/assets/${subTree}/${fileName}`\n      : `${root}/assets/${fileName}`;\n  }\n  return `assets/${ctx.noteFileName}`;\n});\n",
+  "customTokensStr": "registerCustomToken(\"customPath\", (ctx) => {\n  const parts = ctx.noteFolderPath.split(\"/\");\n  const root = parts[0];\n  if (root === \"Notes\") {\n    const name = parts[1]; \n    const subTree = parts.slice(2).join(\"/\");  \n    const fileName = ctx.noteFileName;\n    return subTree\n      ? `Notes/${name}/assets/${subTree}/${fileName}`\n      : `Notes/${name}/assets/${fileName}`;\n  }\n  if (root) {\n    const subTree = parts.slice(1).join(\"/\");\n    const fileName = ctx.noteFileName;\n    return subTree\n      ? `${root}/assets/${subTree}/${fileName}`\n      : `${root}/assets/${fileName}`;\n  }\n  return `assets/${ctx.noteFileName}`;\n});\n",
   "defaultImageSize": "",
   "defaultImageSizeDimension": "width",
   "duplicateNameSeparator": " ",

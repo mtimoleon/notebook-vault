@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "889f10982b6f7840",
+        "id": "e1afad471d24e2b3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b9b21c72081be21",
+            "id": "b5e515f1f8962166",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -91,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Home/Μαμά/Διάφορα.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Διάφορα"
             }
           },
           {
@@ -109,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Home/Μαμά/Διάφορα.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Διάφορα"
             }
           },
           {
@@ -150,9 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Notes/Home/Μαμά/Διάφορα.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Διάφορα"
             }
           }
         ]
@@ -168,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Home/Μαμά/Διάφορα.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Διάφορα"
             }
           },
           {
@@ -193,7 +198,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 34.49612403100775,
+        "dimension": 34.496124031007746,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -237,8 +242,12 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "d6f834d67aedd82d",
   "lastOpenFiles": [
+    "Notes/Home/Μαμά/Γηροκομεία.md",
+    "Notes/Home/Μαμά/Αιτήσεις.md",
+    "Notes/Home/Μαμά/MyThermansi 2024-2025.md",
+    "System/Categories/Documentation.md",
     "Notes/Home/C3/C3.md",
     "Notes/Home/assets/C3/C3/Exported image 20260211193748-0.png",
     "Notes/Home/assets/C3/C3/C3 - Ink.svg",
@@ -275,10 +284,6 @@
     "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Final Keycloak Configuration for Kerberos SSO.md",
     "Notes/Intelligen/Keycloak/Documentation/Windows authentication/Windows authentication.md",
     "Notes/Intelligen/Keycloak/Completed issues/508-Add-user-roles.md",
-    "Notes/Intelligen/Keycloak/Completed issues/493-Tenant-filtering.md",
-    "Notes/Intelligen/Keycloak/Completed issues/419-Add-user-from-token keycloak.md",
-    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
-    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Theme.md",
     "Attachments/Notes/Intelligen/Notes/DDD_Reference_2015-03/Exported image 20260209140547-4.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
     "Attachments/Current/2026-02-15/2026-02-15-20260215 4.png",
