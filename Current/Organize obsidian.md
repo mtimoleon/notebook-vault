@@ -1,3 +1,6 @@
+---
+created: 2026-02-16
+---
 
 1. Category (1 μόνο): πού ανήκει λειτουργικά (Projects/Areas/Resources/Archive
 2. tags: τι είναι / θεματικές / τεχνολογίες / status

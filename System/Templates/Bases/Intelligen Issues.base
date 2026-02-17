@@ -4,7 +4,46 @@ filters:
     - file.tags.contains("issues/intelligen")
 views:
   - type: table
-    name: Issues
+    name: Open Issues
+    filters:
+      and:
+        - status.containsAny("backlog", "open")
+    groupBy:
+      property: product
+      direction: ASC
+    order:
+      - file.name
+      - product
+      - component
+      - status
+      - created
+      - file.path
+    sort:
+      - property: file.path
+        direction: ASC
+      - property: product
+        direction: ASC
+    columnSize:
+      file.name: 223
+      note.component: 108
+      note.created: 152
+      file.path: 311
+  - type: table
+    name: Completed issues
+    filters:
+      or:
+        - status == "completed"
+        - status == "abandoned"
+    order:
+      - file.name
+      - product
+      - component
+      - created
+      - file.path
+    columnSize:
+      note.created: 129
+  - type: table
+    name: All Issues
     order:
       - file.name
       - product
@@ -21,17 +60,3 @@ views:
       note.created: 129
       note.tags: 245
       file.path: 135
-  - type: table
-    name: Completed issues
-    filters:
-      or:
-        - status == "completed"
-        - status == "abandoned"
-    order:
-      - file.name
-      - product
-      - component
-      - created
-      - file.path
-    columnSize:
-      note.created: 129

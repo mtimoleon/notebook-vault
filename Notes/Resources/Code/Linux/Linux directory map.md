@@ -1,5 +1,5 @@
 ---
-created: 2024-02-03
+created: 2026-02-14
 ---
 
 [https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)

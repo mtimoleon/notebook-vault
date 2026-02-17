@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-11-06T16:30
+created: 2025-11-06
 product: ScpCloud
 component: Keycloak
 tags:

@@ -1,5 +1,5 @@
 ---
-created: 2023-04-10
+created: 2026-02-14
 ---
 
 Clipped from: [https://www.therationalinvestor.com/blog/how-the-benner-cycle-predicts-100-years-of-market-movement](https://www.therationalinvestor.com/blog/how-the-benner-cycle-predicts-100-years-of-market-movement)  

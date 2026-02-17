@@ -1,5 +1,5 @@
 ---
-created: 2024-12-27
+created: 2026-02-14
 ---
 
 Clipped from: [https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)

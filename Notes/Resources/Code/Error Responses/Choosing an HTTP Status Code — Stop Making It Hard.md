@@ -1,5 +1,5 @@
 ---
-created: 2022-04-07
+created: 2026-02-14
 ---
 
 Clipped from: [https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html](https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html)  

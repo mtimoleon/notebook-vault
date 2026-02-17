@@ -1,5 +1,5 @@
 ---
-created: 2024-11-10
+created: 2026-02-14
 ---
 
 ![[Electron with react-20260216.pdf]]

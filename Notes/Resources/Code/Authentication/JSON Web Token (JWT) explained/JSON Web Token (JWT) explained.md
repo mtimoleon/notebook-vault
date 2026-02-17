@@ -2,7 +2,7 @@
 categories:
   - "[[Resources]]"
 title: "Web Security: JSON Web Token (JWT) explained"
-created: 2026-02-09
+created: 2024-06-02
 published:
 author:
 source: https://thevalleyofcode.com/lesson/security/jwt/

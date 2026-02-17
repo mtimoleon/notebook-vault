@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2024-04-04T15:39
+created: 2024-04-04
 product: Gantt
 component:
 status: backlog

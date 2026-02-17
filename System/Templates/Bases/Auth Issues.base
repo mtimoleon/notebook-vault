@@ -1,0 +1,60 @@
+filters:
+  and:
+    - categories == ["[[Work]]"]
+    - file.tags.contains("issues/auth")
+views:
+  - type: table
+    name: Open Issues
+    filters:
+      and:
+        - status.containsAny("backlog", "open")
+    groupBy:
+      property: product
+      direction: ASC
+    order:
+      - file.name
+      - product
+      - component
+      - status
+      - created
+      - file.path
+    sort:
+      - property: file.path
+        direction: ASC
+      - property: product
+        direction: ASC
+    columnSize:
+      note.component: 108
+      note.created: 152
+      file.path: 311
+  - type: table
+    name: Completed issues
+    filters:
+      or:
+        - status == "completed"
+        - status == "abandoned"
+    order:
+      - file.name
+      - product
+      - component
+      - created
+      - file.path
+    columnSize:
+      note.created: 129
+  - type: table
+    name: All Issues
+    order:
+      - file.name
+      - product
+      - component
+      - status
+      - created
+      - file.path
+    sort:
+      - property: tags
+        direction: DESC
+    columnSize:
+      note.component: 92
+      note.created: 129
+      note.tags: 245
+      file.path: 135

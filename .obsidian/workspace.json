@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d86700786d1dad08",
+        "id": "9759d049d8fc716c",
         "type": "tabs",
         "children": [
           {
-            "id": "6128a81b2876435e",
+            "id": "00fe46150086a81e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Undo/Undo-history.md",
+                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Undo-history"
+              "title": "Portal integrations identified"
             }
           }
         ]
@@ -51,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -97,7 +97,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 35.85271317829458,
+        "dimension": 36.82170542635659,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Undo/Undo-history.md",
+                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Undo-history"
+              "title": "Backlinks for Portal integrations identified"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Undo/Undo-history.md",
+                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Undo-history"
+              "title": "Outgoing links from Portal integrations identified"
             }
           },
           {
@@ -141,7 +141,7 @@
                 "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "intellig"
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -174,12 +174,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 29.651162790697676,
+        "dimension": 35.56201550387597,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Undo/Undo-history.md",
+                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Undo-history"
+              "title": "Outline of Portal integrations identified"
             }
           }
         ]
@@ -201,7 +201,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 34.49612403100775,
+        "dimension": 27.61627906976744,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -245,45 +245,46 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "6128a81b2876435e",
+  "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
-    "Notes/Intelligen/Current issues/Undo/Drawing 2026-02-17 13.03.32.excalidraw.md",
-    "Notes/Intelligen/Current issues/Undo/Undo-history.md",
-    "Notes/Intelligen/Current issues/Undo/Undo.md",
-    "Notes/Intelligen/Current issues/Backlog.md",
-    "Notes/Intelligen/assets/Current issues/Undo/Drawing 2026-02-17 13.03.32.excalidraw/Pasted Image 20260217130416_411.png",
-    "Notes/Intelligen/assets/Current issues/Undo/Drawing 2026-02-17 13.03.32.excalidraw/Pasted Image 20260217130349_896.png",
-    "Notes/Intelligen/assets/Current issues/Undo/Drawing 2026-02-17 13.03.32.excalidraw",
-    "Notes/Intelligen/assets/Current issues/Undo",
-    "System/Categories/Work.md",
-    "Notes/Resources/Code/Undo-research.md",
-    "Notes/Intelligen/Current issues/Undo",
-    "Notes/Resources/assets/Code/Undo-research",
-    "Notes/Intelligen/Current issues/Undo.md",
-    "Notes/Intelligen/Completed issues/Testing-Scheduling-recipe-iterations-exceeding.md",
-    "Notes/Intelligen/assets/Completed issues/Testing-Scheduling-recipe-iterations-exceeding",
-    "Notes/Intelligen/assets/Current issues/Testing-Scheduling-recipe-iterations-exceeding",
-    "Notes/Intelligen/Current issues/Telemetry.md",
-    "Notes/Intelligen/Completed issues/Add Hovione employees.md",
-    "Notes/Intelligen/assets/Completed issues/Add Hovione employees",
-    "Notes/Intelligen/assets/Current issues/Add Hovione employees",
-    "Notes/Intelligen/Completed issues/Create domain project.md",
-    "Notes/Resources/Code/Electron/The Ultimate Guide to Electron with React  by Aditya Patnaik  FOLK Developers  Medium.md",
-    "Notes/Intelligen/assets/Current issues/Backlog",
-    "Notes/Resources/Code/Electron/Electron with react.md",
-    "Notes/Resources/Code/Database/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
-    "Notes/Resources/Code/Git Submodule.md",
-    "Notes/Resources/Code/Git Subtree.md",
-    "Clippings/Git Subtree 1.md",
-    "Notes/Auth/Current/Current.md",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/RAID",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/RAI resolver",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/RAI PID NOTES",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/Handle.net",
+    "Notes/Auth/Projects/RAISE HE/Architecture/D3.1 RAI Cloud services' specifications v3.0.md",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/FC4EOSC Deliverable3.3",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/EUDAT",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/DONA DO-IRP notes",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/EPIC GRnet",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/DataCite Fee Model - DataCite",
+    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES",
+    "Notes/Auth/assets/Projects/RAISE HE/Ocean protocol/Ocean Nodes & Oasis Sapphire Integration — A New Era of Decentralized Encryption  by Ocean Protocol Team  Ocean Protocol",
+    "Notes/Auth/Projects/RAISE HE/Architecture/2024-04-24_RAISE_InfoPack-Antonio.md",
+    "Notes/Auth/Projects/RAISE HE/RAISE HE Tasks.md",
+    "Notes/Auth/Projects/RAISE/Tasks.md",
     "Notes/Auth/Current/Accelup requests.md",
-    "Notes/Auth/Issues/RAI-286-Implement blockchain registration for experiment results.md",
-    "Notes/Auth/Projects/Captain-coach/EU rules for Recommenders.md",
-    "Notes/Resources/Code/Database/data-modeling-on-amazon-dynamodb.md",
-    "Notes/Auth/AWS/VPC.md",
-    "Notes/Auth/AWS/Untitled-20260211203705.md",
-    "Notes/Auth/AWS/Drawing 2026-02-17 10.51.00.excalidraw.md",
-    "Notes/Resources/assets/Code/Database/data-modeling-on-amazon-dynamodb",
+    "Notes/Intelligen/Gantt/Backlog.md",
+    "Notes/Intelligen/Current issues/Backlog.md",
+    "Categories/Intelligen Issues.md",
+    "Categories/Auth Issues.md",
+    "Categories/Home.md",
+    "Current/Untitled.md",
+    "Categories/Work.md",
+    "Notes/Intelligen/Current issues/MongoDb backup in container.md",
+    "Notes/Resources/Code/Back Up a Self-Managed Deployment with Filesystem Snapshots.md",
+    "System/Templates/Issue Template.md",
+    "System/Templates/Documentation Template.md",
+    "System/Templates/Home Template.md",
+    "System/Templates/Interest Template.md",
+    "System/Templates/Resource Template.md",
+    "System/Templates/Work Template.md",
+    "Notes/Intelligen/Current issues/Undo/Undo-history.md",
+    "Notes/Intelligen/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw.md",
+    "Notes/Intelligen/assets/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw/Drawing 2026-02-17 13.03.32.excalidraw-20260217.png",
+    "Notes/Intelligen/assets/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw/Drawing 2026-02-17 13.03.32.excalidraw-20260217 1.png",
+    "Notes/Intelligen/Current issues/Undo/Undo.md",
+    "Notes/Resources/Code/Undo-research.md",
+    "Notes/Intelligen/Current issues/Undo.md",
     "Notes/Auth/assets/AWS/data-modeling-on-amazon-dynamodb/Exported image 20260211201530-0.png",
     "Notes/Resources/assets/Code/Database/Amazon DynamoDB/Amazon DynamoDB-20260217 18.png",
     "Notes/Home/assets/C3/C3/Exported image 20260211193748-0.png",

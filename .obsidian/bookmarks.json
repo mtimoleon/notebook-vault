@@ -1,23 +1,21 @@
 {
   "items": [
     {
-      "type": "group",
-      "ctime": 1771011465340,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1770997144724,
-          "path": "Notes/Intelligen/Current issues/Backlog.md",
-          "title": "Intelligen Backlog"
-        },
-        {
-          "type": "file",
-          "ctime": 1770997167850,
-          "path": "Notes/Intelligen/Gantt/Backlog.md",
-          "title": "Gantt Backlog"
-        }
-      ],
-      "title": "Backlog"
+      "type": "file",
+      "ctime": 1771349409085,
+      "path": "Categories/Intelligen Issues.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1770997144724,
+      "path": "Notes/Intelligen/Current issues/Backlog.md",
+      "title": "Intelligen Backlog"
+    },
+    {
+      "type": "file",
+      "ctime": 1770997167850,
+      "path": "Notes/Intelligen/Gantt/Backlog.md",
+      "title": "Gantt Backlog"
     }
   ]
 }

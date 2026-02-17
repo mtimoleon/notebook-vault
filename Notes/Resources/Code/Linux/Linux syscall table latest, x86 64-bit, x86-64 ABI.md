@@ -1,5 +1,5 @@
 ---
-created: 2024-12-27
+created: 2026-02-14
 ---
 
 | ![thumbnail](Linux%20syscall%20table%20latest,%20x86%2064-bit,%20x86-64%20ABI-20260216.png) |

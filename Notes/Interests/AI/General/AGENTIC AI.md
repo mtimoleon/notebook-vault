@@ -1,5 +1,5 @@
 ---
-created: 2025-04-12
+created: 2026-02-14
 ---
 
 [https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/?mkt_tok=Mjk4LVJTRS02NTAAAAGZw-z-celDO_eLisQ-1pVuW3rBMOEH8GGochvWtBt12rSWuktNvoUVMfoyiLZy6cXRzDSKkt-5pVsVgNSWSZ2Z4ANJtvzgOngWc4Iok0tKfb2XvFyHeBE](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/?mkt_tok=Mjk4LVJTRS02NTAAAAGZw-z-celDO_eLisQ-1pVuW3rBMOEH8GGochvWtBt12rSWuktNvoUVMfoyiLZy6cXRzDSKkt-5pVsVgNSWSZ2Z4ANJtvzgOngWc4Iok0tKfb2XvFyHeBE)

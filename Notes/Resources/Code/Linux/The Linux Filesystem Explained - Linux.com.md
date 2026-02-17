@@ -1,5 +1,5 @@
 ---
-created: 2021-10-21
+created: 2026-02-14
 ---
 
 Clipped from: [https://www.linux.com/training-tutorials/linux-filesystem-explained/](https://www.linux.com/training-tutorials/linux-filesystem-explained/)

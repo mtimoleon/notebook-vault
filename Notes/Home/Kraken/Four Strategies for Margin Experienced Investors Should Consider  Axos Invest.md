@@ -1,5 +1,5 @@
 ---
-created: 2024-12-15
+created: 2026-02-14
 ---
 
 Clipped from: [https://www.axos.com/invest/blog/Four-Strategies-for-Margin-Experienced-Investors-Should-Consider#](https://www.axos.com/invest/blog/Four-Strategies-for-Margin-Experienced-Investors-Should-Consider#)

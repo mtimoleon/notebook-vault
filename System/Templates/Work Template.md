@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: {{ date }}
+created: {{date}}
 product: 
 component: 
 tags: []

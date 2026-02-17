@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources]]"
-created: 2021-09-29
+created: 2026-02-14
 product: DynamoDB
 component:
 tags:

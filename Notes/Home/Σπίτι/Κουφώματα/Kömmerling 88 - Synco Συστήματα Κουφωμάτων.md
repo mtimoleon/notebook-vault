@@ -1,5 +1,5 @@
 ---
-created: 2025-01-22
+created: 2026-02-14
 ---
 
 Clipped from: [https://www.synco.gr/product/kommerling-88/](https://www.synco.gr/product/kommerling-88/)

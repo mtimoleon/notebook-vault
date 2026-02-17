@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-05-05T11:20
+created: 2025-05-05
 product:
 component: Keycloak
 tags:

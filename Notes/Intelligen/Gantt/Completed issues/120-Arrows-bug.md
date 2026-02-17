@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-12-01T14:04
+created: 2025-12-01
 product: Gantt
 component:
 status: completed

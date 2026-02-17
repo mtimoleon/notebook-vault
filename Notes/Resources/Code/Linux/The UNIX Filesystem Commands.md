@@ -3,7 +3,7 @@ title: "Linux Basics: The UNIX Filesystem Commands"
 source: https://thevalleyofcode.com/lesson/linux-basics/unix-filesystem/
 author:
 published:
-created: 2026-02-09
+created: 2024-06-02
 description: The UNIX Filesystem Commands - Master essential Linux commands for navigating the file system, viewing files, and understanding your environment. These are the fundamental commands every Linux user should know.
 tags:
 ---

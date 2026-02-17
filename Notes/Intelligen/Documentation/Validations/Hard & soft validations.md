@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2022-11-10T12:57
+created: 2022-11-10
 product: ScpCloud
 component:
 tags:

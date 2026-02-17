@@ -1,10 +1,10 @@
 ---
 categories:
   - "[[Work]]"
-created: 2026-01-23T12:22
+created: 2026-02-14
 tags:
   - issues/intelligen
-status: current
+status: open
 product: ScpCloud
 component:
 ticket:

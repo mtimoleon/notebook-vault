@@ -1,5 +1,5 @@
 ---
-created: 2025-01-10
+created: 2026-02-14
 ---
 
 "G:\My Drive\Books\Programming\Algorithms\linear_algebra_for_machine_learning_mini_course.pdf"

@@ -1,5 +1,5 @@
 ---
-created: 2023-07-31
+created: 2026-02-14
 ---
 
 ![Exported image](Exported%20image%2020260211193800-0.png)   ![KIT Xenon H7 35W HID 12V 6000K](Exported%20image%2020260211193810-1.jpeg)  

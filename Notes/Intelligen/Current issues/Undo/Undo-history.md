@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-06-24T10:24
+created: 2026-02-17
 tags:
   - issues/intelligen
 status:
@@ -74,7 +74,7 @@ Where to see it:
 (Separate issue: `Undo_simple_restore()` also currently references `storedHistoryCampaign` without defining it at `Tests/Planning.FunctionalTests/SchedulingBoardTests.cs:6018`, so even after the host starts, the test won’t compile/run cleanly.)
 
 
-![Drawing 2026-02-17 13.03.32.excalidraw|800]]
+![[Drawing 2026-02-17 13.03.32.excalidraw]]
  
 
 

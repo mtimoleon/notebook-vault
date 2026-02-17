@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2023-12-15T12:04
+created: 2023-12-15
 product:
 component:
 tags:

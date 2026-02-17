@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources]]"
-created: 2021-10-10T17:03
+created: 2021-10-10
 product:
 component:
 tags:

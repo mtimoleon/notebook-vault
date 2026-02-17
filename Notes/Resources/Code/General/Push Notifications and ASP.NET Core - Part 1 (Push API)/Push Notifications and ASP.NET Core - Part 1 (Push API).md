@@ -4,7 +4,7 @@ source: https://www.tpeczek.com/2017/12/push-notifications-and-aspnet-core-part.
 author:
   - "[[Tomasz Pęczek]]"
 published: 2017-12-28
-created: 2026-02-09
+created: 2024-06-04
 description: Push API and Web Push Protocol specifications allow for delivering push notifications even when client is offline. This post shows how this capabilities can be used in ASP.NET Core.
 tags:
 ---

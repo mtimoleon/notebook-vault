@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Resources]]"
-created: 2024-05-14T15:30
+created: 2024-05-14
 product: Gantt
 component:
 tags:

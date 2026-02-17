@@ -1,5 +1,5 @@
 ---
-created: 2024-08-05
+created: 2026-02-14
 ---
 
 ### **- Heikin Ashi**

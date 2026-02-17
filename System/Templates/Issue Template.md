@@ -1,14 +1,12 @@
 ---
 categories:
   - "[[Work]]"
-created:
-  "{ date }":
+created: {{date}}
 product:
 component:
 status:
 tags: []
 ---
-"
 ## Context
 
 ## Notes

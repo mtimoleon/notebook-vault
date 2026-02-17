@@ -1,5 +1,5 @@
 ---
-created: 2024-05-01
+created: 2026-02-14
 ---
 
 Clipped from: [https://www.pcworld.com/article/394850/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html](https://www.pcworld.com/article/394850/what-to-do-when-your-laptop-is-stolen-and-how-to-prepare-for-it.html)

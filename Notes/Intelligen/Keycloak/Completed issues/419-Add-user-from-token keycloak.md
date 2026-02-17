@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-08-25T16:28
+created: 2025-08-25
 product: ScpCloud
 component: Keycloak
 status: completed

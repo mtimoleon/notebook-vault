@@ -3,7 +3,7 @@ title: C# in a Nutshell - PredicateBuilder
 categories:
   - "[[Resources]]"
 description:
-created: 2022-11-07T14:25
+created: 2022-11-07
 component:
 product:
 published:

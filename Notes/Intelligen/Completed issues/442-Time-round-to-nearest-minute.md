@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-09-19T14:29
+created: 2026-02-14
 tags:
   - issues/intelligen
 status: completed

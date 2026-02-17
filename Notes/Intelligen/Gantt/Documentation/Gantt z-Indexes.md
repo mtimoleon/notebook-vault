@@ -1,7 +1,7 @@
 ---
 categories:
   - "[[Work]]"
-created: 2025-12-08T15:32
+created: 2025-12-08
 product: Gantt
 component: []
 tags:
