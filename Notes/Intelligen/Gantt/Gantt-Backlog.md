@@ -14,7 +14,7 @@ tags:
 [https://css-tricks.com/stripes-css/#aa-normal-colored-diagonal-stripes](https://css-tricks.com/stripes-css/#aa-normal-colored-diagonal-stripes)
 
 
-![Exported image](Exported%20image%2020260209140050-0.png)
+![Exported image](Gantt-Backlog-20260218%201.png)
 
 border-radius: 3px;  
 height: 35px;  
@@ -37,7 +37,7 @@ background-blend-mode: multiply;
 For handleBarClick
 For HandleBarRightClick
 
-![Exported image](Exported%20image%2020260209140052-1.png)  
+![Exported image](Gantt-Backlog-20260218.png)  
 
 ## **NICE TO HAVE**
 

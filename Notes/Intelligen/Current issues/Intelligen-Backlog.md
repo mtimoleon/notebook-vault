@@ -10,6 +10,7 @@ product: ScpCloud
 ---
 
 
+- [ ] ![[Current/assets/2026-scratch-pad/image.png]]
 - [ ] Test locally DocumentDB in place of Mongo
 - [ ] Backup MongoDB on Azure shared volume
 - [ ] Zoom στο browser και εμφάνιση εφαρμογής σε laptops της Hovione
@@ -29,7 +30,7 @@ product: ScpCloud
 	- Set TrackingEocChart to use separate prop for timelineTime and showTimelinet.  
 	- Set production EocChart to use timelineTime for chart initial scrll.  
 	- Update planning TrackingEocChart to have similar behaviour with PlanningEocChart
-	- ![Exported image](Backlog-20260217%204.png)
+	- ![Exported image](Intelligen-Backlog-20260218.png)
 
 - [ ] Export csv for production operations all columns with the other filters (==Zlate==)  
 - [ ] (==Zlate==) Create CRUD infrastructure for 
@@ -39,16 +40,16 @@ product: ScpCloud
 - [ ] Library show tooltip (component)  
 - [ ] Shifts display
 
-![Exported image](Backlog-20260217%203.png)
+![Exported image](Intelligen-Backlog-20260218%202.png)
 
 - [ ] Procedure name must have a value since we are in production operation entry modal
 
 
-![Exported image](Backlog-20260217%202.png)  
+![Exported image](Intelligen-Backlog-20260218%204.png)  
 
 - [ ] Add comments in production operations columns
 
-![Exported image](Backlog-20260217%201.png)
+![Exported image](Intelligen-Backlog-20260218%203.png)
  - [ ] Operation entry side panel new tab, like identification, that contains attention codes and comments
    
 
@@ -58,7 +59,7 @@ product: ScpCloud
  
 - [ ] 502 Fix order bug ==Zlate==
 
-![Exported image](Backlog-20260217.png)   
+![Exported image](Intelligen-Backlog-20260218%201.png)   
 - [ ] In Admin api keycloak service, use httpClient created by httpClientFactory not with new inside service
 [https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory](https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory)  
 - [ ] Fix the names of contracts to contain the api name. Ayto na ginei oste na min mperdeyoyme ta contracts kai toys clients

@@ -7,7 +7,7 @@ component:
 tags: []
 ---
 
-**Blockchain Registration flow:** [https://swimlanes.io/u/DBfoGFqkYz](https://swimlanes.io/u/DBfoGFqkYz)
+**Blockchain Registration flow:** [https://swimlanes.io/u/DBfoGFqkYz|266x24](https://swimlanes.io/u/DBfoGFqkYz)
    
 \> Από \<[https://docs.google.com/document/d/1lFByH3jm139qFkW1dAD3rcpfwA6hZmSN_NhS8hKdKeE/edit?usp=gmail](https://docs.google.com/document/d/1lFByH3jm139qFkW1dAD3rcpfwA6hZmSN_NhS8hKdKeE/edit?usp=gmail)\>   
 [Προεπισκόπηση συνημμένου RAISE Registration Params](https://docs.google.com/document/d/1lFByH3jm139qFkW1dAD3rcpfwA6hZmSN_NhS8hKdKeE/edit?usp=gmail)

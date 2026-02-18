@@ -129,8 +129,8 @@
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
-  "taskboneEnabled": false,
-  "taskboneAPIkey": "",
+  "taskboneEnabled": true,
+  "taskboneAPIkey": "cee13772-9549-4f15-b6ef-f9775a41cdd0",
   "pinnedScripts": [],
   "sidepanelTabs": [],
   "customPens": [
@@ -815,5 +815,5 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false
+  "disableContextMenu": true
 }

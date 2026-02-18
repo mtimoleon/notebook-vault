@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9759d049d8fc716c",
+        "id": "2aaf28f9ed809f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "00fe46150086a81e",
+            "id": "f1605e7845f82052",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Portal integrations identified"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#topic/dbeaver",
+                "query": "assets",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Portal integrations identified"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Portal integrations identified"
+              "title": "Outgoing links"
             }
           },
           {
@@ -141,7 +125,7 @@
                 "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "docker"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -167,19 +151,19 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Home/Μαμά/Διάφορα.md"
+                "file": "Notes/Intelligen/Current issues/MongoDb backup in container.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Διάφορα"
+              "title": "File properties for MongoDb backup in container"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 35.56201550387597,
+        "dimension": 23.255813953488367,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -187,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Auth/Projects/RAISE HE/Portal integrations identified.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Portal integrations identified"
+              "title": "Outline"
             }
           }
         ]
@@ -201,7 +184,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 27.61627906976744,
+        "dimension": 39.922480620155035,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -242,57 +225,57 @@
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false,
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "f1605e7845f82052",
   "lastOpenFiles": [
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/RAID",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/RAI resolver",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/RAI PID NOTES",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/Handle.net",
-    "Notes/Auth/Projects/RAISE HE/Architecture/D3.1 RAI Cloud services' specifications v3.0.md",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/FC4EOSC Deliverable3.3",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/EUDAT",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/DONA DO-IRP notes",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/EPIC GRnet",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES/DataCite Fee Model - DataCite",
-    "Notes/Auth/assets/Projects/RAISE HE/RAI PID NOTES",
-    "Notes/Auth/assets/Projects/RAISE HE/Ocean protocol/Ocean Nodes & Oasis Sapphire Integration — A New Era of Decentralized Encryption  by Ocean Protocol Team  Ocean Protocol",
-    "Notes/Auth/Projects/RAISE HE/Architecture/2024-04-24_RAISE_InfoPack-Antonio.md",
-    "Notes/Auth/Projects/RAISE HE/RAISE HE Tasks.md",
-    "Notes/Auth/Projects/RAISE/Tasks.md",
-    "Notes/Auth/Current/Accelup requests.md",
-    "Notes/Intelligen/Gantt/Backlog.md",
-    "Notes/Intelligen/Current issues/Backlog.md",
-    "Categories/Intelligen Issues.md",
-    "Categories/Auth Issues.md",
-    "Categories/Home.md",
-    "Current/Untitled.md",
-    "Categories/Work.md",
+    "Notes/Intelligen/Current issues/Docker commands.md",
     "Notes/Intelligen/Current issues/MongoDb backup in container.md",
-    "Notes/Resources/Code/Back Up a Self-Managed Deployment with Filesystem Snapshots.md",
-    "System/Templates/Issue Template.md",
-    "System/Templates/Documentation Template.md",
-    "System/Templates/Home Template.md",
-    "System/Templates/Interest Template.md",
-    "System/Templates/Resource Template.md",
-    "System/Templates/Work Template.md",
-    "Notes/Intelligen/Current issues/Undo/Undo-history.md",
-    "Notes/Intelligen/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw.md",
+    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
     "Notes/Intelligen/assets/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw/Drawing 2026-02-17 13.03.32.excalidraw-20260217.png",
+    "Notes/Intelligen/Completed issues/263-Import-Export/263-Import-Export.md",
+    "Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production.md",
+    "Notes/Intelligen/assets/Completed issues/412-Publish-Outages-to-Production/image-2.png",
+    "Notes/Auth/Current/Accelup requests.md",
+    "Current/2026-scratch-pad.md",
+    "Notes/Intelligen/Gantt/Gantt-Backlog.md",
+    "Notes/Intelligen/assets/Gantt/Gantt-Backlog",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog",
+    "Notes/Auth/Projects/e-Consent/Todos.md",
+    "Notes/Auth/Current/https--en.wikipedia.org-wiki-Restful_Objects.md",
+    "Notes/Auth/Current/DataAcessRequests. Datasets DaitaAccessReyuests. Datusefs Users- Inzende (Favorite).md",
+    "Notes/Auth/assets/Current/Accelup requests/022F6400",
+    "Notes/Auth/assets/Current/Accelup requests/~$Accelup Improvements.xlsx",
+    "Notes/Auth/assets/Current/Accelup requests/33B74400",
+    "Notes/Auth/assets/Current/Accelup requests/F5674400",
+    "Current/Drawing 2026-02-18 10.58.06.excalidraw.md",
+    "Untitled.md",
+    "Current/assets/Drawing 2026-02-18 10.58.06.excalidraw/Pasted Image 20260218105808_504.png",
+    "Current/Drawing 2026-02-16 22.29.48.excalidraw.md",
+    "Current/Drawing 2026-02-18 12.42.21.excalidraw.md",
+    "Current/Drawing 2026-02-18 12.42.27.excalidraw.md",
+    "Current/assets/2026-scratch-pad/image.png",
+    "Current/assets/2026-scratch-pad",
+    "Current/assets/2026-scratch-pad/2026-scratch-pad-20260218.png",
+    "Current/assets/Drawing 2026-02-18 10.58.06.excalidraw",
+    "Current/Organize obsidian.md",
+    "Current/Untitled.md",
+    "Current/Documentation.md",
+    "Categories/Intelligen Issues.md",
+    "Notes/Home/Ταξίδι/Αρχικό/28-4 Nuremberg.md",
+    "Notes/Home/Ταξίδι/Αρχικό/27-4 Vienna.md",
+    "Notes/Home/Ταξίδι/Αρχικό/26-4 Βελιγράδι.md",
+    "Notes/Home/Ταξίδι/Αρχικό/16-5 Βελιγράδι.md",
+    "Notes/Home/Ταξίδι/Αρχικό/15-5 Vienna.md",
+    "Notes/Home/assets/Ταξίδι/Paris/Paris bus lines",
+    "Notes/Home/assets/Ταξίδι/Paris/Περιοχές του Παρισιού",
     "Notes/Intelligen/assets/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw/Drawing 2026-02-17 13.03.32.excalidraw-20260217 1.png",
-    "Notes/Intelligen/Current issues/Undo/Undo.md",
-    "Notes/Resources/Code/Undo-research.md",
-    "Notes/Intelligen/Current issues/Undo.md",
     "Notes/Auth/assets/AWS/data-modeling-on-amazon-dynamodb/Exported image 20260211201530-0.png",
     "Notes/Resources/assets/Code/Database/Amazon DynamoDB/Amazon DynamoDB-20260217 18.png",
     "Notes/Home/assets/C3/C3/Exported image 20260211193748-0.png",
     "Notes/Home/assets/C3/C3/C3 - Ink.svg",
-    "Notes/Resources/assets/Code/Authentication/A Guide to Cookie-Based and Session-Based Authentication/A Guide to Cookie-Based and Session-Based Authentication-20260216.png",
-    "Notes/Auth/assets/Projects/Panel Management/Notes/Notes-20260217.svg",
-    "Attachments/Notes/Intelligen/Notes/DDD_Reference_2015-03/Exported image 20260209140547-4.png",
-    "Attachments/Current/2026-02-15/2026-02-15-20260215 3.png",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

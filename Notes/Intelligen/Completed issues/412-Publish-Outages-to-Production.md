@@ -25,7 +25,7 @@ ticket:
 
 
 GetSchedulingBoardEocDataTrackingAsync_MultipleEquipment_DifferentOutageScenarios
-![[Attachments/Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production/image-3.png]]]
+![[Notes/Intelligen/assets/Completed issues/412-Publish-Outages-to-Production/image-3.png]]]
 
 GetSchedulingBoardEocDataTrackingAsync_OverlappingVersions_IncludesOutagesFromEachVersionAndOverlapping
 ![[Attachments/Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production/image-4.png]]]

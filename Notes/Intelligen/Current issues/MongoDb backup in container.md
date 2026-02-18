@@ -18,7 +18,7 @@ mongo_backup.sh
 #!/bin/bash
 
 # Settings
-CONTAINER_NAME="<container_name"
+CONTAINER_NAME="<container_name>"
 BACKUP_PATH="/backup" # The path inside container (the mount point of Azure Share)
 DATE=$(date +%Y-%m-%d_%H-%M)
 
@@ -42,28 +42,25 @@ echo "Backup completed successfully."
 
 **1. Dockerfile για το backup-service:**
 
-dockerfile
-
-```
+```DockerFile
 FROM alpine:3.18
-# Εγκατάσταση mongodb-tools και crond
+# Install mongodb-tools and crond
 RUN apk add --no-cache mongodb-tools bash
-# Αντιγραφή του script που φτιάξαμε πριν
+# Copy backup script
 COPY mongo_backup.sh /scripts/mongo_backup.sh
 RUN chmod +x /scripts/mongo_backup.sh
-# Προσθήκη στο crontab
+# Add cron job to crontab
 RUN echo "0 2 * * * /scripts/mongo_backup.sh" > /etc/crontabs/root
 # Εκκίνηση του cron στο foreground
 CMD ["crond", "-f"]
 ```
 
-Χρησιμοποιήστε τον κώδικα με προσοχή.
+_Cron job syntax Format: `minute hour day month weekday`, so the above is `every day at 02:00`_
+
 
 **2. Docker Compose:**
 
-yaml
-
-```
+```yaml
 services:
   database:
     image: mongo:latest
@@ -77,7 +74,7 @@ services:
     environment:
       - MONGO_HOST=database
     volumes:
-      - my_azure_share:/backup # Το κοινόχρηστο Azure volume
+      - my_azure_share:/backup # The shared Azure volume
 
 volumes:
   mongo_data:
@@ -89,13 +86,11 @@ volumes:
       storage_account_key: <key>
 ```
 
-Χρησιμοποιήστε τον κώδικα με προσοχή.
-
 _Σημείωση: Στο script σας, η εντολή θα γίνει `mongodump --host database --out /backup`._
 
 #### Επιλογή Β: Custom MongoDB Image (Η πιο απλή λύση)
 
-Αν θέλετε οπωσδήποτε **ένα container**, πρέπει να φτιάξετε ένα δικό σας `image` που ξεκινάει και τη Mongo και το Cron (χρησιμοποιώντας ένα entrypoint script).
+Αν θέλετε οπωσδήποτε **ένα container**, πρέπει να φτιάξετε ένα δικό σας `image` που ξεκινάει και τη Mongo και το Cron (χρησιμοποιώντας ένα entry point script).
 
 **Dockerfile:**
 
@@ -108,8 +103,6 @@ RUN echo "0 2 * * * /mongo_backup.sh >> /var/log/cron.log 2>&1" | crontab -
 # Script για να ξεκινάνε και τα δύο
 CMD cron && docker-entrypoint.sh mongod
 ```
-
-Χρησιμοποιήστε τον κώδικα με προσοχή.
 
 Γιατί η Επιλογή Α είναι καλύτερη;
 
