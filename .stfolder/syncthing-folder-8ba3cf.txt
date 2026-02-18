@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: Notebook_vault
+created: 2026-02-18T23:17:05+02:00
