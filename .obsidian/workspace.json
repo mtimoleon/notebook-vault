@@ -11,14 +11,24 @@
             "id": "98fa6e2fa33770b2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".stfolder/syncthing-folder-8ba3cf.txt",
-                "bFile": ".stfolder/syncthing-folder-8ba3cf.txt",
-                "aRef": ""
+                "file": "Current/2026-scratch-pad.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: syncthing-folder-8ba3cf.txt  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-scratch-pad"
             }
           }
         ]
@@ -95,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Current/2026-scratch-pad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-scratch-pad"
             }
           },
           {
@@ -113,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Current/2026-scratch-pad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-scratch-pad"
             }
           },
           {
@@ -154,9 +166,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Current/2026-scratch-pad.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 2026-scratch-pad"
             }
           },
           {
@@ -183,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Current/2026-scratch-pad.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-scratch-pad"
             }
           }
         ]
