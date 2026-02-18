@@ -10,7 +10,7 @@ product: ScpCloud
 ---
 
 
-- [ ] ![[Current/assets/2026-scratch-pad/image.png]]
+- [ ] ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png]]
 - [ ] Test locally DocumentDB in place of Mongo
 - [ ] Backup MongoDB on Azure shared volume
 - [ ] Zoom στο browser και εμφάνιση εφαρμογής σε laptops της Hovione
