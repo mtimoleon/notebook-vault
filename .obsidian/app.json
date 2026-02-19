@@ -3,5 +3,6 @@
   "newFileFolderPath": "Current",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }

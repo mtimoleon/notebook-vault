@@ -42,7 +42,12 @@ Web: [https://dealer.citroen.gr/giannirisae/](https://dealer.citroen.gr/gianniri
 - [ ] Να κλείσω διαμονές ξενοδοχεία 
 - [ ] Vodafοne πρόγραμμα για χώρες εκτός ΕΟΧ
 - [ ] Έκδοση διαβατηρίων
-- [ ] Ευρωπαϊκή Κάρτα Υγείας.
+- [ ] Ευρωπαϊκή Κάρτα Υγείας- Αναμένουμε τα πλαστικά
+
+#### Offline applications
+- [ ] Translate
+- [ ] Maps
+- [ ] Μουσική
 
 ### Να πάρουμε
 

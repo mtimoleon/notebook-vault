@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "${customPath}",
-  "attachmentRenameMode": "Only pasted images",
+  "attachmentRenameMode": "All",
   "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "None",
