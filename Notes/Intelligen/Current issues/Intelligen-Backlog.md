@@ -10,7 +10,14 @@ product: ScpCloud
 ---
 
 
-- [ ] ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png]]
+
+- [ ] Check this error 
+      ```
+      Examples/Tutorial 9/Create->Update Scheduling Horizon set start time now and save -> Select yes in modal ->  Unable to save changes because a circular dependency was detected in the data to be saved: 'ProcedureEntry { 'Id': 4377 } [Deleted] ForeignKeyConstraint { 'MainEquipmentCompatibilityProcedureEntryId': 4378 } <- ProcedureEntry { 'Id': 4378 } [Deleted] ForeignKeyConstraint { 'MainEquipmentCompatibilityProcedureEntryId': 4377 } <- ProcedureEntry { 'Id': 4377 } [Deleted]'.```
+      
+      Κάτι φαίνεται να μην καθαρίζουμε στα internal references... ή μάλλον, θέλει SaveCircularData κάτι τέτοιο
+- [ ] Update the tool tip
+      ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png]]
 - [ ] Test locally DocumentDB in place of Mongo
 - [ ] Backup MongoDB on Azure shared volume
 - [ ] Zoom στο browser και εμφάνιση εφαρμογής σε laptops της Hovione

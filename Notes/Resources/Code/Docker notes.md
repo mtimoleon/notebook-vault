@@ -7,6 +7,11 @@ tags:
   - topic/code
   - tech/docker
 ---
+
+## Common cmds
+
+Get into a container:  `docker exec -it <container_name_or_id> sh`
+
 ## Networks
 
 Δες όλα τα docker networks:
@@ -17,7 +22,7 @@ docker network ls
 
 Inspect network:
 ```
-docker network inspect <name or sha>
+docker network inspect <name or id>
 ```
 
 See port of container:
@@ -31,19 +36,25 @@ docker network connect <network_name> <container_name>
 ```
 
 
-## Container Volumes inspection
+## Volumes
 
 - Quick summary (mounts): `docker inspect <container> --format "{{json .Mounts}}"`
 - Human-readable full inspect: `docker inspect <container>`
 - From inside the container: `docker exec -it <container> sh -lc "mount || cat /proc/mounts"`
 
-To list named volumes and inspect one:
+#### To list named volumes and inspect one:
 - `docker volume ls`
 - `docker volume inspect <volume_name>`
 
 If it’s a compose container and you want the volume names:
 - `docker compose -f docker-compose.yml ps`
 - `docker compose -f docker-compose.yml config`
+
+#### To create a volume
+`docker volume create <volume-name>`
+
+Verify: `docker volume ls | grep  <volume-name>` (or docker `volume inspect  <volume-name>`)
+Then rerun: docker compose up -d
 
 ## Scaling services
 
@@ -80,7 +91,7 @@ volumes:
 
 Όταν το τρέξω θα γίνει:
 
-![[image-2.png]]
+![[Notes/Intelligen/assets/Current issues/DocumentDB test/image-2.png]]
 
 Το `name: scp-nosqldata-backup` είναι αυτό που βλέπεις στην πρώτη γραμμή. Αν δεν το βάλεις θα πάρει το όνομα του folder που βρίσκεται το compose που έτρεξες.
 

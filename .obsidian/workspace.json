@@ -8,6 +8,32 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9b9567bb5bb69927",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current/2026-scratch-pad.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-scratch-pad"
+            }
+          },
+          {
             "id": "2491737b12af7188",
             "type": "leaf",
             "pinned": true,
@@ -40,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Docker notes.md",
+                "file": "Notes/Resources/Code/Docker notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,12 +86,12 @@
             }
           },
           {
-            "id": "b1e34044ad4c976e",
+            "id": "1957fbe3e25536a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Home/Αλέξανδρος/Οδηγίες.md",
+                "file": "Notes/Resources/Code/Database/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,11 +106,61 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Οδηγίες"
+              "title": "MongoDB Replica Set Container-MongoDB Replica Set Container"
+            }
+          },
+          {
+            "id": "ab686bb2d80e303b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intelligen/Completed issues/Production export.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Production export"
+            }
+          },
+          {
+            "id": "40ca89964dd8f175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligen-Backlog"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -116,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "documentDb",
+                "query": "sqlserver backup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -158,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Home/Αλέξανδρος/Οδηγίες.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +244,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Οδηγίες"
+              "title": "Backlinks for Intelligen-Backlog"
             }
           },
           {
@@ -177,12 +253,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Home/Αλέξανδρος/Οδηγίες.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Οδηγίες"
+              "title": "Outgoing links from Intelligen-Backlog"
             }
           },
           {
@@ -250,13 +326,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Home/Αλέξανδρος/Οδηγίες.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Οδηγίες"
+              "title": "Outline of Intelligen-Backlog"
             }
           }
         ]
@@ -310,9 +386,34 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "b1e34044ad4c976e",
+  "active": "40ca89964dd8f175",
   "lastOpenFiles": [
-    "Notes/Intelligen/Current issues/Docker notes.md",
+    "Notes/Intelligen/Completed issues/Production export.md",
+    "Notes/Intelligen/assets/Completed issues/Production export/Production export-20260220 2.png",
+    "Notes/Intelligen/assets/Completed issues/Production export/image-2.png",
+    "Notes/Intelligen/assets/Completed issues/Production export/image-1.png",
+    "Notes/Intelligen/assets/Completed issues/Production export/Production export-20260220 1.png",
+    "Notes/Intelligen/assets/Completed issues/Production export/Production export-20260220.png",
+    "Notes/Intelligen/assets/Completed issues/Production export/image.png",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
+    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+    "Notes/Intelligen/Current issues/DocumentDB test.md",
+    "Notes/Resources/Code/Docker notes.md",
+    "Notes/Resources/assets/Code/Docker notes",
+    "Notes/Intelligen/assets/Current issues/DocumentDB test/DocumentDB test-20260220 1.png",
+    "Notes/Intelligen/assets/Current issues/DocumentDB test/DocumentDB test-20260220.png",
+    "Notes/Intelligen/assets/Current issues/DocumentDB test/image-3.png",
+    "Notes/Intelligen/assets/Current issues/DocumentDB test/image-2.png",
+    "Current/2026-scratch-pad.md",
+    "Notes/Resources/Code/Database/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
+    "Notes/Intelligen/assets/Current issues/DocumentDB test",
+    "Notes/Intelligen/Completed issues/507-Examples-from-json-files.md",
+    "Notes/Intelligen/Completed issues/405-Resource-ordering-and-visibility.md",
+    "Notes/Intelligen/Completed issues/408-Eoc-filters-in-production.md",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/478 Get OperationEntries for reporting.md",
+    "Notes/Intelligen/Completed issues/345-Production-database-global-session.md",
+    "Notes/Resources/Code/Effective Aggregate Design.md",
     "Notes/Home/Αλέξανδρος/Οδηγίες.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Google account.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
@@ -331,33 +432,7 @@
     "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης-20260219 2.pdf",
     "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης",
     "Notes/Auth/Current/Accelup requests.md",
-    "Notes/Auth/assets/Current/Accelup requests/image.png",
-    "Notes/Auth/assets/Current/Accelup requests/~$Accelup Improvements.xlsx",
     "Current/Organize obsidian.md",
-    "Current/2026-scratch-pad.md",
-    "Notes/Intelligen/Current issues/DocumentDB test.md",
-    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
-    "Notes/Intelligen/Current issues/MongoDb-backup-in-container.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Αναλυτικό Χρονοδιάγραμμα Μετάβασης.md",
-    "Notes/Resources/Code/Back Up a Self-Managed Deployment with Filesystem Snapshots.md",
-    "Notes/Intelligen/assets/Current issues/Docker notes/image-2.png",
-    "Notes/Intelligen/assets/Current issues/Docker notes/image-1.png",
-    "Notes/Intelligen/assets/Current issues/Docker notes/image.png",
-    "Notes/Intelligen/assets/Current issues/Docker notes",
-    "Notes/Home/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ.md",
-    "Notes/Home/Σπίτι/Αυθαίρετα/Νόμος 4495-2017 (Κωδικοποιημένος) - ΦΕΚ Α 167-03.11.2017- Άρθρο 30.md",
-    "Notes/Home/assets/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ/Exported image 20260211195601-54.png",
-    "Notes/Home/assets/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ/Exported image 20260211195600-53.png",
-    "Notes/Home/Financial/Notes.md",
-    "Notes/Home/ΤΣΜΕΔΕ/ΤΣΜΕΔΕ-διακοπή.md",
-    "Notes/Home/assets/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ/Exported image 20260211195602-55.png",
-    "Notes/Home/Σπίτι/Αυθαίρετα/Νόμος 4495-2017 (Κωδικοποιημένος) - ΦΕΚ Α 167-03.11.2017 - Άρθρο 96.md",
-    "Notes/Home/Ακίνητα/Παλιούρι/Προανάρτηση.md",
-    "Notes/Home/Σπίτι/Έπιπλα κήπου.md",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Κάτοικος εξωτερικού.md",
-    "Notes/Home/assets/Σπίτι/Κάκγελα/ΠΑΤΣΑΛΑΣ/Exported image 20260211195616-62.png",
-    "Notes/Home/assets/Σπίτι/7 Τρόποι για να καλύψετε το παλιό δάπεδο σε μπαλκόνια - αυλές  SOULOUPOSETO/Exported image 20260211195718-4.jpeg",
-    "Notes/Home/assets/Σπίτι/7 Τρόποι για να καλύψετε το παλιό δάπεδο σε μπαλκόνια - αυλές  SOULOUPOSETO/Exported image 20260211195716-3.jpeg",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

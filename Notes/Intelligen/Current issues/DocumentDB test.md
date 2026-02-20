@@ -32,6 +32,26 @@ docker run -dt -p 10260:10260 --name documentdb-container documentdb --username 
 
 Αυτό είναι το “official” quick start από το repo του DocumentDB. ([GitHub][2])
 
+If you want to do it with compose:
+Add this service to a `docker-compose.yml` (or into your existing one under `services:`):
+
+```yaml
+services:
+  documentdb-container:
+    image: documentdb
+    container_name: documentdb-container
+    ports:
+      - "10260:10260"
+    command: ["--username", "${DOCUMENTDB_USER}", "--password", "${DOCUMENTDB_PASS}"]
+    restart: unless-stopped
+```
+
+Run it like:
+```
+DOCUMENTDB_USER=<USER> DOCUMENTDB_PASS=<PASS> docker compose up -d documentdb-container
+```
+(Or put `DOCUMENTDB_USER` / `DOCUMENTDB_PASS` in a .env file next to the compose file.)
+
 * Connection string (MongoDB driver):
 
   * Η local σύνδεση γίνεται με TLS και συνήθως θες να επιτρέψεις invalid certs (local dev):
@@ -122,21 +142,199 @@ docker exec nosqldata mongodump --archive > D:/dump.archive --gzip
 ```
 docker exec nosqldata \
  mongorestore \
-  --uri="mongodb://user:pass@documentdb-container:10260"
-  --tls --tlsAllowInvalidCertificates --tlsAllowInvalidHostnames \
-  --archive="dump.archive" --gzip \
+  --uri="mongodb://user:pass@documentdb-container:10260" \
+  --ssl --tlsInsecure \
+  --archive=/backup/nosqldata_2026-02-19_15-35-49.archive.gz --gzip \
   --drop
+  --nsExclude='admin.*' \
+  --nsExclude='config.*' \
+  --nsExclude='local.*'
 ```
 
+Αν τρέξω το command at local containers and do not want to use my local disk for resolving the file, need to add `MSYS2_ARG_CONV_EXCL="*"` before running the command:
 
+```
+MSYS2_ARG_CONV_EXCL="*" docker exec -i scp-nosqldata-backup mongorestore \
+  --uri="mongodb://user:pass@documentdb-container:10260" \
+  --ssl --tlsInsecure \
+  --archive="/backup/nosqldata_2026-02-19_15-35-49.archive.gz" --gzip \
+  --drop \
+  --nsExclude='admin.*' \
+  --nsExclude='config.*' \
+  --nsExclude='local.*'
+
+```
 Σημειώσεις:
+
+In case container cannot see each other, put documentdb container in the same network of nosqldata-backup container using info from [[Docker notes]].
 
 `--drop` σβήνει collections πριν το restore (χρήσιμο για repeatable migrations).
 
-Αν είσαι σε local DocumentDB που θέλει self-signed, πρόσθεσε:
+#### Measure speed
 
-`&tlsAllowInvalidCertificates=true&tlsAllowInvalidHostnames=true` στο URI (όπως και στο Compass).
+Run on a database with 50000 items the following aggregation:
 
-Η Microsoft προτείνει αυτό το ζευγάρι εργαλείων ως “best” για πλήρη μεταφορά.
+```
+[
+  // Find global previous publish
+  { $match: { PublishedAt: { $lt: ISODate("2025-10-22T07:43:14.944Z") } } },
+  { $group: { _id: null, firstPublish: { $max: "$PublishedAt" } } },
+  // FirstBatch = last doc with PublishedAt == firstPublish, per Id
+  {
+    $lookup: {
+      from: "archived-batches",
+      let: {
+        fp: "$firstPublish"
+      },
+      pipeline: [
+        { $match: { $expr: { $eq: ["$PublishedAt", "$$fp"] } } },
+        { $sort: { Id: 1, _id: 1 } }, 
+        { $group: { _id: "$Id", FirstBatch: { $last: "$$ROOT" } } },
+        {
+          // For efficiency we can do specific batch projection here
+          $project: { FirstBatch: 1, LastBatch: { $literal: null } }
+        }
+      ],
+      as: "prevRows"
+    }
+  },
+  { $unwind: { path: "$prevRows", preserveNullAndEmptyArrays: true } },
+  { $replaceRoot: { newRoot: "$prevRows" } },
 
+  // LastBatch = first doc with PublishedAt >= lastDate, per Id
+  {
+    $unionWith: {
+      coll: "archived-batches",
+      pipeline: [
+        {
+          $match: {
+            PublishedAt: {
+              $gte: ISODate(
+                "2025-10-22T07:43:15.184Z"
+              )
+            }
+          }
+        },
+        {
+          $sort: {
+            Id: 1,
+            PublishedAt: 1,
+            _id: 1
+          }
+        },
+        {
+          $group: {
+            _id: "$Id",
+            LastBatch: {
+              $first: "$$ROOT"
+            }
+          }
+        },
+
+        // For efficiency we can do specific batch projection here
+        {
+          $project: {
+            FirstBatch: {
+              $literal: null
+            },
+            LastBatch: 1
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    $group: {
+      _id: "$_id",
+      // $max acts as "pick non-null" if there are any null objects in the list
+      FirstBatch: { $max: "$FirstBatch" },
+      LastBatch: { $max: "$LastBatch" }
+    }
+  },
+
+  {
+    $match: {
+      $expr: {
+        $or: [ {$ne: ["$FirstBatch", null]}, { $ne: ["$LastBatch", null]} ]
+      }
+    }
+  },
+  {
+    $sort: {
+      _id: 1
+    }
+  },
+
+  // If there is specific projection before there is no need to project here
+  {
+    $project: {
+      FirstBatchId: "$FirstBatch.Id",
+      FirstBatchName: "$FirstBatch.Name",
+      FirstBatch: "$FirstBatch.PublishedAt",
+      LastBatchId: "$LastBatch.Id",
+      LastBatchName: "$LastBatch.Name",
+      LastBatch: "$LastBatch.PublishedAt"
+    }
+  }
+]
+```
+
+DocumentDb results:
+```
+{
+ "stage": "COLLSCAN",
+ "nReturned": 49950,
+ "executionTimeMillis": 877,
+ "totalKeysExamined": 49950,
+ "totalDocsExamined": 49950,
+ "totalDocsRemovedByRuntimeFilter": 0,
+ "numBlocksFromCache": 182759,
+ "numBlocksFromDisk": 34185
+}
+```
+![[DocumentDB test-20260220.png|300]]
+
+
+MongoDB results:
+```
+{
+ "stage": "GROUP",
+ "planNodeId": 3,
+ "nReturned": 1,
+ "executionTimeMillisEstimate": 367,
+ "opens": 1,
+ "closes": 1,
+ "saveState": 20,
+ "restoreState": 19,
+ "isEOF": 1,
+ "projections": {
+  "8": "newObj(\"_id\", s6, \"firstPublish\", s7) "
+ },
+ "docsExamined": 0,
+ "keysExamined": 0
+}
+{
+ "stage": "COLLSCAN",
+ "planNodeId": 1,
+ "nReturned": 49950,
+ "executionTimeMillisEstimate": 349,
+ "opens": 1,
+ "closes": 1,
+ "saveState": 20,
+ "restoreState": 19,
+ "isEOF": 1,
+ "numTested": 49950,
+ "filter": {
+  "PublishedAt": {
+   "$lt": "2025-10-22T07:43:14.944Z"
+  }
+ },
+ "direction": "forward",
+ "docsExamined": 49950,
+ "keysExamined": 0
+}
+```
+
+![[DocumentDB test-20260220 1.png]]
 ## Links

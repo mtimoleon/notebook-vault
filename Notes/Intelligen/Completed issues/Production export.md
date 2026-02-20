@@ -9,18 +9,125 @@ product: ScpCloud
 component:
 ticket:
 ---
+```
+[
+  {
+    $sort: { PublishedAt: 1 }
+  },
+  {
+    $group:   
+      {
+        _id: "$Id",
+        Batch: { $push: "$$ROOT" }
+      }
+  }
+]
+
+```
+
+![[Production export-20260220.png]]
 
 
-![[image-16.png]]
+```
+-----------------------------------------------
+[
+  {
+    $sort: { PublishedAt: 1 }
+  },
+  {
+    $group:   
+      {
+        _id: "$Id",
+        FirstBatch: { $first: "$$ROOT" },
+        LastBatch: {$last: "$$ROOT"}
+      }
+  }
+]
+
+-----------------------------------------------
+
+```
 
 
-![[image-17.png]]
+#### 20 Camapaigns * 50 Batches * 50 Iterations
+
+```
+Aggregation-1
+[
+  {
+    $sort: { Id:1, PublishedAt: 1 }
+    //$sort: { PublishedAt: 1 }
+
+  },
+  {
+    $group:   
+      {
+        _id: "$Id",
+        FirstBatch: { $first: "$$ROOT" },
+        LastBatch: {$last: "$$ROOT"}
+      }
+  },
+  {
+   $sort: { _id: 1 }
+  },
+  { 
+    $project: 
+    {
+      Batches: ["$FirstBatch", "$LastBatch"]
+    }
+  } 
+]
+
+
+```
+
+
+![[Production export-20260220 1.png]]
+
+
+##### 20 Camapaigns * 50 Batches * 50 Iterations
+
+```
+Aggregation-2
+[
+  {
+    $group: {
+      _id: "$Id",
+      FirstBatch: {
+        $top: {
+          output: "$$ROOT",
+          sortBy: { PublishedAt: 1}
+        }
+      },
+      LastBatch: {
+        $bottom: {       
+          output: "$$ROOT",
+          sortBy: { PublishedAt: 1 }
+        }
+      }
+    }
+  },
+  { $project: 
+    { 
+      Batches: ["$FirstBatch", "$LastBatch"] 
+    }
+  },
+  { $sort: { _id: 1 } }
+]
+
+```
+
+![[Production export-20260220 2.png]]
+
+
 
 ![[image-18.png]]
 
 ![[image-19.png]]
 
- \[
+
+```
+[
   {
     $sort: { PublishedAt: 1, _id: 1 }
   },
@@ -247,7 +354,7 @@ Corrected with lookup
 ]
 
 
-
+```
 
 
 

@@ -35,7 +35,7 @@ docker cp keycloak:/opt/keycloak/data/ ./data_backup/
 **docker compose stop keycloak
 4. **Create a full backup DB**
 
-docker exec -it sqlserver /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P "password" -Q "BACKUP DATABASE [keycloak] TO DISK='/var/opt/mssql/backup/keycloak.bak'"
+`docker exec -it sqlserver /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P "password" -Q "BACKUP DATABASE [keycloak] TO DISK='/var/opt/mssql/backup/keycloak.bak'"`
  
 **
 ****2. Deploy & Run**
