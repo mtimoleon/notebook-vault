@@ -205,15 +205,17 @@
       },
       {
         "name": "Custom (Distort)",
-        "resizeDimension": "both",
+        "resizeDimension": "height",
         "customValue": "300x100",
-        "resizeScaleMode": "auto",
-        "respectEditorMaxWidth": false,
-        "maintainAspectRatio": false,
-        "resizeUnits": "pixels"
+        "resizeScaleMode": "reduce",
+        "respectEditorMaxWidth": true,
+        "maintainAspectRatio": true,
+        "resizeUnits": "pixels",
+        "width": 300,
+        "height": 200
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Fit Editor"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -236,14 +238,14 @@
     "ffmpegCrf": 23,
     "ffmpegPreset": "medium"
   },
-  "ProcessCurrentNoteconvertTo": "webp",
-  "ProcessCurrentNotequality": 0.75,
-  "ProcessCurrentNoteResizeModalresizeMode": "None",
+  "ProcessCurrentNoteconvertTo": "disabled",
+  "ProcessCurrentNotequality": 0.8,
+  "ProcessCurrentNoteResizeModalresizeMode": "Height",
   "ProcessCurrentNoteresizeModaldesiredWidth": 600,
-  "ProcessCurrentNoteresizeModaldesiredHeight": 800,
+  "ProcessCurrentNoteresizeModaldesiredHeight": 200,
   "ProcessCurrentNoteresizeModaldesiredLength": 800,
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
-  "ProcessCurrentNoteEnlargeOrReduce": "Always",
+  "ProcessCurrentNoteEnlargeOrReduce": "Reduce",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
   "ProcessAllVaultconvertTo": "disabled",
   "ProcessAllVaultquality": 0.75,

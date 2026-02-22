@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "no-strike-through-on-todo-check"
+    "no-strike-through-on-todo-check",
+    "image-height"
   ],
   "cssTheme": "",
   "accentColor": "",

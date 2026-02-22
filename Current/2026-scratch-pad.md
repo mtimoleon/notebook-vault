@@ -1,7 +1,7 @@
 ---
 created: 2026-02-14
 ---
-- [ ] See how to delete csv file from postman cloud
+![[2026-scratch-pad-20260221.png]]
 
 ```
 c:\Code\ScpCloud>docker compose -f "C:\Code\ScpCloud\docker-compose.yml" - "C:\Code\ScpCloud\docker-compose. override.ym1" - "C:\Code\ScpCloud\docker-compose.azure.yml" build nosqldata

@@ -1,0 +1,19 @@
+/* Images in a row - Minimal theme style */
+.markdown-preview-view img {
+  display: inline-block;
+  margin: 0 6px 6px 0;
+  vertical-align: top;
+}
+
+/* Optional: limit image height for uniform rows */
+.markdown-preview-view img {
+  max-height: 200px; /* adjust as needed */
+  width: auto;
+}
+
+/* Prevent line breaks between images */
+.markdown-preview-view p {
+  white-space: nowrap;
+}
+
+.markdown-source-view img { display:inline-block; }

@@ -4,5 +4,6 @@
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "autoConvertHtml": true
 }

@@ -11,6 +11,7 @@ product: ScpCloud
 
 
 
+- [ ] See how to delete csv file from postman cloud
 - [ ] Check this error 
       ```
       Examples/Tutorial 9/Create->Update Scheduling Horizon set start time now and save -> Select yes in modal ->  Unable to save changes because a circular dependency was detected in the data to be saved: 'ProcedureEntry { 'Id': 4377 } [Deleted] ForeignKeyConstraint { 'MainEquipmentCompatibilityProcedureEntryId': 4378 } <- ProcedureEntry { 'Id': 4378 } [Deleted] ForeignKeyConstraint { 'MainEquipmentCompatibilityProcedureEntryId': 4377 } <- ProcedureEntry { 'Id': 4377 } [Deleted]'.```

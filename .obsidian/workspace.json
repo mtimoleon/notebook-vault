@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c50f98a196169122",
+        "id": "645d4f1d3400fc6c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b9567bb5bb69927",
+            "id": "dd8a8ddfc30db445",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "2491737b12af7188",
+            "id": "29d5755080f9b6da",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intelligen/Current issues/DocumentDB test.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,17 +56,17 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "DocumentDB test"
+              "title": "ToDo list for traveling"
             }
           },
           {
-            "id": "6c4118523ab77b87",
+            "id": "bf4368bd464bc504",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Resources/Code/Docker notes.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,16 +82,16 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Docker notes"
+              "title": "Θεσσαλονίκη-Ουτρέχτη-πλάνο"
             }
           },
           {
-            "id": "1957fbe3e25536a4",
+            "id": "e64e80e7ee9f56b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Resources/Code/Database/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,61 +106,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MongoDB Replica Set Container-MongoDB Replica Set Container"
-            }
-          },
-          {
-            "id": "ab686bb2d80e303b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Intelligen/Completed issues/Production export.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Production export"
-            }
-          },
-          {
-            "id": "40ca89964dd8f175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Intelligen-Backlog"
+              "title": "St. Polten"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqlserver backup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -217,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 331.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -226,7 +176,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 38.372093023255815,
+        "dimension": 36.143410852713174,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -234,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intelligen-Backlog"
+              "title": "Backlinks for St. Polten"
             }
           },
           {
@@ -253,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intelligen-Backlog"
+              "title": "Outgoing links from St. Polten"
             }
           },
           {
@@ -318,7 +268,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 19.379844961240313,
+        "dimension": 33.43023255813954,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -326,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intelligen-Backlog"
+              "title": "Outline of St. Polten"
             }
           }
         ]
@@ -340,7 +290,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 42.248062015503876,
+        "dimension": 30.426356589147286,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -368,7 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,53 +336,53 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "40ca89964dd8f175",
+  "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
-    "Notes/Intelligen/Completed issues/Production export.md",
-    "Notes/Intelligen/assets/Completed issues/Production export/Production export-20260220 2.png",
-    "Notes/Intelligen/assets/Completed issues/Production export/image-2.png",
-    "Notes/Intelligen/assets/Completed issues/Production export/image-1.png",
-    "Notes/Intelligen/assets/Completed issues/Production export/Production export-20260220 1.png",
-    "Notes/Intelligen/assets/Completed issues/Production export/Production export-20260220.png",
-    "Notes/Intelligen/assets/Completed issues/Production export/image.png",
-    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
-    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Νις.md",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/St. Polten-20260222.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image-3.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image-2.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image-1.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg/Wurtzburg-20260222.pdf",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged/Szeged-20260222.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged/image.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Πίνακας Κόστους Πλήρους Ταξιδιού.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Google account.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Διόδια.md",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Νις/Νις-20260221.pdf",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Νις",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις",
+    "Notes/Home/Ταξίδι/Untitled.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Checklist – Τι Έχω Μέσα Στο Πορτμπαγκάζ.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
+    "Current/2026-scratch-pad.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
+    "Current/assets/2026-scratch-pad/2026-scratch-pad-20260221.png",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/assets/Untitled/image.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled/Untitled-20260221.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες",
+    "Notes/Home/Ταξίδι/Διαβατήριο.md",
     "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
     "Notes/Intelligen/Current issues/DocumentDB test.md",
     "Notes/Resources/Code/Docker notes.md",
-    "Notes/Resources/assets/Code/Docker notes",
-    "Notes/Intelligen/assets/Current issues/DocumentDB test/DocumentDB test-20260220 1.png",
-    "Notes/Intelligen/assets/Current issues/DocumentDB test/DocumentDB test-20260220.png",
-    "Notes/Intelligen/assets/Current issues/DocumentDB test/image-3.png",
-    "Notes/Intelligen/assets/Current issues/DocumentDB test/image-2.png",
-    "Current/2026-scratch-pad.md",
-    "Notes/Resources/Code/Database/MongoDB Replica Set Container-MongoDB Replica Set Container.md",
-    "Notes/Intelligen/assets/Current issues/DocumentDB test",
+    "Notes/Resources/Code/Database/MongoDB Replica Set Container.md",
+    "Notes/Intelligen/Completed issues/Production export.md",
+    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
+    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
     "Notes/Intelligen/Completed issues/507-Examples-from-json-files.md",
     "Notes/Intelligen/Completed issues/405-Resource-ordering-and-visibility.md",
     "Notes/Intelligen/Completed issues/408-Eoc-filters-in-production.md",
-    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/478 Get OperationEntries for reporting.md",
-    "Notes/Intelligen/Completed issues/345-Production-database-global-session.md",
-    "Notes/Resources/Code/Effective Aggregate Design.md",
-    "Notes/Home/Αλέξανδρος/Οδηγίες.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Google account.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
-    "Notes/Home/Ταξίδι/Αρχικό/26-4 Βελιγράδι.md",
-    "Notes/Home/Ταξίδι/Αρχικό/16-5 Βελιγράδι.md",
-    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα.md",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα/Ερωπαϊκή κάρτα ασφάλισης Μάδγα-20260219 1.pdf",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα/Ερωπαϊκή κάρτα ασφάλισης Μάδγα-20260219.pdf",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα",
-    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης.md",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης-20260219.pdf",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης-20260219 1.pdf",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης-20260219 2.pdf",
-    "Notes/Home/assets/Υγεία/Ερωπαϊκή κάρτα ασφάλισης",
-    "Notes/Auth/Current/Accelup requests.md",
-    "Current/Organize obsidian.md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
