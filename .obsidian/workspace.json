@@ -86,12 +86,12 @@
             }
           },
           {
-            "id": "e64e80e7ee9f56b4",
+            "id": "28e9cd9d544e5676",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "St. Polten"
+              "title": "Κρατήσεις-συγκεντρωτικό"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for St. Polten"
+              "title": "Backlinks for Κρατήσεις-συγκεντρωτικό"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from St. Polten"
+              "title": "Outgoing links from Κρατήσεις-συγκεντρωτικό"
             }
           },
           {
@@ -268,7 +268,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 33.43023255813954,
+        "dimension": 22.38372093023256,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -276,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
+                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of St. Polten"
+              "title": "Outline of Κρατήσεις-συγκεντρωτικό"
             }
           }
         ]
@@ -290,7 +290,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 30.426356589147286,
+        "dimension": 41.47286821705426,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -336,42 +336,43 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "28e9cd9d544e5676",
   "lastOpenFiles": [
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Νις.md",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/St. Polten-20260222.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image-3.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image-2.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image-1.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten/image.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg/Wurtzburg-20260222.pdf",
+    "Current/2026-scratch-pad.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Nis.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Κρατήσεις-συγκεντρωτικό.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurzburg.md",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurzburg",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Nis",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Νις",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurtzburg",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged.md",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 2.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 3.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 4.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 1.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurzburg/Wurzburg-20260222.pdf",
     "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged/Szeged-20260222.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged/image.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged/Szeged-20260222.png",
+    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged/Szeged-20260222 1.png",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Πίνακας Κόστους Πλήρους Ταξιδιού.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Google account.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Διόδια.md",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Νις/Νις-20260221.pdf",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Νις",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις",
     "Notes/Home/Ταξίδι/Untitled.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Checklist – Τι Έχω Μέσα Στο Πορτμπαγκάζ.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
-    "Current/2026-scratch-pad.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
     "Current/assets/2026-scratch-pad/2026-scratch-pad-20260221.png",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/assets/Untitled/image.png",
     "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled/Untitled-20260221.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες",
     "Notes/Home/Ταξίδι/Διαβατήριο.md",
     "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
     "Notes/Intelligen/Current issues/DocumentDB test.md",
@@ -382,7 +383,6 @@
     "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
     "Notes/Intelligen/Completed issues/507-Examples-from-json-files.md",
     "Notes/Intelligen/Completed issues/405-Resource-ordering-and-visibility.md",
-    "Notes/Intelligen/Completed issues/408-Eoc-filters-in-production.md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"
