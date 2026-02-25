@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "29d5755080f9b6da",
+            "id": "990aee9592922eb4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,61 +56,11 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "ToDo list for traveling"
-            }
-          },
-          {
-            "id": "bf4368bd464bc504",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Θεσσαλονίκη-Ουτρέχτη-πλάνο"
-            }
-          },
-          {
-            "id": "28e9cd9d544e5676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Κρατήσεις-συγκεντρωτικό"
+              "title": "Intelligen-Backlog"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#documentation/intelligen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -167,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 406.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -184,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Κρατήσεις-συγκεντρωτικό"
+              "title": "Backlinks for Intelligen-Backlog"
             }
           },
           {
@@ -203,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Κρατήσεις-συγκεντρωτικό"
+              "title": "Outgoing links from Intelligen-Backlog"
             }
           },
           {
@@ -246,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Current/Drawing 2026-02-18 10.58.06.excalidraw.md"
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Drawing 2026-02-18 10.58.06.excalidraw"
+              "title": "File properties for Intelligen-Backlog"
             }
           },
           {
@@ -262,13 +212,12 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 22.38372093023256,
+        "dimension": 22.383720930232563,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -276,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Κρατήσεις-συγκεντρωτικό"
+              "title": "Outline of Intelligen-Backlog"
             }
           }
         ]
@@ -336,53 +285,54 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "28e9cd9d544e5676",
+  "active": "990aee9592922eb4",
   "lastOpenFiles": [
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
-    "Current/2026-scratch-pad.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Nis.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Κρατήσεις-συγκεντρωτικό.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurzburg.md",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurzburg",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Nis",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Νις",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurtzburg",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged.md",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 2.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 3.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 4.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/St. Polten/St. Polten-20260222 1.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Wurzburg/Wurzburg-20260222.pdf",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurtzburg",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged/Szeged-20260222.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις-συγκεντρωτικό/Szeged/Szeged-20260222 1.png",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Πίνακας Κόστους Πλήρους Ταξιδιού.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Google account.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Διόδια.md",
-    "Notes/Home/Ταξίδι/Untitled.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Checklist – Τι Έχω Μέσα Στο Πορτμπαγκάζ.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
-    "Current/assets/2026-scratch-pad/2026-scratch-pad-20260221.png",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/assets/Untitled/image.png",
-    "Notes/Home/assets/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Untitled/Untitled-20260221.png",
-    "Notes/Home/Ταξίδι/Διαβατήριο.md",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772028170729.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-8.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-7.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-6.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-5.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-4.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-3.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-2.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-1.png",
     "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+    "Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production.md",
+    "Notes/Intelligen/Documentation/Generic/Notes.md",
+    "System/Tools/CategoryAdd.prompt.md",
+    "Notes/Intelligen/Current issues/assets/Intelligen-Backlog",
+    "Notes/Intelligen/Current issues/assets",
     "Notes/Intelligen/Current issues/DocumentDB test.md",
-    "Notes/Resources/Code/Docker notes.md",
-    "Notes/Resources/Code/Database/MongoDB Replica Set Container.md",
-    "Notes/Intelligen/Completed issues/Production export.md",
-    "Notes/Intelligen/Keycloak/Completed issues/478 Get OperationEntries for reporting/Instructions - Add keycloak client from realm settings.md",
-    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
-    "Notes/Intelligen/Completed issues/507-Examples-from-json-files.md",
-    "Notes/Intelligen/Completed issues/405-Resource-ordering-and-visibility.md",
+    "Notes/Intelligen/Documentation/Filters/Notes.md",
+    "Notes/Intelligen/Documentation/Registration flow.md",
+    "Notes/Intelligen/Documentation/Registration/Registration flow.md",
+    "Notes/Intelligen/Current issues/535-Scheduling-Horizon.md",
+    "Current/2026-scratch-pad.md",
+    "Notes/Auth/Current Issues/Backlog.md",
+    "Notes/Auth/Projects/Panel Management/Notes.md",
+    "Notes/Auth/Current Issues/Current.md",
+    "Notes/Auth/Current Issues/https--en.wikipedia.org-wiki-Restful_Objects.md",
+    "Notes/Auth/assets/Current Issues/Accelup requests",
+    "Notes/Auth/assets/Current Issues/https--en.wikipedia.org-wiki-Restful_Objects",
+    "Notes/Auth/assets/Current Issues",
+    "Notes/Auth/Current Issues/Accelup requests.md",
+    "Notes/Auth/Completed issues/RAI-286-Implement blockchain registration for experiment results.md",
+    "Notes/Auth/Completed issues",
+    "Notes/Auth/Projects/Vitalise/Notes.md",
+    "Notes/Auth/Projects/Vitalise/Install Docker Compose  Docker Documentation.md",
+    "Notes/Auth/Projects/RAISE/RAISE Notes.md",
+    "Notes/Auth/Projects/Panel Management/Infrastructure info.md",
+    "Notes/Auth/Projects/e-Consent/Todos.md",
+    "Notes/Auth/Projects/e-Consent/eIDAS compliance checklist.md",
+    "Notes/Auth/Projects/e-Consent/Document sign.md",
+    "Notes/Auth/assets/Projects/RAISE/RAI PID NOTES/RAI resolver",
+    "Notes/Auth/assets/Projects/RAISE/RAI PID NOTES/RAID",
+    "Notes/Auth/assets/Projects/RAISE/RAI PID NOTES/RAI PID NOTES",
+    "Notes/Auth/assets/Projects/RAISE/RAI PID NOTES/FC4EOSC Deliverable3.3",
+    "Notes/Auth/Projects/RAISE/Soton.md",
+    "Notes/Auth/Current/DataAcessRequests. Datasets DaitaAccessReyuests. Datusefs Users- Inzende (Favorite).md",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

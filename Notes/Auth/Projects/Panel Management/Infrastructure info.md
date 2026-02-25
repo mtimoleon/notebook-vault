@@ -24,4 +24,3 @@ tags: []
   
 Ta enums να τα βάλουμε στη βάση με seeding χωρίς FK και στο μέλλον γράφουμε crud για τον admin.
 
-![[Infrastructure info-20260217.svg]]

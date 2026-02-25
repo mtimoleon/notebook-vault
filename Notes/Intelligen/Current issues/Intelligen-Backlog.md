@@ -9,37 +9,41 @@ status: backlog
 product: ScpCloud
 ---
 
+### 25/2/2026
 
-
-- [ ] See how to delete csv file from postman cloud
-- [ ] Check this error 
-      ```
-      Examples/Tutorial 9/Create->Update Scheduling Horizon set start time now and save -> Select yes in modal ->  Unable to save changes because a circular dependency was detected in the data to be saved: 'ProcedureEntry { 'Id': 4377 } [Deleted] ForeignKeyConstraint { 'MainEquipmentCompatibilityProcedureEntryId': 4378 } <- ProcedureEntry { 'Id': 4378 } [Deleted] ForeignKeyConstraint { 'MainEquipmentCompatibilityProcedureEntryId': 4377 } <- ProcedureEntry { 'Id': 4377 } [Deleted]'.```
+- [ ] 
+- [ ] To be able to change the labor rate or amount in place
+      ![[intelligen-Backlog-image-8.png|538x315]]
+- [ ] Require attention code in some cases according to setting
+      ![[intelligen-Backlog-image-6.png|481x357]]
+- [ ] Find a way to display the original start only from the first sync
+      ![[intelligen-Backlog-image-5.png|409x301]]
+- [ ] [ ] Labor chart in production
+      Include in the tracking update, the OperationEntry labor resources
+      ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-1.png|423x349]]
       
-      Κάτι φαίνεται να μην καθαρίζουμε στα internal references... ή μάλλον, θέλει SaveCircularData κάτι τέτοιο
+      ![[intelligen-Backlog-image-1.png|423x349]]
+      ![[intelligen-Backlog-image-3.png|472x411]]
+      Moving chart of resources to production
+      We need to add resource info when sending batches to production
+- [ ] Sync, update most of operations but some of them may be not confirmed and the if they are in the past they stay unspecified
+      Give the opportunity to mark an entire batch as completed or set the batch state which will check current time and operations start and then mark them appropriately as completed, started, upcoming
+- [ ] Recalculate labor person hours when the duration of an operation entry changes
+- [ ] Maybe allow operation entry consumables edit when schedule is sent in production
+- [ ] Bug where Recipe lost from Campaign in scheduling board home view. Look at the query cache for problems.
+      When we read the sb we probably do not read the recipe and write it into the cache.
+      Check the changes in master
+- [ ] Home view of scheduling board
+      Recipe change and probably show schedule info (which recipe, how many batches scheduled)
+
+### Older
+
+- [x] [[535-Scheduling-Horizon]] 
 - [ ] Update the tool tip
-      ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png]]
+      ![[Intelligen-Backlog-1772028170729.png]]
 - [ ] Test locally DocumentDB in place of Mongo
 - [ ] Backup MongoDB on Azure shared volume
 - [ ] Zoom στο browser και εμφάνιση εφαρμογής σε laptops της Hovione
-- [x] Library to have a scroll to date functionality on demand  
-- [x] Scroll to follow current time: instead of moving current time line, scroll the chart  
-- [x] if soy edose current time kai einai mesa sto display kai einai entos min/max orion to chart time kai einai to proto render ki egine to layout tote pigenai to scrolling 
-      sto current time,
-      na mpei ena bool prop display current time
-	- Update gantt library  
-	- Update initial scroll position calculation by first using prop `scrollLeft`.  
-		If scrollLeft is null we use prop `timelineTime`.  
-		If timelineTime is null we set effective scroll to 0.  
-	- Separate the display of current time by using a dedicated prop `showTimeline` instead of checking if prop `timelineTime` is null.  
-	- Set PlanningEocChart to use stored scrollLeft for chart initial scroll.  
-	- Set PlanningEocChart to use separate prop for timelineTime and showTimelinet.  
-	- Set TrackingEocChart to use stored scrollLeft for chart initial scroll.  
-	- Set TrackingEocChart to use separate prop for timelineTime and showTimelinet.  
-	- Set production EocChart to use timelineTime for chart initial scrll.  
-	- Update planning TrackingEocChart to have similar behaviour with PlanningEocChart
-	- ![Exported image](Intelligen-Backlog-20260218.png)
-
 - [ ] Export csv for production operations all columns with the other filters (==Zlate==)  
 - [ ] (==Zlate==) Create CRUD infrastructure for 
       RecipeClassification -\> RecipeAttribute
@@ -60,10 +64,6 @@ product: ScpCloud
 ![Exported image](Intelligen-Backlog-20260218%203.png)
  - [ ] Operation entry side panel new tab, like identification, that contains attention codes and comments
    
-
-- [x] Revisit admin registration server, ExcludeFromInterceptor logic. Why do we do the transaction inside server method and then exclude it from the interceptor? Because we want to hanlde transaction and do toher things after.
- 
-- [x] Check tests in Master
  
 - [ ] 502 Fix order bug ==Zlate==
 

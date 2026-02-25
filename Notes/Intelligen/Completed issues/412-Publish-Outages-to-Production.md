@@ -32,9 +32,9 @@ GetSchedulingBoardEocDataTrackingAsync_OverlappingVersions_IncludesOutagesFromEa
 
 GetSchedulingBoardEocDataTrackingAsync_OverlappingWithLongRange_IncludesOutagesFromEachVersionAndOverlapping
 
-![[image-7.png]]
+![[Notes/Intelligen/assets/Completed issues/412-Publish-Outages-to-Production/image-8.png]]
 
-![[image-8.png]]
+![[Notes/Intelligen/assets/Completed issues/412-Publish-Outages-to-Production/image-7.png]]]]
 
 
 

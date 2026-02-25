@@ -28,7 +28,7 @@
       "conflictResolution": "increment"
     }
   ],
-  "selectedFilenamePreset": "Keep original name",
+  "selectedFilenamePreset": "NoteName-Timestamp",
   "outputFormat": "NONE",
   "quality": 100,
   "colorDepth": 1,
@@ -215,7 +215,7 @@
         "height": 200
       }
     ],
-    "selectedResizePreset": "Fit Editor"
+    "selectedResizePreset": "Default (No Resize)"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -226,7 +226,7 @@
     "outputFormat": "PNG",
     "quality": 100,
     "colorDepth": 1,
-    "resizeMode": "None",
+    "resizeMode": "ShortestEdge",
     "desiredWidth": 800,
     "desiredHeight": 600,
     "desiredLongestEdge": 1000,
@@ -325,13 +325,13 @@
     ]
   },
   "isImageAlignmentEnabled": true,
-  "imageAlignmentDefaultAlignment": "none",
+  "imageAlignmentDefaultAlignment": "left",
   "imageAlignmentCacheCleanupInterval": 0,
   "imageAlignmentCacheLocation": "config",
   "isDragResizeEnabled": true,
   "isScrollResizeEnabled": true,
-  "isDragAspectRatioLocked": false,
-  "isResizeInReadingModeEnabled": false,
+  "isDragAspectRatioLocked": true,
+  "isResizeInReadingModeEnabled": true,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",
   "isImageResizeEnbaled": true,

@@ -1,3 +1,4 @@
+[email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQfBstHtWgmCfpGlSrNCxTGSplh)
 
 ![[St. Polten-20260222.png]]
 
@@ -14,4 +15,3 @@ Mühlweg 8, 3100 St. Pölten, Austria 3100 Saint Pölten
 Αριθμός επιβεβαίωσης
 HMWSXY92BT
 ​
-[[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQfBstHtWgmCfpGlSrNCxTGSplh]]

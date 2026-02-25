@@ -1,18 +1,4 @@
 {
-  "Notes/Intelligen/Completed issues/412-Publish-Outages-to-Production.md": {
-    "7158f0acf9881b87edad13ddd66f711a": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "1d1ba19ec27f227df6ef314bf791eccc": {
-      "position": "center",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "Notes/Intelligen/Completed issues/448-Add-multiple-staff-functionality-to-operations.md": {
     "2150e10c009f23fcfc5fc5c1f2109ffb": {
       "position": "left",
@@ -101,6 +87,508 @@
       "wrap": false
     },
     "9c23331dd3cd6374a73d47d79bf44e7f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-20260218 1.png": {
+    "d7a7aab46974f0db4248a3019b58f1f1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "400677d113639922dcbdc8cc8a28dc20": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "88da639f0d0be18c8f96fe1e0377f8b1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d9942c0ed584b191482f1f6bd670713a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4361f23b6b39bc725020c272e63c1c31": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1cb42c838af25525b303b62e847b451f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-20260218 2.png": {
+    "1b8a0e03e992043331debd3a6c99bc83": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6f357d0795aa836514046c7ad6c0f6ea": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e46de47d1fc22daa9672d68b1ed7b91c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1d26689e961ad8b8b82c4437d8c78f00": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2211f6c83d5abd4d4e2b4906250ed4d7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-20260218 3.png": {
+    "81712ef3514cc9b3aa88ca004a673f5b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "045bd2e390728c807d699558929354ce": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9c89bada9b378fc9eae76a40e0b27377": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dcf1f0348fd91b55e7bfff539e83ddca": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a344025c9f48b5957b8ca58328aad4c8": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "114988d72897acb6a6daf0bd88bc3f38": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-20260218 4.png": {
+    "c7487b69f400274d81b471af77587a16": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1ac0b1039efc93021083dc2c36a2342f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cb06153d48e64e244f87b751fd417510": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "26b0288be813d992c6775dd5d0009463": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "509fcf556c83a12ec253465f57ded352": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "39a239eab979d1dd0d414bffbf0a2450": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image.png": {
+    "3b374bca9c5f2528e2b08fc0e436c220": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "34b6e4e93e1e792c582d28cd72dca5bb": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "547fd2e7af277d22028c1c3492c7a944": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "359ae28e92cb251a1adea1a0ec5bc365": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b7a10ba39bfa4ecdc3e971790f7bb237": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-1.png": {
+    "e044a0b4dad4ac33bd38960ab150fe1f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9a767a87e70804c1ae94f3b2ca466326": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "df8c1e70658e7b391be0f1cfca481889": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "44a1f18e1032f4618b2082859b174bf8": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fe251debce6eb27dfbdfda99be95b9e1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-2.png": {
+    "d931f4e0945a015e3c5d42194e891adc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "bb864f88104de1df375340403a87aa75": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "355a54341ab79d6f681d404482c9cb4d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ee0509ac33cf9b1734e4cabb5e9e2ee1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "df440b6b833c33c11dc2883ab4ec11f0": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c839b8e863e9dbcea9c7d53e90d57071": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-3.png": {
+    "c7c599978fe451505f285a8c5ae9c036": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "446d466c2464c368e9a17d2522b0e84e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "44b971bbea6d63425758ff5b444fd705": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b431c7944cc056ace411e6899dfe7a93": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ad87a6b3fc76d96acd469c27186b01b2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9cacdfedd958e7fff39ef817f0cc0516": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-4.png": {
+    "fa8e14763286fccc123099fb9c4e19d9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "48a9ddbaf5957d23a609abdc7ce1f6bc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ed2cfd16d5593c4ca95cb326998a7636": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d543dc09cb63f94e46e722e561d5d39b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5b5b61e0067caadcde66210d4c70813c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a990d4e9964284231ff2c5111f840cb4": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-5.png": {
+    "560dd50559a2e6250a530fd379b6b55e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "517e39d87287fdeffaf586dc4dd83cb9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9daba5195d00e4475d8321abd29c90b2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a73040ea5108796b6ef0cd9468538ab6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f3ee0cd896126560d1e85a358a8acf06": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-6.png": {
+    "03b545ef35bf5ffd72f58984eb28521d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "61603e2a3625ff01801856a7e379fd34": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0096461a1b72188aa1916a97c87a3f49": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "65090fe3ee7e617ad106216e32b8b2cf": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "73cb0601929fcd4f82b96deccd93c57d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6f238c87a9b5a26cd4f1bcf7fd457f45": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-7.png": {
+    "09e620b994edee0b1e2f8df2b2985e9e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e350976e5781474aa8cf2636c9490bb1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "042fc2fd3f3a41f8399e9989a8a914e2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "69eee513039a6f1a03e1d8cad13abaa7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a50f491c418791e61c79599895bc1062": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "89f11c0980f5e219afc4c6f5c68b5f41": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-8.png": {
+    "bdcfe24aab0dc50a0df355e27ad3cd47": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9871eea948b3d224307a47e18e88009d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8027121ca4b0fc60b66e382e2d71d306": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "840ce52c075d6ed9b843f20a784630d6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "216a16c300cd2029e6c92f971154fe9c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dfa57a5bbeae793cc95c956707e38fbc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Current issues/Intelligen-Backlog.md": {
+    "16b600ed8fad8a701a40d585659f90ad": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5dce564724ae99047f657b764b54aa9b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5448721528906830aefae29a5045edb7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "df5dc25f77cc5a3865d958b9bb76dd33": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "365b28a6dd861a48f47d9b9ce89648ad": {
       "position": "left",
       "width": "",
       "height": "",

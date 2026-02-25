@@ -10,5 +10,7 @@
   "backlink-cache",
   "obsidian-custom-attachment-location",
   "janitor",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "image-converter",
+  "paste-reformatter"
 ]
