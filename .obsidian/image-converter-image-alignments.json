@@ -593,6 +593,870 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "eeeba82ae5fecdc6ed4efb178f35e81c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9caf9b4bdeb2d8f5cfc06c107ca66c20": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "273697fb50fa0f798622a067a309b1cf": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "05758c632086f1c3d869008a00e4ac1d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Current/Drawing 2026-02-16 22.29.48.excalidraw.md": {
+    "c3caa63cca030d49ae8e75efd8c58383": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f5c0827984429e11c33e25c26b889f78": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "89a52d6b1cf7bcd5ac3184792dca28ac": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c25ce30f7ed1dee01d1c3c52bb62c350": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Current/Organize obsidian.md": {
+    "88a365cff496bf9827656093ab45fd55": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "25ffeabe49683be3d6cbd9215af57b5b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cc1dd6b432b0fde13611cf093d4a0aa5": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "935807630cd51ddf3287393403f09432": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Auth/Current Issues/Current.md": {
+    "29c66044a7a9998907aa6765e620a375": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "afd456e2b5aa2d0d5cf4448e89e99c51": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b39679278604d92269f2ea159afb7346": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5ccbfc4317750a98a07c6cbcab89de24": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "82838c1ba42f411b928fd15dc551f5c9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Auth/Current Issues/Backlog.md": {
+    "6455c89f69528f51baae192bf9159f3b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "18bd1955cac83d47ba95d553db925f43": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9ab5803635855a83107696ac08d15184": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "19f8347021eba33c1c8bcf10e0a090c3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Discussions/Dates handling.md": {
+    "439ed2605216e62c6ced44b6e0f9b0ed": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Documentation/Generic/Notes.md": {
+    "334117b26fa2c00b4a0f31d3341d2ecd": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Documentation/Generic/User Handling and Workspace Creation Documentation.md": {
+    "52bc3b21e52b82413cc33bddff41b4b2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Completed issues/MongoDb-backup-in-container.md": {
+    "319aa11e58a985cb44daf009f9baf25d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e5ecb6be6852f221e87e69feb49994ae": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d0d9d36ee6d722b12c131d1a2c3ec1aa": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "87492e099aba54d4385b0d15fcc58bdc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Completed issues/535-Scheduling-Horizon.md": {
+    "82634069e5f00c6a1b5f1e493e40d50a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a576f01f122065e6abc23aae4fbdb471": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9616d79f4df606dc7eb992efa7a897f9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "988d71fabebf99537d1e8b6717a578f0": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md": {
+    "ee86d1666ebef35633796315c411cf91": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "56d34f21cdad639e6124a75e32722545": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d2e941ff7e50cf227aa4cab86a37b620": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6328dcc00297b72b0549443b96897ef3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2a95b53dc31467d8df2bd398040fb39c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Resources/Code/Docker notes.md": {
+    "d7d4a6ca963d18c690a13189fb55f626": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "475385a444eeb94cc04cb0f0be70343e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ec9dfd27cbba3123a98cb1342cf2e343": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fb0d1db47dd18dadd13f39258565eb5c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0cb4b23088ecf6acd2bdd513b15e792f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Auth/Projects/Vitalise/Install Docker Compose  Docker Documentation.md": {
+    "4888992635fbe41ad585e7fd263f110a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "38e57d096aa5d7fd49d14b757fbd6417": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d230a53bf297ddd2f3f0e63e7051d70a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f6481fa04d211e81003d48a0c84972d3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9ddca4ce39e4ad9c803e5c756443c1eb": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "00d3672cc398bb05e892294bdc8a0da9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "973cad5f6f27a3c0d4f5325a1e04e39e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0eed11e1533de715b07c19e346ab0dd8": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md": {
+    "0af3f2f7adff53ecee9ee46bd6689139": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0a1c6e2d64079a62cbf97bbbff9a0519": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "604612715f0bc4fd05a992d0775d2cb0": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e28a47a56ca80e522cdbf9ecc42cc228": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e0c71fd9d2f0d3969265f05f0a682dfe": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "742ad0930a7a096fc7aff3d0fd45dab2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0292ce31fa20cbb9859870b30e561f3b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5eecc92952c8febf6e712c3823ba0d5a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Current issues/Intelligen-Notes.md": {
+    "195867b730b97993ff7672ddd3481f14": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "7894e7b2229fe8f1bd3a28779862fefd": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0abb4458665bf647206b7b6999ec16d3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "96378906030bb3ff4a5af96e7092e0a6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "01d8114e7f8d2786589d8ce212bf8dfa": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Auth/Projects/RAISE/RAI PID NOTES/6-2 Meet.md": {
+    "75272ab01562a074131463d19020043e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9a403b32a80c3bdc1e5ad3e41a3bf129": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2c4f29b14b4060d638039ffd79c918af": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "03585ca946a6bb6cad318bbd9e352b8b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fc32394daba81c99189fa47c1eb7daee": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Categories/Documentation.md": {
+    "4289b7751bb575ebbb6732dd2daf9b7d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "924dd6a6f9d4cffcc2f7303bc0484e71": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6f32a4df60c6dd02b6a645068f160b4e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8b9221e311da8b334a5318aeb966b06d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0278a30786c63cf48647d8a9d14f032b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Gantt/Gantt-Backlog.md": {
+    "fb4d8b76a953d5bcd02726a38a01412a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2b454acfba4a9950a10c0faa256a2bf6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "60c960331d6471d5d1d1fabf6f048c04": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "235aa7d06de71147d0dfc4a253adee73": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "333e8e02e5eb20fd1cd0550849d470e1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "1efb2c6c1107a4fc89f08a551e354c51": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e43d116c71e894a38bfc2ffab7a45f85": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Categories/Intelligen Issues.md": {
+    "370f28a6dc3be48e7093d1675b1d8958": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8c30942846b0e7dcd4f91266e8e7ba82": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "31cffd6ec43d6a027d18355b26c50f85": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c7aed030870b6e8695bdf15c1359c3d7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "edd8db326394d522289198bfd4ec35d2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "913ea0c1c5ae61c0a1b8f4261c78252c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "25efc06aba1cb9e92b04685efc2f9e27": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Categories/Interests.md": {
+    "75f45dc142ccf5fed14c1283f39eeb96": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a6b2178e859c20497452268661d1a4c6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d0f4aeb7bbc1d8000725960e5c28799a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2fae25050b7078d8f8cd01d17fee689a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2d2ac02e223d2ed5d53f7c2bc735937c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Categories/Home.md": {
+    "e94a266b915b0fb32e9072b9e5c53a62": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cf17d9374f5f6e4d380562bcdeada123": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "95a19a90d70b42df624bce82b7d26706": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ad2db69cc6277e538897cb9346f00153": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "02e7fc2233bd5901b298fb3f28ddc881": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Categories/Resources.md": {
+    "3fb106347b51b0ff4b1a8add2248fa2c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "eadfc1e420c31204b2118a4f54de79f6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ecab4c8d3c838510020564c5502caeb1": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d999de62424060b7cd5e8ebbfb092b9a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b02418b19f6f795db069e7c21d05136f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Categories/Work.md": {
+    "3682406b09232a58593361dfefa293b8": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fa4b2012cd0a708f6ca949e3a897e8c6": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "72560dc4234363e293cf6de1d3cc9144": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0795299ec624e61a2cdf1c1a2d34f5f2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "813d68009c7dca715c606f51a4490706": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Gantt/Documentation/Scrolling flow.md": {
+    "1d4774613f81b74ffe9ed4bb9b0a8a95": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e196df5ed34a546e08c7614552e0fc76": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c8e8900b0082cb75733caf0b4ae1cb9e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8ebdb06d4a5b837cf4cf5f81a9eac3a5": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "eaf658da8e46545cfcf2d5adc8aee5de": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Excalidraw/Scripts/Downloaded/Set Grid.svg": {
+    "bb68aa53264a40d2b4ba8e2ac949c118": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "767d01160a1749252cf673d5a8018726": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a4bd03dfece76f08f885bd7122f615fd": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "542d25a46a640a2ab8d3f2b6366664c0": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "234f990eea0aceedefbbc12c2a4b1e8c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "b56b5b8fb7bf3e42a3e5dfc6a4013703": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg": {
+    "8e427bb3bb0e43d3f4268948437d2555": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "de44fd8cf9fd5b08e2cd63c966f617a7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e35ade6537daa30bb2f819e036703d14": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ffe2b5b8857dfc31e216662141182f0a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9d4d8bbaa5c08d5b6242c3a5c4ccf60c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "beb6590b0acb3052f0340022727d7eac": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Current/2026-scratch-pad.md": {
+    "f6a501800d90f215e8f25232c5797c94": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "47b73f7eaa8baf902c4fce3dfbcbc2fc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8388d9519bf545a4dd1cb51013fc50ff": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ad1f5db974dbaaaabddf524b90209975": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "408ae06e13b7361e5d1bd278041ffcf7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Επιχείρηση/Τιμολόγηση.md": {
+    "c296d30e438a3c1326653e74d58cefb0": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "aa3fba60b841820c9c1826b3d996ee1a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e4d130d0bc338f49aadf41bf6bd62219": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f3831c943dd2aeb59595390033ba7efd": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "f7822ce3d476c9cfc99f895509a1c9b3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "357f57ce68f70b72c30c2322a647a4c2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   }
 }

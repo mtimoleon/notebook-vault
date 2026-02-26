@@ -12,5 +12,6 @@
   "janitor",
   "table-editor-obsidian",
   "image-converter",
-  "paste-reformatter"
+  "paste-reformatter",
+  "url-into-selection"
 ]

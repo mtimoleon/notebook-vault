@@ -4,7 +4,7 @@ categories:
 created: 2026-01-09
 product:
   - ScpCloud
-component: []
+component:
 tags:
   - documentation/intelligen
 ---

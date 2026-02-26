@@ -6,6 +6,7 @@ product:
 component:
 tags: []
 ---
+[RAISE DMP deliverable](https://aristotleuniversity.sharepoint.com/:w:/s/RAISESuite/IQDZj4A2Uir5R4dhFD49Y9aUActhVbp7UVZqZCl8iOYSP-4?rtime=7tSQlq103kg)
 
 [https://assos-auth.atlassian.net/browse/RAI-199](https://assos-auth.atlassian.net/browse/RAI-199)  
 Show refresh button when frontend is updated

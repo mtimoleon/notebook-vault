@@ -5,6 +5,9 @@ filters:
 views:
   - type: table
     name: Table
+    groupBy:
+      property: component
+      direction: ASC
     order:
       - file.name
       - product

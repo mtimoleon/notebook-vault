@@ -3,7 +3,7 @@ categories:
   - "[[Work]]"
 created: 2025-12-08
 product: Gantt
-component: []
+component:
 tags:
   - documentation/intelligen/gantt
 ---

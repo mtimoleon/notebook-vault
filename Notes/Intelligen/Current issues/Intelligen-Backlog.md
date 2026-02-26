@@ -42,7 +42,8 @@ product: ScpCloud
 - [ ] Update the tool tip
       ![[Intelligen-Backlog-1772028170729.png]]
 - [ ] Test locally DocumentDB in place of Mongo
-- [ ] Backup MongoDB on Azure shared volume
+- [x] Backup MongoDB on Azure shared volume
+      Will not do, we will go with managed service and documentDB
 - [ ] Zoom στο browser και εμφάνιση εφαρμογής σε laptops της Hovione
 - [ ] Export csv for production operations all columns with the other filters (==Zlate==)  
 - [ ] (==Zlate==) Create CRUD infrastructure for 
@@ -103,7 +104,7 @@ product: ScpCloud
 - [ ] 192.168.56.1 host.docker.internal
 	192.168.56.1 gateway.docker.internal
 	127.0.0.1    kubernetes.docker.internal
-- [ ] Να βάλουμε σύντομα το renaming στο πρόγραμμα.
+- [x] Να βάλουμε σύντομα το renaming στο πρόγραμμα.
 	Έχουμε τις παρακάτω περιπτώσεις
 	 - Sync from planning to production
 	 - Production dto to serve UI

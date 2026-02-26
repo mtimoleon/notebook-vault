@@ -4,7 +4,7 @@ categories:
 created: 2026-02-17
 product: MongoDB
 component:
-status: open
+status: abandoned
 tags:
   - issues/intelligen
 ---
