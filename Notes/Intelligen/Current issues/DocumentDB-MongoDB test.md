@@ -79,6 +79,30 @@ services:
     restart: unless-stopped
 ```
 
+If `image` is in main compose:
+
+```yaml
+services:
+  documentdb:
+    image: ghcr.io/documentdb/documentdb/documentdb-local:latest
+```
+
+and then inside  override:
+
+```yaml
+services:
+  documentdb:
+    container_name: nosqldata-documentdb
+    ports:
+      - "10260:10260"
+    command: ["--skip-init-data"]
+    environment:
+      - USERNAME=user
+      - PASSWORD=pass
+    volumes:
+      - scp-nosqldata-documentdb:/data
+```
+
 * Εκκίνηση:
 
 ```bash
@@ -289,6 +313,21 @@ MongoDB results:
 
 ![[DocumentDB-MongoDB test-20260226 1.png]]
 
+##### Run sync on big recipe schedule
+
+Recipe used **USP C3P1 2.5d V3** with 1 batch
+All measurements made with cold database.
+
+|                                   | DocumentDB                                | MongoDB                   |
+| --------------------------------- | ----------------------------------------- | ------------------------- |
+| Terminate and delete data         | 5.47s                                     | 4.61s                     |
+| Initiate                          | 1.78s                                     | 568ms                     |
+| Sync all with empty db            | 10.39s                                    | 9.94s                     |
+| Production Eoc fetch/display      | 6.56s (562ms second read)                 | 6.79s (678ms second read) |
+| Production Operations read        | 9.78s (6.44 second read, 6.08 third read) | 3.98s (374 second read)   |
+| Integration-api/operation-entries | 2.94s (838ms second read)                 | 2.83s (656ms second read) |
+|                                   |                                           |                           |
+
 #### Migration με mongodump/mongorestore
 
 1. Dump από MongoDB σε docker container
@@ -300,6 +339,10 @@ docker exec nosqldata mongodump --archive="dump.archive" --gzip
 ```
 
 Αν θέλω σε τοπικό δίσκο έξω από το container:
+
+```
+docker exec nosqldata mongodump  --uri="mongodb://user:pass@nosqldata-documentdb:10260/?tls=true&tlsInsecure=true" --db s-1 --collection archived-batches --archive > D:/archived-batches.dump --gzip
+```
 
 ```
 docker exec nosqldata mongodump --archive > D:/dump.archive --gzip
@@ -316,6 +359,10 @@ docker exec nosqldata mongodump --archive > D:/dump.archive --gzip
   --nsExclude='local.*' \
   < /d/dump.archive
    ```
+
+```
+docker exec -i nosqldata mongorestore --uri="mongodb://localhost:27017/?replicaSet=rs0&directConnection=true" --archive --gzip --drop --nsExclude='admin.*' ='config.*' --nsExclude='local.*'  < /d/archived-batches.dump
+```
    
 2. Restore σε Azure DocumentDB (στόχος)
 

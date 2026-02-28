@@ -11,4 +11,5 @@ created: 2026-02-16
       - Αν ένα note έχει \#issue είναι το ίδιο issue note.
       - Αν έχει \#issue/support είναι supporting material και πρέπει να linkάρει προς ένα συγκεκριμένο issue note (1 link στην κορυφή αρκεί).
 
-![[Drawing 2026-02-16 17.37.03.excalidraw|800]]
+
+![[Drawing 2026-02-16 17.37.03.excalidraw|500]]

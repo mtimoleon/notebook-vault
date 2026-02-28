@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c3c5d4bfa03dce33",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "pinned": true,
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "dd8a8ddfc30db445",
             "type": "leaf",
             "pinned": true,
@@ -58,9 +72,56 @@
               "icon": "lucide-file",
               "title": "Intelligen-Backlog"
             }
+          },
+          {
+            "id": "28fd2d9fc438c219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Categories/Intelligen Issues.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligen Issues"
+            }
+          },
+          {
+            "id": "8dc8c9b27597615a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current/Organize obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Organize obsidian"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#documentation/intelligen",
+                "query": "kloksteeg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 373.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -134,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intelligen-Backlog"
+              "title": "Backlinks"
             }
           },
           {
@@ -213,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "c159d314176b7de8",
@@ -226,13 +286,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intelligen-Backlog"
+              "title": "Outline"
             }
           }
         ]
@@ -286,39 +345,42 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "990aee9592922eb4",
+  "active": "c3c5d4bfa03dce33",
   "lastOpenFiles": [
+    "Current/Organize obsidian.md",
+    "Categories/Intelligen Issues.md",
+    "Current/Drawing 2026-02-16 22.29.48.excalidraw.md",
+    "Current/assets/Organize obsidian/Drawing 2026-02-16 17.37.03.excalidraw.md",
+    "Current/News Digest.md",
+    "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw/Pasted Image 20260228153244_864.png",
+    "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw",
+    "Notes/Home/Games/QUERN.md",
+    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+    "Current/2026-scratch-pad.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Checklist – Τι Έχω Μέσα Στο Πορτμπαγκάζ.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λίστα Ελέγχου – 7 Ημέρες Πριν την Αναχώρηση.md",
+    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurzburg.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Nis.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λίστα Ελέγχου Αυτοκινήτου – Συνεργείο.md",
+    "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772191097275.png",
+    "Notes/Intelligen/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw.md",
+    "Notes/Auth/Current Issues/Current.md",
     "Notes/Home/Επιχείρηση/Τιμολόγηση.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
-    "Categories/Documentation.md",
-    "Notes/Intelligen/Gantt/Documentation/Scrolling flow.md",
-    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
-    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
-    "Categories/Work.md",
-    "Categories/Resources.md",
-    "Categories/Interests.md",
-    "Categories/Home.md",
-    "Categories/Intelligen Issues.md",
-    "Notes/Intelligen/Gantt/Gantt-Backlog.md",
-    "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md",
-    "Notes/Auth/Projects/RAISE/RAI PID NOTES/6-2 Meet.md",
-    "Notes/Auth/Projects/Vitalise/Install Docker Compose  Docker Documentation.md",
-    "Notes/Intelligen/Keycloak/Completed issues/492-Upgrade-Keycloak/Instructions - Upgrade keycloak in production.md",
-    "Notes/Resources/Code/Docker notes.md",
     "Notes/Intelligen/assets/Current issues/DocumentDB-MongoDB test",
     "Notes/Intelligen/assets/Current issues/DocumentDB - MongoDB test",
     "Notes/Intelligen/assets/Current issues/DocumentDB as alternative to MongoDB test",
-    "Notes/Intelligen/Completed issues/535-Scheduling-Horizon.md",
-    "Notes/Intelligen/Completed issues/MongoDb-backup-in-container.md",
-    "Notes/Intelligen/Documentation/Generic/Automapper ignore extension.md",
-    "Notes/Intelligen/Documentation/Generic/User Handling and Workspace Creation Documentation.md",
-    "Notes/Intelligen/Documentation/Generic/Notes.md",
-    "Notes/Intelligen/Discussions/Dates handling.md",
-    "Notes/Auth/Current Issues/Current.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -329,11 +391,8 @@
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-8.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-7.png",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-6.png",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-5.png",
     "Notes/Intelligen/Current issues/assets/Intelligen-Backlog",
     "Notes/Intelligen/Current issues/assets",
-    "Notes/Auth/assets/Current Issues/Accelup requests",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

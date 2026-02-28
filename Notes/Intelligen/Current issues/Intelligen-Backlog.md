@@ -11,7 +11,9 @@ product: ScpCloud
 
 ### 25/2/2026
 
-- [ ] 
+- [ ] Bug in production chart view?
+      The same applies to planning app also.
+      ![[Intelligen-Backlog-1772191097275.png]]
 - [ ] To be able to change the labor rate or amount in place
       ![[intelligen-Backlog-image-8.png|538x315]]
 - [ ] Require attention code in some cases according to setting
