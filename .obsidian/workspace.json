@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "645d4f1d3400fc6c",
+        "id": "f4c38b3f6d3e7d98",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c5d4bfa03dce33",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "pinned": true,
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "dd8a8ddfc30db445",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current/2026-scratch-pad.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-scratch-pad"
-            }
-          },
-          {
-            "id": "990aee9592922eb4",
+            "id": "9c057dcc48b8f868",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -74,12 +34,13 @@
             }
           },
           {
-            "id": "28fd2d9fc438c219",
+            "id": "a59eee681191e61d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Categories/Intelligen Issues.md",
+                "file": "Notes/Intelligen/Current issues/Intelligen-Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,17 +54,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Intelligen Issues"
+              "title": "Intelligen-Notes"
             }
           },
           {
-            "id": "8dc8c9b27597615a",
+            "id": "1e49f94dcd047520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current/Organize obsidian.md",
+                "file": "Clippings/Azure DocumentDB.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,10 +80,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Organize obsidian"
+              "title": "Azure DocumentDB"
+            }
+          },
+          {
+            "id": "2f8ceca565820613",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Azure DocumentDB-20260302"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kloksteeg",
+                "query": "tag:#issues/intelligen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -178,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 318.5
   },
   "right": {
     "id": "ed3f7e0552712392",
@@ -187,7 +162,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 40.69767441860465,
+        "dimension": 41.56976744186047,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -195,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Azure DocumentDB-20260302"
             }
           },
           {
@@ -256,10 +232,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Auth/Current Issues/Current.md"
+                "file": "Clippings/Quickstart - C driver - Azure DocumentDB.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Current"
+              "title": "File properties for Quickstart - C driver - Azure DocumentDB"
             }
           },
           {
@@ -278,7 +254,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 31.007751937984494,
+        "dimension": 25.678294573643413,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -286,12 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Azure DocumentDB-20260302"
             }
           }
         ]
@@ -299,7 +276,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 28.294573643410853,
+        "dimension": 32.751937984496124,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -327,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,8 +322,25 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "c3c5d4bfa03dce33",
+  "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
+    "Clippings/Azure DocumentDB.md",
+    "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf",
+    "Categories/Work.md",
+    "Clippings/assets/Azure DocumentDB",
+    "Clippings/assets",
+    "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md",
+    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
+    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+    "Clippings/Vector Data in .NET - Building Blocks for AI Part 2.md",
+    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας.md",
+    "Clippings",
+    "Notes/Home/assets/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας/Μεταφορά φορολογικής κατοικίας-1772382232000.png",
+    "Notes/Home/assets/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας",
+    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/CLAIM_OTHERCOUNTRIES.pdf.md",
+    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Κάτοικος εξωτερικού.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
+    "Current/2026-scratch-pad.md",
     "Current/Organize obsidian.md",
     "Categories/Intelligen Issues.md",
     "Current/Drawing 2026-02-16 22.29.48.excalidraw.md",
@@ -355,44 +349,26 @@
     "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw/Pasted Image 20260228153244_864.png",
     "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw",
     "Notes/Home/Games/QUERN.md",
-    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
-    "Current/2026-scratch-pad.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Checklist – Τι Έχω Μέσα Στο Πορτμπαγκάζ.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λίστα Ελέγχου – 7 Ημέρες Πριν την Αναχώρηση.md",
-    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurzburg.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Nis.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λίστα Ελέγχου Αυτοκινήτου – Συνεργείο.md",
-    "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772191097275.png",
-    "Notes/Intelligen/assets/Current issues/Undo/Undo-history/Drawing 2026-02-17 13.03.32.excalidraw.md",
-    "Notes/Auth/Current Issues/Current.md",
-    "Notes/Home/Επιχείρηση/Τιμολόγηση.md",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Notes/Intelligen/assets/Current issues/DocumentDB-MongoDB test",
     "Notes/Intelligen/assets/Current issues/DocumentDB - MongoDB test",
     "Notes/Intelligen/assets/Current issues/DocumentDB as alternative to MongoDB test",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Notes/Intelligen/assets/Current issues/DocumentDB migration",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772028170729.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-8.png",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-7.png",
-    "Notes/Intelligen/Current issues/assets/Intelligen-Backlog",
-    "Notes/Intelligen/Current issues/assets",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

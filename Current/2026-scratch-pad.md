@@ -22,5 +22,4 @@ c:\Code\ScpCloud>docker compose - "C:\Code\ScpCloud\docker-compose.yml" - "C:\Co
 
 
 
-
  

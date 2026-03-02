@@ -215,7 +215,7 @@
         "height": 200
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Fit Editor"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -328,10 +328,10 @@
   "imageAlignmentDefaultAlignment": "left",
   "imageAlignmentCacheCleanupInterval": 0,
   "imageAlignmentCacheLocation": "config",
-  "isDragResizeEnabled": true,
+  "isDragResizeEnabled": false,
   "isScrollResizeEnabled": true,
   "isDragAspectRatioLocked": true,
-  "isResizeInReadingModeEnabled": true,
+  "isResizeInReadingModeEnabled": false,
   "resizeSensitivity": 0.1,
   "scrollwheelModifier": "Shift",
   "isImageResizeEnbaled": true,

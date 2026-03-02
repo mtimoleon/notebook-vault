@@ -492,3 +492,4 @@ mongorestore \
 ## Links
 
 [Azure DocumentDB documentation](https://learn.microsoft.com/en-us/azure/documentdb/overview)
+[Comparison by Mongo](https://www.mongodb.com/resources/compare/mongodb-vs-cosmos-db)
