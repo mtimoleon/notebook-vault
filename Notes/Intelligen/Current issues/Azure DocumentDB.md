@@ -440,7 +440,7 @@ Indexing affects cost/performance πως:
     - max compound fields = 32 — σελ. 484
     - max indexes per collection = 64 default / 300 configurable — σελ. 484
     - μόνο 1 text index per collection — σελ. 485
-5. Index build behaviour
+5. Index build behavior
     - Background indexing async — σελ. 532
     - Unique index build = foreground blocking — σελ. 533
 6. Query execution characteristics
@@ -454,4 +454,4 @@ Indexing affects cost/performance πως:
 ---
 
 - [What is Azure DocumentDB?](https://learn.microsoft.com/en-us/azure/documentdb/overview)
-[[Azure DocumentDB-20260302.pdf]]
+[[Azure DocumentDB-20260304.pdf]]

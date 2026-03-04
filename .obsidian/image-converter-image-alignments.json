@@ -833,6 +833,12 @@
       "width": "",
       "height": "",
       "wrap": false
+    },
+    "10dae121b8912222e7a87610ec09035e": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
     }
   },
   "Notes/Auth/Current Issues/Backlog.md": {
@@ -937,122 +943,6 @@
       "wrap": false
     }
   },
-  "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md": {
-    "ee86d1666ebef35633796315c411cf91": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "56d34f21cdad639e6124a75e32722545": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "d2e941ff7e50cf227aa4cab86a37b620": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "6328dcc00297b72b0549443b96897ef3": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "2a95b53dc31467d8df2bd398040fb39c": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "c96d90fc82d8e16cb29cf27e8d08e12e": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "933368760c4b8956e0b01f0f9ac8e1cc": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "fae0d457a64c383a15ee4b3d9d891e5d": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "5e61c569963bfc261e2065359b563cab": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "4c7d4775231cb50219804a9c69525ac6": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "6fcc78d4e103822400feee9d9ac859d4": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "c92ce13b2465cc8e7bd57217259ac13d": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "9e504ea22053fd4d5353830800e9ffb1": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "df372363bb119aa5f23af407c39ec611": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "52a75ed63c7f2249441249d65db54bd3": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "c665ee0bfa264fc2f9d5e344f9b34f1f": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "b733e1340774be0e05e056def3514976": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "ce184d7e7d79906bb3d41ebc01013c51": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "04ad7104f8ffeeb2429ac096cd039846": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "Notes/Resources/Code/Docker notes.md": {
     "d7d4a6ca963d18c690a13189fb55f626": {
       "position": "left",
@@ -1079,6 +969,30 @@
       "wrap": false
     },
     "0cb4b23088ecf6acd2bdd513b15e792f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "33c49431227744d2540965e88a722fd3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "29077b0140ce1bead2adfe1518b12867": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "d7028924e11d0e911468954f2e254eea": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "91617791116f3ba727580439531518eb": {
       "position": "left",
       "width": "",
       "height": "",
@@ -1719,44 +1633,6 @@
       "wrap": false
     }
   },
-  "Current/2026-scratch-pad.md": {
-    "f6a501800d90f215e8f25232c5797c94": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "47b73f7eaa8baf902c4fce3dfbcbc2fc": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "8388d9519bf545a4dd1cb51013fc50ff": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "ad1f5db974dbaaaabddf524b90209975": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "408ae06e13b7361e5d1bd278041ffcf7": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "07d69c79cbe76ab387c2123710940c45": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "Notes/Home/Επιχείρηση/Τιμολόγηση.md": {
     "c296d30e438a3c1326653e74d58cefb0": {
       "position": "left",
@@ -2183,50 +2059,6 @@
       "wrap": false
     }
   },
-  "Clippings/Azure DocumentDB.md": {
-    "f02f422c07041f68085b1b31f5feb8ee": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "3b9d35186939ea997fbef15c1c5a95bb": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "52d64427ddbff26de200d16da44cdac1": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "3209b66057972e1911a483cc1a275dba": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "a1e0da5438d904a528678281248d3579": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "96ca2f398570085f05370a314ec4d1d0": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    },
-    "5219126c0150410870d7d8259908f0bd": {
-      "position": "left",
-      "width": "",
-      "height": "",
-      "wrap": false
-    }
-  },
   "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf": {
     "553f6705c569fc75ffd15b8f410564db": {
       "position": "left",
@@ -2253,6 +2085,346 @@
       "wrap": false
     },
     "fc6716396a6d62f3b6beec0ab53a6633": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Ταξίδι/Ασφάλεια-1.md": {
+    "6eb375c9779483b1010b55d387652219": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "6288f0dc88444915795dc5bf82e079e3": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "aaf15e253298782b71b50e74ce5bc771": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "db519218162f536cab033f579f2bda25": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "cbd61cbc7944cc276a4eefd81cca4e4a": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "17a6599fc24020395164e93322ffc959": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fecfe1d238d461d2b1b2001ff6c6be9c": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4cd06589403f0db8e4b6526877958816": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "243d0ff5e58ed68a807ecdf7ee24101b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5cac74778455e2b194fbb71906ead1f5": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "305111d3e687e1c2fa1763543fbb2910": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "297a1082f69f8cfd9eff80072b585778": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Ταξίδι/Ασφάλεια-2.md": {
+    "aef3a860c62be883d76404497502d58d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "5279bafa14454f94c10132dd782d0996": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "556f9ff828984e7ec0e1225163041617": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a88dcfcf049cd531b346504025fe60fb": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "036ee0a6960c4539b8a30f6744679932": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "543590e012c69ff58107ab14edaad2b2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4c1f2e987a81657749415513f4471973": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4aba3abee4fa661c046a6ba49b599441": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "c1a95cd7b1bb6d802853c61b6ac0c215": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "13805ec9eebcd15058645e9165433818": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "eb21ce063475f9f68b4c8843dcb92e3d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "014ef1b9d736cc76c949d4565f4c8f43": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Ταξίδι/Διαβατήριο.md": {
+    "1c41f10055a6fe1f73a8fb7bc7ae42f2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "e76066f40606d769067c1148a4320669": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "af3032b790ec597fcd40fb3b2087e188": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "fc24b465db102c26820f6698b5c510cf": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "4c3344785f7d775594f2079d50ad0549": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Ταξίδι/Διαδρομή 2.md": {
+    "cdedecad37387445c7eb71f07450b227": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0237e0311208ef2e5df5ac6317060955": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "54ac72bcb1070bddaeffb3f9d34aa4ee": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "86aa87c4a62c5e6e85997f92c427e8d9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "01a455ea62a71cec5dd62598de0512aa": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα.md": {
+    "5e9653eb5944320f8097652d66689da7": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8f4fddbba2e3128791b0705863fd3793": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "0f7625c4bcd9e83ecea60f5b76640f1b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a524d9207c359da9c8c34a10ab7765d9": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "935abfe2ddc844c3e0ee7e5b896803f2": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης.md": {
+    "8d6d66c8794afafd954bd81cea004caa": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "2070997123cb26d5b02e76ef20341235": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "423d54c6cc9cadcaad98f02fc65cb17d": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dedf9ba7f2cd42448e17f99a7a48f772": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "44c7ada864a162a2fae8dabeb072f9bc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md": {
+    "d12dddf84b22a363475a9143de50a43f": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "a9404259e115780d189985f7b29982d5": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "9dfa37b00888f44ea00f7c42aa884d98": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "287feb191d0c6b99b3d87d56fa0b7f4b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "89f4a916f9c641396a213918aadc2a6b": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Current/2026-scratch-pad.md": {
+    "07d69c79cbe76ab387c2123710940c45": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "47b73f7eaa8baf902c4fce3dfbcbc2fc": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "8388d9519bf545a4dd1cb51013fc50ff": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "ad1f5db974dbaaaabddf524b90209975": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "408ae06e13b7361e5d1bd278041ffcf7": {
       "position": "left",
       "width": "",
       "height": "",

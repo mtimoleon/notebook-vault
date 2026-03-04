@@ -1,8 +1,15 @@
 ---
 created: 2026-02-14
 ---
-- [ ] Λάσυ βαλιτσάκι
-![[2026-scratch-pad-20260221.png]]
+
+
+ 
+ipereira@hovione.com operator 79eb3abe-d61e-472c-886b-1665f7d8dcbe
+rbento@hovione.com operator 64b414a7-0dda-44c5-b93d-2b818746b7a4
+
+
+
+
 
 ```
 c:\Code\ScpCloud>docker compose -f "C:\Code\ScpCloud\docker-compose.yml" - "C:\Code\ScpCloud\docker-compose. override.ym1" - "C:\Code\ScpCloud\docker-compose.azure.yml" build nosqldata

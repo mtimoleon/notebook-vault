@@ -7,6 +7,40 @@ component: Docker
 tags:
   - documentation/intelligen
 ---
+- PlanningEocChart.jsx:1285 και στα επόμενα
+  επειδή το string είναι interpolated κάνει evaluation πριν φτάσει εκεί οπότε αν το operation είναι null θα σκάσει.
+- Στο library έχουμε useUTC αλλά στο caption text δεν το λαμβάνει υπόψη.
+- Νομίζω ότι δείχνεις tooltip και σε break bars; Το θέλουμε αυτό;
+- Το tooltip χρειάζεται pointer events none για να μην κάνει flicker.
+- .tooltip css class είναι generic και μπορεί να χαλάει άλλα tooltip. Καλύτερα .gantt-tooltip
+
+
+Όταν ένα tooltip εμφανίζεται *πάνω* από το element που “hover-άρεις”, μπορεί να “κλέψει” τα pointer events.
+Στο δικό σου `Tooltip.jsx` έχεις:
+- όταν φαίνεται: `pointerEvents: "auto"` (`WebApps/CommonSpa/libraries/fluidence-gantt/components/Tooltip.jsx:209`)
+- όταν κρύβεται: `pointerEvents: "none"`
+Τι πάει στραβά:
+1) Ο χρήστης έχει τον κέρσορα πάνω σε bar → γίνεται `onPointerMove/onPointerEnter` στο bar και καλείς `tooltipRef.current.show(...)`.
+2) Το tooltip εμφανίζεται με `position: fixed` και μεγάλο `z-index` (CSS `z-index: 99999` στο `gantt.css`), άρα μπορεί να βρεθεί *κάτω από τον κέρσορα*.
+3) Επειδή έχει `pointer-events: auto`, ο browser θεωρεί ότι τώρα ο κέρσορας είναι “πάνω στο tooltip”, όχι “πάνω στο bar”.
+4) Το bar παίρνει `pointerleave` → εσύ καλείς `hide()` στο `onPointerLeave`.
+5) Το tooltip εξαφανίζεται, ο κέρσορας ξαναβρίσκεται πάνω στο bar → ξαναεμφανίζεται.
+Αυτό δημιουργεί flicker/τρέμουλο και “σπασμένο” hover.
+Για tooltips που είναι καθαρά display (όχι clickable), η συνήθης λύση είναι:
+- να έχει το tooltip **πάντα** `pointer-events: none` ώστε να μη μπορεί ποτέ να intercept-άρει hover/move/leave από το bar.
+Αν κάποια στιγμή θες tooltip με clickable περιεχόμενο, τότε χρειάζεται διαφορετικό interaction model (π.χ. open on click, ή delay + hover state που λαμβάνει υπόψη και tooltip, κτλ.).
+
+
+**Code quality / Performance**
+- onPointerMove καλεί αρκετά “βαριά” computations σε κάθε mouse move (merge/subtract intervals + πολλαπλά getBoundingClientRect) μέσα στο BarChart.jsx (WebApps/CommonSpa/libraries/fluidence-gantt/components/BarChart.jsx:373 και χρήση στο :913), κάτι που μπορεί να κοστίσει σε μεγάλους πίνακες. Συνήθως θες throttle με requestAnimationFrame ή να κάνεις update μόνο όταν αλλάζει target bar / segment.
+- Στο Tooltip.jsx χρησιμοποιείς autoUpdate μόνο σαν “scheduler” (ok), αλλά το positioning logic είναι custom και αρκετά “tight” (π.χ. const left = maxLeft; WebApps/CommonSpa/libraries/fluidence-gantt/components/Tooltip.jsx:110) → το tooltip θα “κολλάει” προς μια πλευρά, όχι ιδανικό οπτικά.
+
+
+​
+
+
+
+
 Docker compose command to build BE:
 
 ```bash

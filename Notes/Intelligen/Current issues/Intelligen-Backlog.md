@@ -22,7 +22,7 @@ product: ScpCloud
       ![[intelligen-Backlog-image-5.png|409x301]]
 - [ ] [ ] Labor chart in production
       Include in the tracking update, the OperationEntry labor resources
-      ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-1.png|423x349]]
+      ![[Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-1.png|628]]
       
       ![[intelligen-Backlog-image-1.png|423x349]]
       ![[intelligen-Backlog-image-3.png|472x411]]

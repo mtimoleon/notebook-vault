@@ -60,14 +60,14 @@
             }
           },
           {
-            "id": "1e49f94dcd047520",
+            "id": "f686db023ca178d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Azure DocumentDB.md",
+                "file": "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -80,23 +80,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Azure DocumentDB"
-            }
-          },
-          {
-            "id": "2f8ceca565820613",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Azure DocumentDB-20260302"
+              "title": "536-Replace-MongoDB-with-DocumentDB"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +150,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 41.56976744186047,
+        "dimension": 37.5,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -170,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Azure DocumentDB-20260302"
+              "title": "Backlinks"
             }
           },
           {
@@ -231,11 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Clippings/Quickstart - C driver - Azure DocumentDB.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Quickstart - C driver - Azure DocumentDB"
+              "title": "File properties"
             }
           },
           {
@@ -249,12 +234,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 25.678294573643413,
+        "dimension": 24.9031007751938,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -262,13 +247,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Azure DocumentDB-20260302"
+              "title": "Outline"
             }
           }
         ]
@@ -276,7 +260,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 32.751937984496124,
+        "dimension": 37.5968992248062,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -298,6 +282,45 @@
               "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "befd140908838c99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121096,
+                  "close": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph of 536-Replace-MongoDB-with-DocumentDB"
             }
           }
         ]
@@ -324,14 +347,26 @@
   },
   "active": "4a8b8a265069ca66",
   "lastOpenFiles": [
-    "Clippings/Azure DocumentDB.md",
-    "Clippings/assets/Azure DocumentDB/Azure DocumentDB-20260302.pdf",
+    "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md",
+    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
+    "Notes/Resources/Code/Docker notes.md",
+    "Current/2026-scratch-pad.md",
+    "Notes/Intelligen/assets/Current issues/536-Replace-MongoDB-with-DocumentDB",
+    "Notes/Intelligen/Current issues/Azure DocumentDB.md",
+    "Notes/Intelligen/assets/Current issues/Azure DocumentDB",
+    "Notes/Auth/Current Issues/Current.md",
+    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα.md",
+    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης.md",
+    "Notes/Home/Ταξίδι/Διαδρομή 2.md",
+    "Notes/Home/Ταξίδι/Διαβατήριο.md",
+    "Notes/Home/Ταξίδι/Ασφάλεια-2.md",
+    "Notes/Home/Ταξίδι/Ασφάλεια-1.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
+    "Notes/Intelligen/assets/Current issues/Azure DocumentDB/Azure DocumentDB-20260304.pdf",
     "Categories/Work.md",
     "Clippings/assets/Azure DocumentDB",
     "Clippings/assets",
-    "Notes/Intelligen/Current issues/DocumentDB-MongoDB test.md",
-    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
-    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
     "Clippings/Vector Data in .NET - Building Blocks for AI Part 2.md",
     "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας.md",
     "Clippings",
@@ -339,8 +374,6 @@
     "Notes/Home/assets/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας",
     "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/CLAIM_OTHERCOUNTRIES.pdf.md",
     "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Κάτοικος εξωτερικού.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
-    "Current/2026-scratch-pad.md",
     "Current/Organize obsidian.md",
     "Categories/Intelligen Issues.md",
     "Current/Drawing 2026-02-16 22.29.48.excalidraw.md",
@@ -350,21 +383,12 @@
     "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw",
     "Notes/Home/Games/QUERN.md",
     "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Checklist – Τι Έχω Μέσα Στο Πορτμπαγκάζ.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λίστα Ελέγχου – 7 Ημέρες Πριν την Αναχώρηση.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Wurzburg.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Szeged.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/St. Polten.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Nis.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/ToDo list for traveling.md",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772191097275.png",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Notes/Intelligen/assets/Current issues/DocumentDB-MongoDB test",
     "Notes/Intelligen/assets/Current issues/DocumentDB - MongoDB test",
-    "Notes/Intelligen/assets/Current issues/DocumentDB as alternative to MongoDB test",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "Excalidraw/Scripts/Downloaded",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772028170729.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image.png",

@@ -268,7 +268,7 @@ DocumentDb results:
  "numBlocksFromDisk": 34185
 }
 ```
-![[DocumentDB-MongoDB test-20260226.png|300]]
+![[536-Replace-MongoDB-with-DocumentDB-20260304.png|300]]
 
 
 MongoDB results:
@@ -311,7 +311,7 @@ MongoDB results:
 }
 ```
 
-![[DocumentDB-MongoDB test-20260226 1.png]]
+![[536-Replace-MongoDB-with-DocumentDB-20260304 1.png]]
 
 ##### Run sync on big recipe schedule
 
@@ -489,7 +489,36 @@ mongorestore \
 4. Monitor the terminal output from _mongoimport_. The output prints lines of text to the terminal with updates on the restore operation's status.
 
 
-## Links
 
+mongodb://user:pass@localhost:27017/?tls=true&tlsAllowInvalidCertificates=true&tlsAllowInvalidHostnames=true&replicaSet=rs0&directConnection=true
+
+mongodb://user:pass@localhost:10260/?tls=true&tlsInsecure=true&directConnection=true
+
+
+
+
+
+### Other notes
+
+If we want to access internal PostgreSQL from outside container:
+
+```
+  nosqldata-documentdb:
+    container_name: nosqldata-documentdb
+    ports:
+      - "10260:10260"
+      #- "15432:9712" Use this to expose internal postgres
+    command: ["--skip-init-data"]
+    environment:
+      - USERNAME=user
+      - PASSWORD=pass
+      #- ALLOW_EXTERNAL_CONNECTIONS=true , Use this to expose internal postgres
+    volumes:
+      - scp-nosqldata-documentdb:/data
+```
+
+
+#### Links
 [Azure DocumentDB documentation](https://learn.microsoft.com/en-us/azure/documentdb/overview)
+​
 [Comparison by Mongo](https://www.mongodb.com/resources/compare/mongodb-vs-cosmos-db)
