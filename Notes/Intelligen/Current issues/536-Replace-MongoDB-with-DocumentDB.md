@@ -519,6 +519,6 @@ If we want to access internal PostgreSQL from outside container:
 
 
 #### Links
+[[Azure DocumentDB Notes]]
 [Azure DocumentDB documentation](https://learn.microsoft.com/en-us/azure/documentdb/overview)
-​
-[Comparison by Mongo](https://www.mongodb.com/resources/compare/mongodb-vs-cosmos-db)
+​[Comparison by Mongo](https://www.mongodb.com/resources/compare/mongodb-vs-cosmos-db)

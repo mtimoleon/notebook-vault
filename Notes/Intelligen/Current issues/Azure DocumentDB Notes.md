@@ -14,7 +14,7 @@ tags:
   - topic/databases
   - tech/Azure
 ---
-## Quickstart: Use Azure DocumentDB with MongoDB driver for C#
+## How to: Use Azure DocumentDB with MongoDB driver for C#
 
 In this quickstart, you create a basic Azure DocumentDB application using C#. Azure DocumentDB is a NoSQL data store that allows applications to store documents in the cloud and access them using official MongoDB drivers. This guide shows how to create documents and perform basic tasks in your Azure DocumentDB cluster using C#.
 
@@ -315,6 +315,14 @@ When you're done with the Azure DocumentDB cluster, you can delete the Azure res
 Αναθεωρημένη ανάλυση σημείων 5 και 6 με αναφορά **σελίδας PDF** από το αρχείο
 
 ---
+
+
+### Azure deployment
+
+![[Intelligen-Notes-1772635195888.png|784]]
+
+![[Intelligen-Notes-1772635875048.png|924]]
+
 ## Performance & throughput
 1. Scaling μοντέλο
     - Vertical scaling (CPU/RAM/storage) και horizontal scaling (sharding) — σελ. 418
@@ -454,4 +462,4 @@ Indexing affects cost/performance πως:
 ---
 
 - [What is Azure DocumentDB?](https://learn.microsoft.com/en-us/azure/documentdb/overview)
-[[Azure DocumentDB-20260304.pdf]]
+[[Azure DocumentDB Notes-20260304.pdf]]

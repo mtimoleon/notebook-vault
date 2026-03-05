@@ -62,12 +62,38 @@
           {
             "id": "f686db023ca178d3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md",
+                "file": "Notes/Intelligen/Current issues/Azure DocumentDB Notes.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Azure DocumentDB Notes"
+            }
+          },
+          {
+            "id": "1d59eb12154ab5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Home/Ταξίδι/Ημερολόγιο.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -80,11 +106,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "536-Replace-MongoDB-with-DocumentDB"
+              "title": "Ημερολόγιο"
+            }
+          },
+          {
+            "id": "138f3c5fc9868cdd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notes/Home/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-04 22.28.15.excalidraw"
+            }
+          },
+          {
+            "id": "9280235202ae0b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Home/Ταξίδι/Ημερολόγιο.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ημερολόγιο"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -116,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#issues/intelligen",
+                "query": "azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,7 +212,7 @@
       {
         "id": "3cee5bdb12ecd31b",
         "type": "tabs",
-        "dimension": 37.5,
+        "dimension": 36.337209302325576,
         "children": [
           {
             "id": "349422fd7dc42d3b",
@@ -158,6 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Home/Ταξίδι/Ημερολόγιο.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Ημερολόγιο"
             }
           },
           {
@@ -218,9 +281,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Notes/Home/Ταξίδι/Ημερολόγιο.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Ημερολόγιο"
             }
           },
           {
@@ -239,7 +304,7 @@
       {
         "id": "c159d314176b7de8",
         "type": "tabs",
-        "dimension": 24.9031007751938,
+        "dimension": 37.01550387596899,
         "children": [
           {
             "id": "43b65ca38b37f2a8",
@@ -247,12 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Home/Ταξίδι/Ημερολόγιο.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ημερολόγιο"
             }
           }
         ]
@@ -260,7 +326,7 @@
       {
         "id": "1114442bb95cf4fa",
         "type": "tabs",
-        "dimension": 37.5968992248062,
+        "dimension": 26.647286821705425,
         "children": [
           {
             "id": "4a8b8a265069ca66",
@@ -345,54 +411,54 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "4a8b8a265069ca66",
+  "active": "9280235202ae0b4e",
   "lastOpenFiles": [
-    "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md",
-    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
-    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
-    "Notes/Resources/Code/Docker notes.md",
+    "Current/News Digest.md",
     "Current/2026-scratch-pad.md",
-    "Notes/Intelligen/assets/Current issues/536-Replace-MongoDB-with-DocumentDB",
-    "Notes/Intelligen/Current issues/Azure DocumentDB.md",
-    "Notes/Intelligen/assets/Current issues/Azure DocumentDB",
-    "Notes/Auth/Current Issues/Current.md",
-    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα.md",
-    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης.md",
+    "Notes/Home/Ταξίδι/Ημερολόγιο.md",
+    "Notes/Home/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw.md",
+    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304225724_495.png",
+    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304224812_475.png",
+    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304224431_883.png",
+    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304223233_289.png",
+    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw",
+    "Notes/Home/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw.restored.md",
+    "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
+    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Θεσσαλονίκη-Ουτρέχτη-πλάνο.md",
     "Notes/Home/Ταξίδι/Διαδρομή 2.md",
     "Notes/Home/Ταξίδι/Διαβατήριο.md",
+    "Notes/Intelligen/Current issues/Azure DocumentDB Notes.md",
+    "Notes/Home/Κοινόχρηστα/Συνέλευση 26-01.md",
+    "Notes/Home/Κοινόχρηστα/Συνέλευση 23-02.md",
+    "Notes/Auth/Current Issues/Current.md",
+    "Notes/Home/assets/Κοινόχρηστα/Συνέλευση 26-01",
+    "Notes/Auth/Current Issues/Backlog.md",
+    "Notes/Home/Κοινόχρηστα/Κοστολόγηση εργασιών μόνωσης.md",
+    "Notes/Home/assets/Κοινόχρηστα/Συνέλευση 26-01/Συνέλευση 26-01-20260304.png",
+    "Notes/Home/Κοινόχρηστα/Πιεστικό.md",
+    "Notes/Home/Επιχείρηση/Ρύθμιση τιμολόγιο.md",
+    "Notes/Home/Επιχείρηση/myPOS.md",
+    "Notes/Home/Επιχείρηση/ΚΑΔ.md",
+    "Notes/Home/Επιχείρηση/Τιμολόγηση.md",
+    "Notes/Intelligen/assets/Current issues/Azure DocumentDB Notes",
+    "Notes/Intelligen/Current issues/536-Replace-MongoDB-with-DocumentDB.md",
+    "Notes/Intelligen/Current issues/Intelligen-Notes.md",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Notes/Intelligen-Notes-1772635875048.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Notes/Intelligen-Notes-1772635195888.png",
+    "Notes/Intelligen/assets/Current issues/Intelligen-Notes",
+    "Notes/Resources/Code/Docker notes.md",
+    "Notes/Intelligen/assets/Current issues/536-Replace-MongoDB-with-DocumentDB",
+    "Notes/Intelligen/assets/Current issues/Azure DocumentDB",
+    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα.md",
+    "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης.md",
     "Notes/Home/Ταξίδι/Ασφάλεια-2.md",
-    "Notes/Home/Ταξίδι/Ασφάλεια-1.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Κρατήσεις/Κρατήσεις-συγκεντρωτικό.md",
-    "Notes/Intelligen/assets/Current issues/Azure DocumentDB/Azure DocumentDB-20260304.pdf",
-    "Categories/Work.md",
+    "Notes/Intelligen/assets/Current issues/Azure DocumentDB Notes/Azure DocumentDB Notes-20260304.pdf",
     "Clippings/assets/Azure DocumentDB",
     "Clippings/assets",
-    "Clippings/Vector Data in .NET - Building Blocks for AI Part 2.md",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας.md",
     "Clippings",
     "Notes/Home/assets/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας/Μεταφορά φορολογικής κατοικίας-1772382232000.png",
-    "Notes/Home/assets/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/CLAIM_OTHERCOUNTRIES.pdf.md",
-    "Notes/Home/Αλέξανδρος/Κάτοικος εξωτερικού/Κάτοικος εξωτερικού.md",
-    "Current/Organize obsidian.md",
-    "Categories/Intelligen Issues.md",
-    "Current/Drawing 2026-02-16 22.29.48.excalidraw.md",
-    "Current/assets/Organize obsidian/Drawing 2026-02-16 17.37.03.excalidraw.md",
-    "Current/News Digest.md",
     "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw/Pasted Image 20260228153244_864.png",
-    "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw",
-    "Notes/Home/Games/QUERN.md",
-    "Notes/Home/Ταξίδι/Θεσσαλονίκη-Ουτρέχτη/Λίστες/Λεπτομερής Λίστα Ελέγχου Αυτοκινήτου – 7 Ημέρες Πριν.md",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772191097275.png",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Notes/Intelligen/assets/Current issues/DocumentDB-MongoDB test",
-    "Notes/Intelligen/assets/Current issues/DocumentDB - MongoDB test",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772028170729.png",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/image.png",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image.png",
-    "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/intelligen-Backlog-image-8.png",
     "Test/Untitled 1.canvas",
     "Test/attachements/batch-c-0-deps.canvas",
     "Test/Untitled/Untitled.canvas"

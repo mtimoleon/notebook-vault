@@ -6,29 +6,24 @@ product:
 component:
 tags: []
 ---
+- [ ] RAISE - To be able to download my own datasets, send email with link to download it.
+- [ ] RAISE - Add credit system 
+
 [RAISE DMP deliverable](https://aristotleuniversity.sharepoint.com/:w:/s/RAISESuite/IQDZj4A2Uir5R4dhFD49Y9aUActhVbp7UVZqZCl8iOYSP-4?rtime=7tSQlq103kg)
 
-[https://assos-auth.atlassian.net/browse/RAI-199](https://assos-auth.atlassian.net/browse/RAI-199)  
-Show refresh button when frontend is updated
- - **ΓΕΝΙΚΑ** - **ACCELUP** - **E-CONSENT**
-- **RAISE** - # **PANEL MANAGEMENT**
-    
-    - [ ] Delete interactions when we delete a user only.  
-    - [ ] Check automapper for typescript (PM-server)  
-    - [ ] Add consent templates  
-    - [ ] Add project consents  
-    - [ ] Add a link to panel management public search in vitalise project website
-    
-    - [Notes](Notes/Projects/enoll/Notes.md)
-    - Other ideas for the application  
+
+### **RAISE** - # **PANEL MANAGEMENT**
+
+- [ ] Delete interactions when we delete a user only.  
+- [ ] Check automapper for typescript (PM-server)  
+- [ ] Add consent templates  
+- [ ] Add project consents  
+- [ ] Add a link to panel management public search in vitalise project website
+      [Notes](Notes/Projects/enoll/Notes.md)
+      Other ideas for the application  
 - [ ] Fix user for mysql @ raise2vm and raise service use  
 - [ ] Check panel management backup info and logs backups  
-- [ ] RCN zombi processes ==@Nikos==
-[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpwvDFGkNXdwMkVBhWlCfHTld)  
-- [ ] e-consent  
-- [x] **Blockchain**
-==Database choose==
-Generic schema
+
  
 - [ ] ==Statistics==  
 - [ ] Update sto UI ==@Petsani,==  
@@ -48,13 +43,13 @@ Generic schema
    
 
 - [ ] EMQX 5.8.9
-[https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.html](https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.htmlhttps://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.htmlhttps://github.com/emqx/emqx/tree/v5.8.9)
-https://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.html
-https://github.com/emqx/emqx/tree/v5.8.9**
-**  
+      [https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.html](https://docs.emqx.com/en/emqx/v5.8/admin/api-docs.htmlhttps://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.htmlhttps://github.com/emqx/emqx/tree/v5.8.9)
+      https://docs.emqx.com/en/emqx/v5.8/getting-started/new-features.html
+      https://github.com/emqx/emqx/tree/v5.8.9
+
 - [ ] Get RAISE installer/RCN ==security== suggestions ==@Nikos, also Hernandez sent email==
-[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJB](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJBhttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz)
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz  
+	[https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJB](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqHXNpPLrzMVHcwrldzpPhhJBhttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz)
+	https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcqbVqWrPwxStStLzTgvDZRRXz  
 - [ ] RAISE Architecture draw.io [https://drive.google.com/file/d/180BgZ3nkKciSbHpNjbQWC0OrmYDHu02n/view?usp=sharing](https://drive.google.com/file/d/180BgZ3nkKciSbHpNjbQWC0OrmYDHu02n/view?usp=sharing)  
 - [ ] Dataset hash  
 - [ ] New script languages  
@@ -69,7 +64,7 @@ Create endpoint to serve data for UoM graph ==Evelina==
 - OAI-PMH Implementation Guidelines (openarchives.org) [https://www.openarchives.org/OAI/2.0/guidelines.htm](https://www.openarchives.org/OAI/2.0/guidelines.htm)  
 - OpenAIRE Guidelines for Data Archives — OpenAIRE Guidelines documentation [https://guidelines.openaire.eu/en/latest/data/index.html](https://guidelines.openaire.eu/en/latest/data/index.html)  
 - Overview | OpenAIRE Graph Documentation [https://graph.openaire.eu/docs/](https://graph.openaire.eu/docs/)  
-**– Currently in planning (****από το προηγούμενο** **project)**  
+**– Currently in planning (από το προηγούμενο project)**  
 Nikos from UOWM has been trying to see what information will go to the XMLs needed to be send to OPENAIRE  
 We need to “translate” the required information to what we already keep in the database  
 Create the endpoint  

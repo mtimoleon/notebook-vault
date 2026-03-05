@@ -7,6 +7,9 @@ component: Docker
 tags:
   - documentation/intelligen
 ---
+
+
+
 - PlanningEocChart.jsx:1285 και στα επόμενα
   επειδή το string είναι interpolated κάνει evaluation πριν φτάσει εκεί οπότε αν το operation είναι null θα σκάσει.
 - Στο library έχουμε useUTC αλλά στο caption text δεν το λαμβάνει υπόψη.
