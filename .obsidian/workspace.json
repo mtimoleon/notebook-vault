@@ -115,7 +115,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Notes/Home/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw.md"
+                "file": "Notes/Home/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-03-04 22.28.15.excalidraw"
@@ -411,16 +411,21 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "9280235202ae0b4e",
+  "active": "d6f834d67aedd82d",
   "lastOpenFiles": [
+    "Notes/Home/assets/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw",
+    "Notes/Home/assets/assets/Ταξίδι/Ημερολόγιο",
+    "Notes/Home/assets/assets/Ταξίδι",
+    "Notes/Home/assets/assets",
+    "Notes/Home/assets/Ταξίδι/Ημερολόγιο",
     "Current/News Digest.md",
     "Current/2026-scratch-pad.md",
     "Notes/Home/Ταξίδι/Ημερολόγιο.md",
-    "Notes/Home/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw.md",
-    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304225724_495.png",
-    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304224812_475.png",
-    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304224431_883.png",
-    "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw/Pasted Image 20260304223233_289.png",
+    "Notes/Home/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw.md",
+    "Notes/Home/assets/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw/Drawing 2026-03-04 22.28.15.excalidraw-20260305.png",
+    "Notes/Home/assets/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw/Drawing 2026-03-04 22.28.15.excalidraw-20260305 1.png",
+    "Notes/Home/assets/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw/Drawing 2026-03-04 22.28.15.excalidraw-20260305 2.png",
+    "Notes/Home/assets/assets/Ταξίδι/Ημερολόγιο/Drawing 2026-03-04 22.28.15.excalidraw/Drawing 2026-03-04 22.28.15.excalidraw-20260305 3.png",
     "Notes/Home/assets/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw",
     "Notes/Home/Ταξίδι/Drawing 2026-03-04 22.28.15.excalidraw.restored.md",
     "Notes/Intelligen/Current issues/Intelligen-Backlog.md",
@@ -451,11 +456,6 @@
     "Notes/Intelligen/assets/Current issues/Azure DocumentDB",
     "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μάδγα.md",
     "Notes/Home/Υγεία/Ερωπαϊκή κάρτα ασφάλισης Μιχάλης.md",
-    "Notes/Home/Ταξίδι/Ασφάλεια-2.md",
-    "Notes/Intelligen/assets/Current issues/Azure DocumentDB Notes/Azure DocumentDB Notes-20260304.pdf",
-    "Clippings/assets/Azure DocumentDB",
-    "Clippings/assets",
-    "Clippings",
     "Notes/Home/assets/Αλέξανδρος/Κάτοικος εξωτερικού/Μεταφορά φορολογικής κατοικίας/Μεταφορά φορολογικής κατοικίας-1772382232000.png",
     "Current/assets/Drawing 2026-02-16 22.29.48.excalidraw/Pasted Image 20260228153244_864.png",
     "Notes/Intelligen/assets/Current issues/Intelligen-Backlog/Intelligen-Backlog-1772191097275.png",
