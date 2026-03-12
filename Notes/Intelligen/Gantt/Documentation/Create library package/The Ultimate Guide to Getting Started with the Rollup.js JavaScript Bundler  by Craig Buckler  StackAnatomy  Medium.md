@@ -3,8 +3,7 @@ categories:
   - "[[Work]]"
 created: 2024-05-14
 product: Gantt
-component:
-  - Keycloak
+component: Keycloak
 tags:
   - topic/code/packaging
   - documentation/intelligen/gantt

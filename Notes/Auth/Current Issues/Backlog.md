@@ -34,20 +34,22 @@ pipeline {
     }
 }
 ```
- - [ ] Upgrade application packages to latest versions  
+- [ ] Upgrade application packages to latest versions  
 - [ ] Deploy to the new server  
 - [x] Check flow described here: [https://docs.google.com/document/d/1T-OAsXGD2NHtFzlLksog1PB3c1vnLGAF/edit](https://docs.google.com/document/d/1T-OAsXGD2NHtFzlLksog1PB3c1vnLGAF/edit)  
-- [ ] Add api endpoints
+- [ ] Add api endpoint
+```
 UserRole {  
-User = 0,  
-SuperUser = 1,  
-Admin = 2,  
-SuperAdmin = 3,  
+	User = 0,  
+	SuperUser = 1,  
+	Admin = 2,  
+	SuperAdmin = 3,  
 }
 sub {  
-service  
-user  
+	service  
+	user  
 }
+```
 - First we need an account id: 1616d626-026f-11eb-ba9c-00505692f913
 - Then add a user for this account id with role 2, Admin
 - Then we need to create the admin token for this account, using the appropriate secret base64 encoded, also in the dev app temprarily we do not check for token expiration
@@ -55,26 +57,28 @@ user
 - Then add a subject
 - Then upload a template
 - Ask for consent
+```
 {  
-"_id": {  
-"$oid": "62de84768105f58c68b20e94"  
-},  
-"contactMethods": [],  
-"accountId": "1616d626-026f-11eb-ba9c-00505692f913",  
-"role": 2,  
-"firstname": "mi",  
-"lastname": "timo",  
-"email": "mitimo@gmail.com",  
-"__v": 0  
+	"id": {  
+	"$oid": "62de84768105f58c68b20e94"  
+	},  
+	"contactMethods": ,  
+	"accountId": "1616d626-026f-11eb-ba9c-00505692f913",  
+	"role": 2,  
+	"firstname": "mi",  
+	"lastname": "timo",  
+	"email": "mitimo@gmail.com",  
+	"v": 0  
 }  
 {  
-"sub": "user",  
-"id": "62de842b8105f58c68b20e93",  
-"iat": 1516239022,  
-"exp": 1916239999,  
-"role": "Admin",  
-"accountId": "1616d626-026f-11eb-ba9c-00505692f913"  
+	"sub": "user",  
+	"id": "62de842b8105f58c68b20e93",  
+	"iat": 1516239022,  
+	"exp": 1916239999,  
+	"role": "Admin",  
+	"accountId": "1616d626-026f-11eb-ba9c-00505692f913"  
 }
+```
 - [ ] They will add a callback url in the study.  
 - [ ] When a user accepts, rejects or withraw consent we will post the relative information to their url.  
 - [ ] if they want different languages they have to create the corresponding Studies  
@@ -86,7 +90,7 @@ user
 
 [https://assos-auth.atlassian.net/browse/RAI-199](https://assos-auth.atlassian.net/browse/RAI-199)  
 Show refresh button when frontend is updated
- - **ΓΕΝΙΚΑ** - **ACCELUP** - **E-CONSENT**
+ 
 - **RAISE** - # **PANEL MANAGEMENT**
     - [ ] Delete interactions when we delete a user only.  
     - [ ] Check automapper for typescript (PM-server)  

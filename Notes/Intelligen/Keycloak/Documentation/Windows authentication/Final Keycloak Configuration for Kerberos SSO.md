@@ -3,8 +3,7 @@ categories:
   - "[[Work]]"
 created: 2025-05-07
 product:
-component:
-  - Keycloak
+component: Keycloak
 tags:
   - documentation/keycloak
 ---

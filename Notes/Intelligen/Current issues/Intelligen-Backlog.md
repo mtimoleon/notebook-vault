@@ -11,6 +11,9 @@ product: ScpCloud
 
 ### 25/2/2026
 
+- [ ] Implement tooltip @Gantt app
+- [ ] Replace NewtonsoftJson in tests with System.Text.Json
+- [ ] ==Create a mechanism to guarantee that we did not forget to add an entity into import/export service==
 - [ ] Bug in production chart view?
       The same applies to planning app also.
       ![[Intelligen-Backlog-1772191097275.png]]

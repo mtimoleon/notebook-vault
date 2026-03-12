@@ -6,13 +6,17 @@ product:
 component:
 tags: []
 ---
+### RAISE
+
 - [ ] RAISE - To be able to download my own datasets, send email with link to download it.
 - [ ] RAISE - Add credit system 
 
+[RSN Development Guide](Current-20260305.pdf)
 [RAISE DMP deliverable](https://aristotleuniversity.sharepoint.com/:w:/s/RAISESuite/IQDZj4A2Uir5R4dhFD49Y9aUActhVbp7UVZqZCl8iOYSP-4?rtime=7tSQlq103kg)
 
 
-### **RAISE** - # **PANEL MANAGEMENT**
+
+### PANEL MANAGEMENT
 
 - [ ] Delete interactions when we delete a user only.  
 - [ ] Check automapper for typescript (PM-server)  

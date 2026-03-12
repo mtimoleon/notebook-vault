@@ -517,6 +517,49 @@ If we want to access internal PostgreSQL from outside container:
       - scp-nosqldata-documentdb:/data
 ```
 
+#### Connection string
+
+```
+mongodb+srv://scpcloudadmin:<password>@scp-cloud-documentdb-cluster.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000
+```
+
+Στόχος: το connection string να **μην μπαίνει στο Docker image** (build args), αλλά να δίνεται **στο runtime** από το Azure ως **secret**.
+**Γιατί όχι build args**
+- `docker build --build-arg ...` μπορεί να καταλήξει σε image layers / build logs / ACR tasks history.
+- Όποιος έχει πρόσβαση στο image μπορεί να δει env vars που “ψήθηκαν” στο image.
+##### ==Azure Container Apps (ACA)==
+1) Δημιούργησε secret στο Container App
+- Portal: Container App → **Secrets** → Add
+- Όνομα π.χ. `documentdb-conn`
+2) Κάνε inject ως env var από secret
+- Portal: Container App → **Containers** → Environment variables → Add
+- Name: `ProductionDatabaseSettings__ConnectionString`
+- Source: **Secret reference**
+- Secret: `documentdb-conn`
+(Το ίδιο γίνεται και με `az containerapp secret set` + `az containerapp update --set-env-vars ...=secretref:...` αν το δουλεύετε με CLI.)
+##### Azure App Service (Web App for Containers)
+1) Βάλε το secret ως application setting (είναι “secret-ish”/encrypted at rest)
+- Portal: App Service → **Configuration** → Application settings → New
+- Name: `ProductionDatabaseSettings__ConnectionString`
+- Value: `<connection string>`
+- Save (κάνει restart)
+2) Αν χρησιμοποιείς Key Vault reference (καλύτερο)
+- Δημιούργησε secret στο Key Vault, π.χ. `documentdb-conn`
+- Στο App Service setting value βάλε:
+  - `@Microsoft.KeyVault(SecretUri=<secret-uri>)`
+- Θέλει managed identity + access policy / RBAC στο Key Vault.
+##### Kubernetes (AKS)
+1) Δημιούργησε K8s Secret
+- `kubectl create secret generic documentdb-conn --from-literal=conn='<connection string>'`
+2) Κάνε inject στο Deployment
+- env:
+  - name: `ProductionDatabaseSettings__ConnectionString`
+  - valueFrom:
+    - secretKeyRef: name `documentdb-conn`, key `conn`
+##### Πώς δένει με το repo σου
+- Στο `docker-compose.azure.yml:70` ήδη περιμένει runtime env var `ProductionDatabaseSettings__ConnectionString`.
+- Στο `Services/Production/Production.Api/Infrastructure/Database/DatabaseContext.cs:31` το app θα το διαβάσει από `ProductionDatabaseSettings__ConnectionString` (ή fallback, αν το αφήσεις).
+
 
 #### Links
 [[Azure DocumentDB Notes]]

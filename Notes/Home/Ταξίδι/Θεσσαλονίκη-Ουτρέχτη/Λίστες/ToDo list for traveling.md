@@ -22,7 +22,7 @@ tags:
 ##### Ι. Α. ΓΙΑΝΝΙΡΗΣ ΑΕ
 9ο ΧΛΜ ΘΕΣΣΑΛΟΝΙΚΗΣ - ΜΟΥΔΑΝΙΩΝ
 ΘΕΣΣΑΛΟΝΙΚΗ, 55535
-[+302310489489](https://www.citroen.gr/tools/)
++302310489489, 2310489100
 Web: [https://dealer.citroen.gr/giannirisae/](https://dealer.citroen.gr/giannirisae/)
 
 Δευτέρα:09:00-20:00  
@@ -31,6 +31,8 @@ Web: [https://dealer.citroen.gr/giannirisae/](https://dealer.citroen.gr/gianniri
 Πέμπτη:09:00-20:00  
 Παρασκευή:09:00-20:00  
 Σάββατο:09:00-15:00  
+
+
 
 #### Λάσυ
 - [ ] Λάσυ αγορά βαλιτσάκι ταξιδίου
